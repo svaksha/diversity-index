@@ -1,0 +1,9 @@
+__Alphabetical listing for country-wise scholarships and grants for women in STEM.__
+
+- [USA](#usa)
+
+
+## USA
+- [Delphix Technology](http://www.delphix.com/scholarship/)'s second annual [$5K programming scholarship for Women in Technology](http://www.delphix.com/2014/07/22/delphix-technology-scholarship/) is open to currently enrolled full-time women college students pursuing a technical degree such as computer science, mathematics, information technology, electrical engineering, or applied mathematics, who will still be full-time college students enrolled in 2015.
+
+
