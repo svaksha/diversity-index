@@ -1,5 +1,8 @@
 **[50](http://svaksha.github.io/50)** is a curated list of grants, scholarships, travel/financial aid for women from all over the world, being offered by conferences and companies sponsoring STEM education to encourage diversity in STEM fields among __half the world's population__.
 
+__PS__ :: Only those conferences that explicitly publish their grants and financial aid programs for women (and those who identify as one) will be listed here.  
+
+
 - [50](#50)
 - [LICENSE](#license)
    - [Mirrors](#mirrors)
@@ -7,7 +10,7 @@
 
 
 # 50
-- [Conferences.md](https://github.com/svaksha/50/blob/master/Conferences.md) :: Travel/financial aid and grant information for women attending conferences.
+- [Conferences.md](https://github.com/svaksha/50/blob/master/Conferences.md) :: Travel/financial aid and grant information for women attending or speaking at conferences.
 - [University.md](https://github.com/svaksha/50/blob/master/University.md) :: Scholarships for women pursuing STEM research and graduate studies at Universities. 
 
 
