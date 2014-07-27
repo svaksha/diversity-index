@@ -8,6 +8,7 @@
 
 # 50
 - [Conferences.md](https://github.com/svaksha/50/blob/master/Conferences.md) :: Travel/financial aid and grant information for women attending or speaking at conferences.
+- [SoC.md](https://github.com/svaksha/50/blob/master/SoC.md) :: Summer of Code programs for Women.
 - [University.md](https://github.com/svaksha/50/blob/master/University.md) :: Scholarships for women pursuing STEM research and graduate studies at Universities. 
 
 
@@ -19,7 +20,7 @@
 - [Cloudhost](https://git.cloudhost.io/svaksha/50) :: git clone git@git.cloudhost.io:svaksha/50.git
 
 ## Contributing
-If you know any conference, company or organization that funds diversity initiatives, feel free to submit a [pull request (PR)](https://github.com/svaksha/50/pulls). Some guidelines to submit a PR:
+If you know any company, conference, foundation or organization that funds diversity initiatives, feel free to submit a [pull request (PR)](https://github.com/svaksha/50/pulls). Some guidelines to submit a PR:
 
 - This is NOT a generic events or conference list, hence, only those conferences that explicitly publish their grants and financial aid programs for women (and those who identify as one) will be listed. For a generic events and conference list, use [Lanyrd](http://lanyrd.com/).
 - Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
