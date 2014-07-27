@@ -23,6 +23,7 @@ __PS__ :: Only those conferences that explicitly publish their grants and financ
 
 ## Contributing
 If you know any conference, company or organization that funds diversity initiatives, feel free to submit a [pull request (PR)](https://github.com/svaksha/50/pulls) by:
-- Adding your link as per the topic, in alphabetical order, with notes (if any) to the respective section in the markdown files.
+
+- Adding your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
 - For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR.
 
