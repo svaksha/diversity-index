@@ -7,7 +7,7 @@
 
 
 # 50
-- [Conferences.md](https://github.com/svaksha/50/blob/master/Events.md) :: Financial aid and travel grant information for women attending or speaking at barcamps, camps, conferences, events, meetups and unconferences.
+- [Events.md](https://github.com/svaksha/50/blob/master/Events.md) :: Financial aid and travel grant information for women attending or speaking at barcamps, camps, conferences, events, meetups and unconferences.
 - [SoC.md](https://github.com/svaksha/50/blob/master/SoC.md) :: Summer of Code programs for Women.
 - [University.md](https://github.com/svaksha/50/blob/master/University.md) :: Scholarships for women pursuing STEM research and graduate studies at Universities. 
 
@@ -27,7 +27,7 @@ Feel free to submit a [pull request (PR)](https://github.com/svaksha/50/pulls), 
 
 ### Guidelines for listing Events
 - This is NOT a generic events or conference list, hence, only those conferences that explicitly publish their grants and financial aid programs for women (and those who identify as one) will be listed. For a generic events and conference list, use [Lanyrd](http://lanyrd.com/).
-- Also, please dont list events that ask women to contact the organizers regarding FA grants as this places an extra burden on women to do the
+- Please dont list events that expect women to contact the organizers regarding FA grants as this places an extra burden on women to do the
 legwork of making their conference a success by begging for FA to speak at or attend it. @ashedryden has written a nice article on "[Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference)". 
 
 

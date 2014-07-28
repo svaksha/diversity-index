@@ -3,7 +3,10 @@
 - [ACM-Women](#acm-women)
 - [AdaCamp](#adacamp)
 - [GHC](#ghc)
+- [PyCon](#pycon)
+- [Rocky Mountain Ruby](#rocky-mountain-ruby)
 - [Strangeloop](#strangeloop)
+
 
 
 # ACM-Women
@@ -30,10 +33,12 @@ A language-agnostic conference dedicated to women (and those who identify as one
 
 
 # PyCon
-A Python conference.
 ### us.pycon.org
 - [Pycon-US](https://us.pycon.org/2015/assistance/) offers FA and you can submit an application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15thJan to enable people to attend the conference in March/April.
 
+
+# Rocky Mountain Ruby 
+[Rocky Mountain Ruby](http://rockymtnruby.com/) have an Opportunity Scholarship available! You can attend the conference for free and get paired with an awesome guide for the duration of the conference. [Application form is here](https://docs.google.com/forms/d/1g1nP_XVAMm06KyxiwBmtkWhU2p7juUPRJj9cNzpz5yU/viewform).
 
 
 # Strangeloop
