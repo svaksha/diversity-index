@@ -3,7 +3,7 @@
 - [50](#50)
 - [LICENSE](#license)
    - [Mirrors](#mirrors)
-- [CONTRIBUTING]#contributing)
+- [CONTRIBUTING](#contributing)
 
 
 # 50
