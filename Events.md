@@ -33,6 +33,8 @@ A language-agnostic conference dedicated to women (and those who identify as one
 
 - [PyGotham](http://pygotham.org/), Aug16-17, is offering 30 [registration scholarships](https://docs.google.com/forms/d/1PYFBd-vFKu_UguO9yeCYKMiI7I1FMbsa957a-ADzxwo/viewform) - 15 from their gold sponsors, [GitHub](http://github.com), [Percolate](http://percolate.com), and [Sycano](http://syncano.com) and their special silver sponsor, the [Python Software Foundation](https://www.python.org/psf) is offering another 15 scholarships!
 
+- [Facebook-ABI](https://code.facebook.com/atscale) partners to bring more women to @Scale in 2014 by offering a number of [reserved guaranteed registration for community of technical women](https://docs.google.com/forms/d/1UuZxxPVtXAj42V5jV5VgEZMMfpG7UecWyvZqjEvWHs0/viewform). The cost of registration is $250.
+
 
 # PyCon
 ### us.pycon.org
