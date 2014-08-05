@@ -31,6 +31,8 @@ A language-agnostic conference dedicated to women (and those who identify as one
         - Post-docs can register under student pricing.
         - If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
 
+- [PyGotham](http://pygotham.org/), Aug16-17, is offering 30 [registration scholarships](https://docs.google.com/forms/d/1PYFBd-vFKu_UguO9yeCYKMiI7I1FMbsa957a-ADzxwo/viewform) - 15 from their gold sponsors, [GitHub](http://github.com), [Percolate](http://percolate.com), and [Sycano](http://syncano.com) and their special silver sponsor, the [Python Software Foundation](https://www.python.org/psf) is offering another 15 scholarships!
+
 
 # PyCon
 ### us.pycon.org
