@@ -1,11 +1,19 @@
-__Alphabetical listing for country-wise scholarships and grants for women in STEM.__
+__Alphabetical listing for country-wise scholarships, fellowships and grants for women in STEM.__
 
 - [International Fellowships](#international-fellowships)
+   - [Doctoral Fellowships](#doctoral-fellowships)
 - [USA Fellowships](#usa-fellowships)
 
 # International Fellowships
 - [AAUW](http://www.aauw.org/what-we-do/educational-funding-and-awards/international-fellowships/) :: The AAUW International Fellowships are awarded for full-time study or research in the United States to *women who are not* U.S. citizens or permanent residents. Both graduate and postgraduate studies at accredited U.S. institutions are supported.
 - [Google Anita Borg Memorial Scholarship](http://www.google.com/anitaborg/) :: A scholarship for female undergraduate and graduate students who will each receive a financial award for the academic year. 
+
+### Doctoral Fellowships
+- The Santa Fe Institute seeks interdisciplinary [post-doctoral scientists for the SFI Omidyar Fellowship](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/). Applications are welcome from:
+        - candidates from any country
+        - candidates from any discipline
+        - women and members of underrepresented groups are encouraged to apply.
+
 
 # USA Fellowships
 - [Minority PostDoc](http://www.minoritypostdoc.org/view/resources.html) :: Scholarships and funding resources for current and future postdoctoral researchers, grants and scholarships for research project funding for women, WOC (women of colour) and minorities.
