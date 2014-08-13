@@ -9,10 +9,7 @@ __Alphabetical listing for country-wise scholarships, fellowships and grants for
 - [Google Anita Borg Memorial Scholarship](http://www.google.com/anitaborg/) :: A scholarship for female undergraduate and graduate students who will each receive a financial award for the academic year. 
 
 ### Doctoral Fellowships
-- The Santa Fe Institute seeks interdisciplinary [post-doctoral scientists for the SFI Omidyar Fellowship](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/). Applications are welcome from:
-        - candidates from any country
-        - candidates from any discipline
-        - women and members of underrepresented groups are encouraged to apply.
+- The Santa Fe Institute seeks interdisciplinary [post-doctoral scientists for the SFI Omidyar Fellowship](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/). [Applications](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/) are welcome from candidates from any country, any discipline, and women and members of under-represented groups are encouraged to apply beween 11AUG2014 to 24OCT2014.
 
 
 # USA Fellowships
