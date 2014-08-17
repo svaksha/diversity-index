@@ -34,7 +34,7 @@ legwork of making their conference a success by begging for FA to speak at or at
 
 
 # LICENSE 
-- This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License - (CC-BY-SA-3.0). Read the [LICENSE.md](https://github.com/svaksha/50/blob/master/LICENSE.md) file for full details.
+- This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License - (CC-BY-SA-3.0). Read the [LICENSE.md](https://github.com/svaksha/50-DI/blob/master/LICENSE.md) file for full details.
 
 ### Mirrors
 - [GitLab](https://gitlab.com/svaksha/50-DI) :: git clone git@gitlab.com:svaksha/50-DI.git 
