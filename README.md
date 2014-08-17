@@ -1,4 +1,4 @@
-**[50-DI](http://svaksha.github.io/50-DI)** is a curated Diversity Index of grants, scholarships, travel and financial aid offered to women from all over the world, from conferences and companies sponsoring STEM education to encourage diversity in STEM fields among __half the world's population__.
+Women form half of the world's population and despite the uproar over "diversity" in CS (STEM) fields, hardly get any financial support for higher studies or opportunities to attend conferences. The word "diversity" and "women" should encompass women from ALL over the world, but sadly most of the diversity grants either discriminate or restrict it to women who are already citizens of the first world and enjoy facilities and privileges that women from a third world country dont have access to or enjoy. **[50-DI](http://svaksha.github.io/50-DI)** is a curated Diversity Index of grants, scholarships, travel and financial aid offered to women from ALL over the world, by conferences and companies sponsoring STEM education to encourage diversity in STEM fields among __half the world's population__.
 
 - [50-Diversity-Index](#50-diversity-index)
 - [LICENSE](#license)
