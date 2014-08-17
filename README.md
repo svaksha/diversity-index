@@ -1,4 +1,7 @@
-Women form half of the world's population and despite the uproar over "diversity" in CS (STEM) fields, hardly get any financial support for higher studies or opportunities to attend conferences. The word "diversity" and "women" should encompass women from ALL over the world, but sadly most of the diversity grants either discriminate or restrict it to women who are already citizens of the first world and enjoy facilities and privileges that women from a third world country dont have access to or enjoy. **[50-DI](http://svaksha.github.io/50-DI)** is a curated Diversity Index of grants, scholarships, travel and financial aid offered to women from ALL over the world, by conferences and companies sponsoring STEM education to encourage diversity in STEM fields among __half the world's population__.
+**[50-DI](http://svaksha.github.io/50-DI)** is a curated Diversity Index of grants, scholarships, travel and financial aid offered to women from ALL over the world, by conferences and companies sponsoring STEM education to encourage diversity in STEM fields among __half the world's population__. 
+
+Women form half of the world's population and despite the uproar over "diversity" in CS (STEM) fields, women hardly get any financial support for higher studies or opportunities to attend conferences. A common myth that accompanies the "diversity" uproar is the perception that women are getting ALL the attention and financial support and this repo attempts to quantify the ground reality when we talk of "diversity" and "women", words that should encompass women from ALL over the world, but the reality is that most of the diversity grants either discriminate or restrict it to those women who are already citizens of the first world, thereby enjoying facilities and privileges that women from a third world country dont have access to or even dream of - an invisible inequality hardly spoken about. 
+
 
 - [50-Diversity-Index](#50-diversity-index)
 - [LICENSE](#license)
@@ -10,8 +13,8 @@ Women form half of the world's population and despite the uproar over "diversity
 Information is divided into the following sub-pages:
 
 - [Events.md](https://github.com/svaksha/50/blob/master/Events.md) :: Financial aid and travel grant information for women attending or speaking at barcamps, camps, conferences, events, meetups and unconferences.
-- [SoC.md](https://github.com/svaksha/50/blob/master/SoC.md) :: Summer of Code programs for Women.
-- [University.md](https://github.com/svaksha/50/blob/master/University.md) :: Scholarships for women pursuing STEM research and graduate studies at Universities. 
+- [Fellowships.md](https://github.com/svaksha/50/blob/master/Fellowships.md) :: Scholarships and fellowships for women pursuing STEM research and graduate studies at Universities. 
+- [Internships.md](https://github.com/svaksha/50/blob/master/Internships.md) :: Short internships and Summer of Code programs for Women.
 
 
 
