@@ -1,5 +1,6 @@
 **A list of barcamps, camps, conferences, events, meetups and unconferences that aim to increase diversity at their events by offering FA grants to women (and those who identify as one)**
 
+- [AidGrant](#aidgrant)
 - [ACM-Women](#acm-women)
 - [AdaCamp](#adacamp)
 - [GHC](#ghc)
@@ -7,6 +8,9 @@
 - [Rocky Mountain Ruby](#rocky-mountain-ruby)
 - [Strangeloop](#strangeloop)
 
+# AidGrant
+- [EuroBSDcon](http://2014.eurobsdcon.org/) :: [Free travel grants for women](http://geekfeminism.org/2014/08/23/quick-hit-free-tracavel-grants-for-women-to-attend-eurobsdcon-2014-in-sofia-bulgaria/) to attend EuroBSDcon 2014 in Sofia, Bulgaria from Google. [Apply here](https://docs.google.com/spreadsheet/viewform?formkey=dHpHa1JJbTFSY2ZOTHFSUXEyUzNGY2c6MA).
+- [Facebook-ABI](https://code.facebook.com/atscale) partners to bring more women to @Scale in 2014 by offering a number of [reserved guaranteed registration for community of technical women](https://docs.google.com/forms/d/1UuZxxPVtXAj42V5jV5VgEZMMfpG7UecWyvZqjEvWHs0/viewform). The cost of registration is $250.
 
 
 # ACM-Women
@@ -16,6 +20,7 @@
 # AdaCamp
 [Ada Camp](http://adacamp.org/) is a conference dedicated to increasing women's participation in open technology and culture. 
 - Applications for [AdaCamp Berlin, October 11-12, 2014](http://berlin.adacamp.org/apply/) and [AdaCamp Bangalore, November 29-30, 2014](http://bangalore.adacamp.org/apply/).
+
 
 
 # GHC
@@ -30,10 +35,6 @@ A language-agnostic conference dedicated to women (and those who identify as one
    - Tips for GHC registration:
         - Post-docs can register under student pricing.
         - If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
-
-- [PyGotham](http://pygotham.org/), Aug16-17, is offering 30 [registration scholarships](https://docs.google.com/forms/d/1PYFBd-vFKu_UguO9yeCYKMiI7I1FMbsa957a-ADzxwo/viewform) - 15 from their gold sponsors, [GitHub](http://github.com), [Percolate](http://percolate.com), and [Sycano](http://syncano.com) and their special silver sponsor, the [Python Software Foundation](https://www.python.org/psf) is offering another 15 scholarships!
-
-- [Facebook-ABI](https://code.facebook.com/atscale) partners to bring more women to @Scale in 2014 by offering a number of [reserved guaranteed registration for community of technical women](https://docs.google.com/forms/d/1UuZxxPVtXAj42V5jV5VgEZMMfpG7UecWyvZqjEvWHs0/viewform). The cost of registration is $250.
 
 
 # PyCon
