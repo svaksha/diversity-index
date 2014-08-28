@@ -31,10 +31,8 @@ A language-agnostic conference dedicated to women (and those who identify as one
 
 ### USA
 - [Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the following grants: 
-   - The [salesforce scholarship](http://gracehopper.salesforceux.com) is for students are who are currently residents of USA only.
-   - Tips for GHC registration:
-        - Post-docs can register under student pricing.
-        - If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
+   - The [salesforce scholarship](http://gracehopper.salesforceux.com) is for students who are currently *residents of USA only*. Some tips for GHC registration: *1.* Post-docs can register under student pricing. *2.* If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
+   - CEWiT offers scholarships *for Bloomington students* to attend [Grace Hopper Celebration of Women in Computing](http://cewit.indiana.edu/news/ghc-scholarship.shtml).
 
 
 # PyCon
