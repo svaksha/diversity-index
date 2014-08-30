@@ -10,7 +10,7 @@
 
 # AidGrant
 - [EuroBSDcon](http://2014.eurobsdcon.org/) :: [Free travel grants for women](http://geekfeminism.org/2014/08/23/quick-hit-free-tracavel-grants-for-women-to-attend-eurobsdcon-2014-in-sofia-bulgaria/) to attend EuroBSDcon 2014 in Sofia, Bulgaria from Google. [Apply here](https://docs.google.com/spreadsheet/viewform?formkey=dHpHa1JJbTFSY2ZOTHFSUXEyUzNGY2c6MA).
-- [Facebook-ABI](https://code.facebook.com/atscale) partners to bring more women to @Scale in 2014 by offering a number of [reserved guaranteed registration for community of technical women](https://docs.google.com/forms/d/1UuZxxPVtXAj42V5jV5VgEZMMfpG7UecWyvZqjEvWHs0/viewform). The cost of registration is $250.
+- [Facebook-ABI](https://code.facebook.com/atscale) partnership gave complimentary registrations to those that applied to earlier application for @Scale to bring more women to @Scale in 2014 by offering a number of reserved guaranteed registration for community of technical women. Due to the overwhelming response, they want to provide *additional complimentary registrations* and the [application will only be open until next Thursday, 4-Sep-2014, noon PDT/UTC-7](https://docs.google.com/forms/d/1UuZxxPVtXAj42V5jV5VgEZMMfpG7UecWyvZqjEvWHs0/viewform).
 
 
 # ACM-Women
