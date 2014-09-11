@@ -25,4 +25,6 @@ __Alphabetical listing for country-wise scholarships, fellowships and grants for
 ### Scholarships open to any American Citizen
 - [Gates Millenium Scholars Foundation](https://www.gmsp.org/) selects 1,000 talented students each year to receive a good-through-graduation scholarship to use at any college or university of their choice. 
 - The [HP Scholar Program](http://www.engr.sjsu.edu/about/news/hp-scholarship) offers scholarship opportunities to underrepresented minority (African American, Latino, or American Indian) students who will pursue a bachelor's of science degree in computer science, computer engineering or electrical engineering at an HP Scholar partnership university (UCLA, SJSU, North Carolina A&T, Morgan State, and University of Washington).
-- 
+- The [Dell Scholars Program](http://www.dellscholars.org/about/) provides its students with resources and mentoring beyond initial financial assistance to ensure they have the support they need to obtain a bachelor’s degree.
+
+
