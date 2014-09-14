@@ -7,6 +7,7 @@ __Alphabetical listing of international and national scholarships, fellowships a
 
 # INTERNATIONAL SCHOLARSHIPS
 - List of [Scholarships that accept applications from International Students](http://scholarships.berkeley.edu/main_content/schol_details/pdf/int_student_opportunities.pdf) at various American Universities. 
+- The [Scholarship Connection Website](http://scholarships.berkeley.edu/) from the University of California, Berkeley, maintains a database of information on scholarships that are funded by sources outside the University. While these listings are not restricted to women, so you will need to spend some time searching for scholarships of interest to you.
 - [AAUW](http://www.aauw.org/what-we-do/educational-funding-and-awards/international-fellowships/) :: The AAUW International Fellowships are awarded for full-time study or research in the United States to *women who are not* U.S. citizens or permanent residents. Both graduate and postgraduate studies at accredited U.S. institutions are supported.
 - [Google Anita Borg Memorial Scholarship](http://www.google.com/anitaborg/) :: A scholarship for female undergraduate and graduate students who will each receive a financial award for the academic year. 
 
