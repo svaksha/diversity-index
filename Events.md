@@ -4,6 +4,10 @@
 - [REGISTRATION CLOSED](#registration-closed)
 
 
+
+- The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) list for geek events which women may be eligible for.
+
+
 # REGISTRATION OPEN
 
 - [Clojure/Conj is offering Opportunity Grants](http://clojure-conj.org/grants) to traditionally under-represented groups in technology. That includes women (cis or trans). __A preference will be given to applicants based in the United States.__

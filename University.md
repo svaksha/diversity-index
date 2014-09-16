@@ -17,7 +17,7 @@ __Alphabetical listing of international and national scholarships, fellowships a
 
 
 # NATIONAL SCHOLARSHIPS
-List of scholarships by country, which require the applicant to be a Citizen or a permanent resident at the time of applying.
+List of scholarships by country, which require the applicant to be a Citizen or a permanent resident of the country at the time of applying.
 
 ## USA
 ##### Fellowships restricted to American women only (citizens or permanent residents)
