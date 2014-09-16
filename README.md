@@ -13,12 +13,12 @@ Women form half of the world's population and despite the uproar over the lack o
 
 There are attempts to bridge this gap with grants and this repo attempts to measure the ground reality when we talk of "diversity" and "women" - words that should encompass women from ALL over the world, but the reality is that most of the diversity grants discriminate and restrict financial aid to women who are citizens of the first world countries; ironically, to those who enjoy facilities and privileges that women from a third world country dont have access to, nor dream of - an invisible inequality and disparity that is hardly spoken about, much less quantified. 
 
-The Diversity Index information is divided into the following sub-pages:
+The Diversity Index information is divided into the following pages:
 
-- [grants-ConfEvents.md](https://github.com/svaksha/50-DI/blob/master/grants-ConfEvents.md) :: Financial aid and travel grant information for women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events.
-- [grants-Research.md](https://github.com/svaksha/50-DI/blob/master/grants-Research.md) :: International Research grants. 
-- [grants-UniversityEdu.md](https://github.com/svaksha/50-DI/blob/master/grants-UniversityEdu.md) :: Scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world. 
+- [ConfEventsGrants.md](https://github.com/svaksha/50-DI/blob/master/ConfEventsGrants.md) :: Financial aid and travel grant information for women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events.
 - [Internships.md](https://github.com/svaksha/50-DI/blob/master/Internships.md) :: Short internships and Summer of Code programs, open to Women around the world.
+- [ScientificResearchGrants.md](https://github.com/svaksha/50-DI/blob/master/ScientificResearchGrants.md) :: International Research grants. 
+- [UniversityEduGrants.md](https://github.com/svaksha/50-DI/blob/master/UniversityEduGrants.md) :: Scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world. 
 
 
 
