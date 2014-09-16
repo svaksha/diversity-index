@@ -42,7 +42,7 @@ legwork of making their conference a success by begging for FA to speak at, or a
 
 ### Mirrors
 - [GitLab](https://gitlab.com/svaksha/50-DI) :: git clone git@gitlab.com:svaksha/50-DI.git 
-- [Cloudhost](https://gitlab.devlabs.linuxassist.net/svaksha/50-DI) :: ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/50-DI.git
+- [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/50-DI) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/50-DI.git
 
 
 
