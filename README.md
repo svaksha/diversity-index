@@ -16,7 +16,8 @@ There are attempts to bridge this gap with grants and this repo attempts to meas
 The Diversity Index information is divided into the following sub-pages:
 
 - [grants-ConfEvents.md](https://github.com/svaksha/50-DI/blob/master/grants-ConfEvents.md) :: Financial aid and travel grant information for women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events.
-- [grants-University.md](https://github.com/svaksha/50-DI/blob/master/grants-University.md) :: Scholarships and fellowships for women graduates interested in pursuing CS research and/or graduate studies at different Universities around the world. 
+- [grants-Research.md](https://github.com/svaksha/50-DI/blob/master/grants-Research.md) :: International Research grants. 
+- [grants-UniversityEdu.md](https://github.com/svaksha/50-DI/blob/master/grants-UniversityEdu.md) :: Scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world. 
 - [Internships.md](https://github.com/svaksha/50-DI/blob/master/Internships.md) :: Short internships and Summer of Code programs, open to Women around the world.
 
 

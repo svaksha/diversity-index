@@ -3,9 +3,8 @@
 - [NATIONAL SCHOLARSHIPS](#national-scholarships)
    - [USA](#usa)
 
-__Alphabetical listing of awards for international and national scholarships, fellowships and grants for women graduates studying STEM, or pursuing research in Universities.__
 
-
+__Alphabetical listing of awards for international and national scholarships, fellowships and grants for women graduates studying STEM, or pursuing education and research in Universities.__
 
 
 # INTERNATIONAL SCHOLARSHIPS
