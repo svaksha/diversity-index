@@ -6,15 +6,14 @@
    - [Guidelines to submit a PR](#guidelines-to-submit-a-pr)
 
 
-**[50-DI](http://svaksha.github.io/50-DI)** is a curated Diversity Index of grants, scholarships, travel and financial aid offered to women from __ALL over the world__, by conferences and companies sponsoring education to encourage diversity in STEM fields among __half the world's population__. 
+# 50-Diversity-Index
+**[50-DI](http://svaksha.github.io/50-DI)** is a curated Diversity Index of grants, scholarships, travel and financial aid offered to women from __ALL around the world__, by conferences and companies sponsoring education to encourage diversity in STEM fields among __half the world's population__. 
 
 Women form half of the world's population and despite the uproar over the lack of "diversity" in the Computer Science field, they hardly get any financial support for higher studies or opportunities to attend conferences. A common myth that accompanies any "diversity" discussion is the perception that because admissions to CS is open to everyone, if women were really interested in programming or Math, they would enroll to study it, but the leaky pipeline that sees existing women leaving tech and lack of support is hardly ever accounted for. Besides, women are highly underrepresented in senior research positions and there is an attempt to tell their stories via a book - see the [CFP for personal stories from women in science](http://boundaryvision.com/2014/08/27/call-for-papers-personal-stories-from-women-in-science/).
 
 There are attempts to bridge this gap with grants and this repo attempts to measure the ground reality when we talk of "diversity" and "women" - words that should encompass women from ALL over the world, but the reality is that most of the diversity grants discriminate and restrict financial aid to women who are citizens of the first world countries; ironically, to those who enjoy facilities and privileges that women from a third world country dont have access to, nor dream of - an invisible inequality and disparity that is hardly spoken about, much less quantified. 
 
-
-# 50-Diversity-Index
-Information is divided into the following sub-pages:
+The Diversity Index information is divided into the following sub-pages:
 
 - [Events.md](https://github.com/svaksha/50-DI/blob/master/Events.md) :: Financial aid and travel grant information for women attending or speaking at barcamps, camps, conferences, events, meetups and unconferences.
 - [Internships.md](https://github.com/svaksha/50-DI/blob/master/Internships.md) :: Short internships and Summer of Code programs, open to Women around the world.
