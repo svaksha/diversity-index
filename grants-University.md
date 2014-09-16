@@ -1,9 +1,10 @@
-__Alphabetical listing of awards for international and national scholarships, fellowships and grants for women graduates studying STEM in Universities.__
-
 - [INTERNATIONAL SCHOLARSHIPS](#international-scholarships)
    - [Doctoral Fellowships](#doctoral-fellowships)
 - [NATIONAL SCHOLARSHIPS](#national-scholarships)
    - [USA](#usa)
+
+__Alphabetical listing of awards for international and national scholarships, fellowships and grants for women graduates studying STEM, or pursuing research in Universities.__
+
 
 
 
@@ -11,6 +12,7 @@ __Alphabetical listing of awards for international and national scholarships, fe
 - [AAUW](http://www.aauw.org/what-we-do/educational-funding-and-awards/international-fellowships/) :: The AAUW International Fellowships are awarded for full-time study or research in the United States to *women who are not* U.S. citizens or permanent residents. Both graduate and postgraduate studies at accredited U.S. institutions are supported.
 - [DAAD](https://www.daad.de) :: The German Academic Exchange Service or DAAD (German: Deutscher Akademischer Austauschdienst) awards competitive, merit-based grants (to people of all genders, from any country) for use toward study and/or research in Germany at any of the accredited German institutions of higher education. It also awards grants to German students, doctoral students, and scholars for studies and research abroad. 
 - [Google Anita Borg Memorial Scholarship](http://www.google.com/anitaborg/) :: A scholarship for female undergraduate and graduate students who will each receive a financial award for the academic year. 
+- [Leducq Foundation](https://en.wikipedia.org/wiki/Leducq_Foundation) :: A private, endowment-based foundation located in Paris, France, whose mission is to improve human health. Under the [Transatlantic Networks of Excellence in Cardiovascular Research Program](http://www.flcq.org/transatlantic-networks-of-excellence/overview/) the Fondation Leducq awards grants of up to U.S. $6,000,000 over five years for internationally collaborative research in cardiovascular and neurovascular disease.
 - List of [Scholarships that accept applications from International Students](http://scholarships.berkeley.edu/main_content/schol_details/pdf/int_student_opportunities.pdf) at various American Universities. 
 - The [Scholarship Connection Website](http://scholarships.berkeley.edu/) from the University of California, Berkeley, maintains a database of information on scholarships that are funded by sources outside the University. While these listings are not restricted to women, so you will need to spend some time searching for scholarships of interest to you.
 
