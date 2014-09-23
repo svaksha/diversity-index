@@ -15,7 +15,6 @@
 - [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
 - [Rocky Mountain Ruby](http://rockymtnruby.com/) have an Opportunity Scholarship available! You can attend the conference for free and get paired with an awesome guide for the duration of the conference. [Application form is here](https://docs.google.com/forms/d/1g1nP_XVAMm06KyxiwBmtkWhU2p7juUPRJj9cNzpz5yU/viewform).
 - [Pycon-US](https://us.pycon.org/2015/assistance/) offers FA and you can submit an application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15thJan to enable people to attend the conference in March/April.
-- [Strange Loop](https://thestrangeloop.com/attendees/diversity-scholarships)’s scholarship program provides support to women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
 
 
 
@@ -26,4 +25,5 @@
 - [Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the following grants: 
    - The [salesforce scholarship](http://gracehopper.salesforceux.com) is for students who are currently *residents of USA only*. Some tips for GHC registration: *1.* Post-docs can register under student pricing. *2.* If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
    - CEWiT offers scholarships *for Bloomington students* to attend [Grace Hopper Celebration of Women in Computing](http://cewit.indiana.edu/news/ghc-scholarship.shtml).
+- [Strange Loop](https://thestrangeloop.com/attendees/diversity-scholarships)’s scholarship program provides support to women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
 
