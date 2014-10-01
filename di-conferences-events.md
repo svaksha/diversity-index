@@ -3,9 +3,9 @@
 - [REGISTRATION OPEN](#registration-open)
 - [REGISTRATION CLOSED](#registration-closed)
 
+---- 
 
-
-- The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) list for geek events which women may be eligible for.
+- The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) list for geek events which women may be eligible for.
 
 
 # REGISTRATION OPEN
