@@ -1,6 +1,7 @@
 - [RESEARCH GRANTS](#research-grants)
    -[Human Health](#human-health)
 
+----
 
 # RESEARCH GRANTS
 __Alphabetical listing of research grants in various STEM fields.__

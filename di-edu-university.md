@@ -3,6 +3,7 @@
 - [NATIONAL SCHOLARSHIPS](#national-scholarships)
    - [USA](#usa)
 
+----
 
 __Alphabetical listing of awards for international and national scholarships, fellowships and grants for women graduates studying STEM, or pursuing education and research in Universities.__
 
@@ -10,6 +11,7 @@ __Alphabetical listing of awards for international and national scholarships, fe
 # INTERNATIONAL SCHOLARSHIPS
 - [AAUW](http://www.aauw.org/what-we-do/educational-funding-and-awards/international-fellowships/) :: The AAUW International Fellowships are awarded for full-time study or research in the United States to *women who are not* U.S. citizens or permanent residents. Both graduate and postgraduate studies at accredited U.S. institutions are supported.
 - [DAAD](https://www.daad.de) :: The German Academic Exchange Service or DAAD (German: Deutscher Akademischer Austauschdienst) awards competitive, merit-based grants (to people of all genders, from any country) for use toward study and/or research in Germany at any of the accredited German institutions of higher education. It also awards grants to German students, doctoral students, and scholars for studies and research abroad. 
+- [Facebook Fellowship Program - 2015-2016 Academic Years](https://www.facebook.com/notes/facebook-fellowship-program/facebook-fellowship-program-2015-2016-academic-years/1657396827819570) :: The Fellowship Program is open to full-time PhD students (domestic and international, covering the 2015-16 and 2016-17 academic years) enrolled during the current academic year(s) and studying computer science, computer engineering, electrical engineering, system architecture, or a related area. 
 - [Google Anita Borg Memorial Scholarship](http://www.google.com/anitaborg/) :: A scholarship for female undergraduate and graduate students who will each receive a financial award for the academic year. 
 - [HP Helion OpenStack scholarship](http://go.hpcloud.com/scholarship-registration) :: A special program for college women pursuing a career in technology that awards four female candidates a scholarship of $10,000 USD each, plus mentorship and potential internship possibilities in the future. 
 - List of [Scholarships that accept applications from International Students](http://scholarships.berkeley.edu/main_content/schol_details/pdf/int_student_opportunities.pdf) at various American Universities. 
@@ -18,6 +20,7 @@ __Alphabetical listing of awards for international and national scholarships, fe
 ### Doctoral Fellowships
 - [SFI Omidyar Fellowship](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/) :: The Santa Fe Institute seeks interdisciplinary post-doctoral scientists for the SFI Omidyar Fellowship. Candidates from **any country, any discipline, and women and members of under-represented** groups are encouraged to apply beween 11AUG2014 to 24OCT2014 via their [application form](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/).
 
+----
 
 # NATIONAL SCHOLARSHIPS
 List of scholarships by country, which require the applicant to be a Citizen or a permanent resident of the country at the time of applying.
