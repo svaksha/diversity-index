@@ -29,6 +29,7 @@ List of scholarships by country, which require the applicant to be a Citizen or 
 
 ## USA
 ##### Fellowships restricted to American women only (citizens or permanent residents)
+- [Open Science Data Cloud's NSF Partnerships for International Research and Education (PIRE)](http://pire.opensciencedatacloud.org/summer-2015-applications-available/) summer fellowships in data intensive scientific cloud computing. A [Birds of a Feather](http://pire.opensciencedatacloud.org/sc14-bof-session/) about the fellowship at SC14, New Orleans!
 - [Aspirations awards](http://www.aspirations.org/participate/opportunities) is run by NCWIT.
 - [Box Engineering Diversity Scholarship](http://www.boxdiversityscholarship.com/) :: Scholarships to support you as you pursue a career in STEM (science, technology, engineering, and mathematics). Five scholarships will be awarded to female and minority students who are applying technology to their fields. **Must be a US citizen.**
 - [Delphix Technology](http://www.delphix.com/scholarship/)'s second annual [$5K programming scholarship for Women in Technology](http://www.delphix.com/2014/07/22/delphix-technology-scholarship/) is open to currently enrolled full-time women college students pursuing a technical degree such as computer science, mathematics, information technology, electrical engineering, or applied mathematics, who will still be full-time college students enrolled in 2015.

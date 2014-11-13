@@ -27,3 +27,5 @@
    - CEWiT offers scholarships *for Bloomington students* to attend [Grace Hopper Celebration of Women in Computing](http://cewit.indiana.edu/news/ghc-scholarship.shtml).
 - [Strange Loop](https://thestrangeloop.com/attendees/diversity-scholarships)’s scholarship program provides support to women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
 
+
+
