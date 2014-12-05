@@ -19,7 +19,7 @@ Track the DiversityIndex and quantify _how_ much help is actually available to w
 - [di-conferences-events.md](https://github.com/svaksha/50-DI/blob/master/di-conferences-events.md) :: Track the DiversityIndex of women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events thanks to financial aid and travel grants.
 - [di-edu-postdoc-research.md](https://github.com/svaksha/50-DI/blob/master/di-edu-postdoc-research.md) :: Post Doctoral Research grants. 
 - [di-edu-university.md](https://github.com/svaksha/50-DI/blob/master/di-edu-university.md) :: Track the DiversityIndex in scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world. 
-- [di-foss-internships.md](https://github.com/svaksha/50-DI/blob/master/di-foss-internships.md) :: Track the DiversityIndex in Foss internships and Summer of Code programs which are open to women ALL over the world.
+- [di-internships.md](https://github.com/svaksha/50-DI/blob/master/di-foss-internships.md) :: Summer of Code programs and internships open to women applicants.
 - [notes-speakers.md](https://github.com/svaksha/50-DI/blob/master/notes-speakers.md) :: Useful tips for conference speakers.
 
 

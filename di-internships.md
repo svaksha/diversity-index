@@ -18,3 +18,4 @@
 
 # Non-FOSS
 - [INRIA's Internship programme](https://www.inria.fr/en/research/international-mobility/internships-programme/internships-programme) in France.
+- [Internships](http://codingforinterviews.com/internships) at various US companies.
