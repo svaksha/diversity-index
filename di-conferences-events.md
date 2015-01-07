@@ -6,16 +6,12 @@
 ---- 
 
 - The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) list for geek events which women may be eligible for.
-
+- [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
 
 # REGISTRATION OPEN
 
-- [Clojure/Conj is offering Opportunity Grants](http://clojure-conj.org/grants) to traditionally under-represented groups in technology. That includes women (cis or trans). __A preference will be given to applicants based in the United States.__
-- [EuroBSDcon](http://2014.eurobsdcon.org/) :: [Free travel grants for women](http://geekfeminism.org/2014/08/23/quick-hit-free-tracavel-grants-for-women-to-attend-eurobsdcon-2014-in-sofia-bulgaria/) to attend EuroBSDcon 2014 in Sofia, Bulgaria from Google. [Apply here](https://docs.google.com/spreadsheet/viewform?formkey=dHpHa1JJbTFSY2ZOTHFSUXEyUzNGY2c6MA).
-- [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
-- [Rocky Mountain Ruby](http://rockymtnruby.com/) have an Opportunity Scholarship available! You can attend the conference for free and get paired with an awesome guide for the duration of the conference. [Application form is here](https://docs.google.com/forms/d/1g1nP_XVAMm06KyxiwBmtkWhU2p7juUPRJj9cNzpz5yU/viewform).
-- [Pycon-US](https://us.pycon.org/2015/assistance/) offers FA and you can submit an application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15thJan to enable people to attend the conference in March/April.
-
+- [AlterConf](http://www.alterconf.com/speak) is to be held on Feb 28, 2015 at Atlanta, GA, USA. The submission deadline is Jan 15, 2015 and they pay speakers for their time 
+- [JSConf US](http://2015.jsconf.us/call-for-speakers.html) will be held from May 27-29, 2015 at Amelia Island, FL. The CFP deadline is Jan 30, 2015 and the travel expenses are covered.
 
 
 # REGISTRATION CLOSED 
@@ -26,6 +22,13 @@
    - The [salesforce scholarship](http://gracehopper.salesforceux.com) is for students who are currently *residents of USA only*. Some tips for GHC registration: *1.* Post-docs can register under student pricing. *2.* If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
    - CEWiT offers scholarships *for Bloomington students* to attend [Grace Hopper Celebration of Women in Computing](http://cewit.indiana.edu/news/ghc-scholarship.shtml).
 - [Strange Loop](https://thestrangeloop.com/attendees/diversity-scholarships)’s scholarship program provides support to women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
+- [Clojure/Conj is offering Opportunity Grants](http://clojure-conj.org/grants) to traditionally under-represented groups in technology. That includes women (cis or trans). __A preference will be given to applicants based in the United States.__
+- [EuroBSDcon](http://2014.eurobsdcon.org/) :: [Free travel grants for women](http://geekfeminism.org/2014/08/23/quick-hit-free-tracavel-grants-for-women-to-attend-eurobsdcon-2014-in-sofia-bulgaria/) to attend EuroBSDcon 2014 in Sofia, Bulgaria from Google. [Apply here](https://docs.google.com/spreadsheet/viewform?formkey=dHpHa1JJbTFSY2ZOTHFSUXEyUzNGY2c6MA).
+- [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
+- [Rocky Mountain Ruby](http://rockymtnruby.com/) have an Opportunity Scholarship available! You can attend the conference for free and get paired with an awesome guide for the duration of the conference. [Application form is here](https://docs.google.com/forms/d/1g1nP_XVAMm06KyxiwBmtkWhU2p7juUPRJj9cNzpz5yU/viewform).
+- [Pycon-US](https://us.pycon.org/2015/assistance/) offers FA and you can submit an application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15thJan to enable people to attend the conference in March/April.
+
+
 
 
 
