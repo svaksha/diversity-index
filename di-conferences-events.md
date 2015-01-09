@@ -12,6 +12,7 @@
 
 - [AlterConf](http://www.alterconf.com/speak) is to be held on Feb 28, 2015 at Atlanta, GA, USA. The submission deadline is Jan 15, 2015 and they pay speakers for their time 
 - [JSConf US](http://2015.jsconf.us/call-for-speakers.html) will be held from May 27-29, 2015 at Amelia Island, FL. The CFP deadline is Jan 30, 2015 and the travel expenses are covered.
+- [FOSS4G North America](https://2015.foss4g-na.org/news/foss4g-na-2015-conference-grants) has announced travel grants with a 60% set-aside for women and people of color. Apply by 17/01/2015.  
 
 
 # REGISTRATION CLOSED 
