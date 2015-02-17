@@ -1,9 +1,9 @@
-- [50-DiversityIndex](#50-diversityindex)
-- [LICENSE](#license)
-   - [Mirrors](#mirrors)
-   - [Contributing](#contributing)
-      - [Guidelines for listing Grants](#guidelines-for-listing-grants)
-      - [Guidelines to submit a PR](#guidelines-to-submit-a-pr)
++ [50-DiversityIndex](#50-diversityindex)
++ [LICENSE](#license)
+   + [Mirrors](#mirrors)
+   + [Contributing](#contributing)
+      + [Guidelines for listing Grants](#guidelines-for-listing-grants)
+      + [Guidelines to submit a PR](#guidelines-to-submit-a-pr)
 
 
 # 50-DiversityIndex
@@ -16,30 +16,31 @@ There are attempts to bridge this gap with grants and this repo attempts to meas
 
 Track the DiversityIndex and quantify _how_ much help is actually available to women from the following:
 
-- [di-conferences-events.md](https://github.com/svaksha/50-DI/blob/master/di-conferences-events.md) :: Track the DiversityIndex of women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events thanks to financial aid and travel grants.
-- [di-edu-postdoc-research.md](https://github.com/svaksha/50-DI/blob/master/di-edu-postdoc-research.md) :: Post Doctoral Research grants. 
-- [di-edu-university.md](https://github.com/svaksha/50-DI/blob/master/di-edu-university.md) :: Track the DiversityIndex in scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world. 
-- [di-internships.md](https://github.com/svaksha/50-DI/blob/master/di-foss-internships.md) :: Summer of Code programs and internships open to women applicants.
-- [notes-speakers.md](https://github.com/svaksha/50-DI/blob/master/notes-speakers.md) :: Useful tips for conference speakers.
++ [di-conferences-events.md](https://github.com/svaksha/50-DI/blob/master/di-conferences-events.md) :: Track the DiversityIndex of women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events thanks to financial aid and travel grants.
++ [di-edu-postdoc-research.md](https://github.com/svaksha/50-DI/blob/master/di-edu-postdoc-research.md) :: Post Doctoral Research grants. 
++ [di-edu-university.md](https://github.com/svaksha/50-DI/blob/master/di-edu-university.md) :: Track the DiversityIndex in scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world. 
++ [di-internships.md](https://github.com/svaksha/50-DI/blob/master/di-foss-internships.md) :: Summer of Code programs and internships open to women applicants.
++ [notes-speakers.md](https://github.com/svaksha/50-DI/blob/master/notes-speakers.md) :: Useful tips for conference speakers.
 
 
 # LICENSE 
-- This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/50-DI/blob/master/LICENSE.md) file.
++ COPYRIGHT © 2014-Now [SVAKSHA](http://svaksha.com/pages/Bio), All Rights Reserved. 
++ This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/50-DI/blob/master/LICENSE.md) file and ALL copies and forks of this work must retain the Copyright, Licence (LICENSE.md file) and this permission notice.
 
 ## Mirrors
-- [GitLab](https://gitlab.com/svaksha/50-DI) :: git clone git@gitlab.com:svaksha/50-DI.git 
-- [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/50-DI) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/50-DI.git
++ [GitLab](https://gitlab.com/svaksha/50-DI) :: git clone git@gitlab.com:svaksha/50-DI.git 
++ [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/50-DI) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/50-DI.git
 
 ## Contributing 
 Please submit a [pull request (PR)](https://github.com/svaksha/50-DI/pulls), if you wish to list any company, conference, foundation or organization that funds diversity initiatives for women.
 
 #### Guidelines for listing Grants
-- This is NOT a generic list of events or conferences, hence, **only those conferences/ events that explicitly publish their grants and financial aid programs for women (including those who identify as women in a way that's significant to them) will be listed**. For a generic list of events and conferences, use [Lanyrd](http://lanyrd.com/).
-- Please dont list events that expect women to contact the organizers regarding FA grants as this places an extra burden on women to do the legwork of making their conference a success by begging for FA to speak at, or attend the conference. Reading @ashedryden 's article on "[Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference)" is an eye-opener. 
-- Please dont list research grants that discriminate and restrict applicants on the basis of age, if this information is known or publicly available. 
++ This is NOT a generic list of events or conferences, hence, **only those conferences/ events that explicitly publish their grants and financial aid programs for women (including those who identify as women in a way that's significant to them) will be listed**. For a generic list of events and conferences, use [Lanyrd](http://lanyrd.com/).
++ Please dont list events that expect women to contact the organizers regarding FA grants as this places an extra burden on women to do the legwork of making their conference a success by begging for FA to speak at, or attend the conference. Reading @ashedryden 's article on "[Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference)" is an eye-opener. 
++ Please dont list research grants that discriminate and restrict applicants on the basis of age, if this information is known or publicly available. 
 
 #### Guidelines to submit a PR
-- Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
-- For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR.
-- For those unable to use git, create a github account, fork the '50-DI' repo and [edit the page by clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
++ Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
++ For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR.
++ For those unable to use git, create a github account, fork the `50-DI` repo and [edit the page by clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 
