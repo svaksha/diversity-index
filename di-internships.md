@@ -7,7 +7,9 @@
 
 ----
 
-Some advice on [getting started with contributions to Libre/Foss projects](http://svaksha.com/post/2012/Contributing-to-Libre-software-projects).
+Here is some advice on: 
+1. [Getting started with contributions to Libre/Foss projects](http://svaksha.com/post/2012/Contributing-to-Libre-software-projects).
+2. [Suggestions for GNOME OPW Applicants](http://anteaya.info/blog/2013/03/29/suggestions-for-gnome-opw-applicants/)
 
 ----
 
