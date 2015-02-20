@@ -8,8 +8,8 @@
 
 # Advice
 Before delving into the world of FOSS, here is some advice: 
-1. [Getting started with contributions to Libre-FOSS projects](http://svaksha.com/post/2012/Contributing-to-Libre-software-projects).
-2. [Suggestions for GNOME OPW Applicants](http://anteaya.info/blog/2013/03/29/suggestions-for-gnome-opw-applicants/)
+* [Getting started with contributions to Libre-FOSS projects](http://svaksha.com/post/2012/Contributing-to-Libre-software-projects).
+* [Suggestions for GNOME OPW Applicants](http://anteaya.info/blog/2013/03/29/suggestions-for-gnome-opw-applicants/)
 
 ----
 
