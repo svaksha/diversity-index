@@ -9,10 +9,9 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 - [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
 
 # REGISTRATION OPEN
-- Broadening Participation in Data Mining ([BPDM 2014](http://www.dataminingshop.com/2014/index.php)) will be held between August 23-24, 2014, co-located with ACM SIGKDD 2014 Conference on Knowledge Discovery and Data Mining in New York City, NY.
-- [AlterConf](http://www.alterconf.com/speak) is to be held on Feb 28, 2015 at Atlanta, GA, USA. The submission deadline is Jan 15, 2015 and they pay speakers for their time. 
++ [Laracon EU](http://laracon.eu), a conference on the PHP web-development Laravel framework has an open CFP until 01-May-2015 for submissions about Laravel, PHP, and tools related to rapid application development. All chosen speakers will have their travel and hotel paid for. The conference takes place on August 25th and 26th. 
++ Broadening Participation in Data Mining ([BPDM 2014](http://www.dataminingshop.com/2014/index.php)) will be held between August 23-24, 2014, co-located with ACM SIGKDD 2014 Conference on Knowledge Discovery and Data Mining in New York City, NY.
 - [JSConf US](http://2015.jsconf.us/call-for-speakers.html) will be held from May 27-29, 2015 at Amelia Island, FL. The CFP deadline is Jan 30, 2015 and the travel expenses are covered.
-- [FOSS4G North America](https://2015.foss4g-na.org/news/foss4g-na-2015-conference-grants) has announced travel grants with a 60% set-aside for women and people of color. Apply by 17/01/2015.  
 - [Women's Institute in Summer Enrichment](https://www.truststc.org/wise/).
 - [CRA-Grad Cohort Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/55/Default.aspx)
 - KDD 2015 - the [Knowledge Discovery and Data Mining](http://www.kdd.org/kdd2015/) conference is an ACM SIG event, a premier conference and first Australian edition that brings together researchers and practitioners from data mining, knowledge discovery, data analytics, and big data.
@@ -32,6 +31,8 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 - [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
 - [Rocky Mountain Ruby](http://rockymtnruby.com/) have an Opportunity Scholarship available! You can attend the conference for free and get paired with an awesome guide for the duration of the conference. [Application form is here](https://docs.google.com/forms/d/1g1nP_XVAMm06KyxiwBmtkWhU2p7juUPRJj9cNzpz5yU/viewform).
 - [Pycon-US](https://us.pycon.org/2015/assistance/) offers FA and you can submit an application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15thJan to enable people to attend the conference in March/April.
+- [AlterConf](http://www.alterconf.com/speak) is to be held on Feb 28, 2015 at Atlanta, GA, USA. The submission deadline is Jan 15, 2015 and they pay speakers for their time. 
+- [FOSS4G North America](https://2015.foss4g-na.org/news/foss4g-na-2015-conference-grants) has announced travel grants with a 60% set-aside for women and people of color. Apply by 17/01/2015.  
 
 
 
