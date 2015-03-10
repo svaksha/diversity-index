@@ -10,6 +10,19 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 
 # OPEN
 + [Laracon EU](http://laracon.eu), a conference on the PHP web-development Laravel framework has an open CFP until 01-May-2015 for submissions about Laravel, PHP, and tools related to rapid application development. All chosen speakers will have their travel and hotel paid for. The conference takes place on August 25th and 26th. 
++ [CRA-W Early Career Mentoring
+Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/50/Career-Mentoring-Workshop-CMW.aspx),
+co-located with [Federated Computing Research Conference
+2015](http://fcrc.acm.org/). Mentoring for
+third year and later graduate students and early Ph.D.s
+interested in academia or national labs, studying or working in the USA. Apply for workshop and travel funding
+by 1-Apr-2015.
++ [CRA-W Mid Career Mentoring
+Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/45/Mid-Career-Mentoring-Workshop-Mid-CMW.aspx),
+co-located with [Federated Computing Research Conference
+2015](http://fcrc.acm.org/). Mentoring for
+mid-career Ph.D.s in academia or national labs, working in the USA. Apply for workshop and travel funding
+by 1-Apr-2015.
 + [Chef Conf](https://www.chef.io/blog/2015/03/05/apply-for-a-chefconf-2015-diversity-scholarship-by-march-13/) is giving away 10 tickets - including an intro to chef workshop and all meals. Apply by 13-Mar-2015. 
 
 
