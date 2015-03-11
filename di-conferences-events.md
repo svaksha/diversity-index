@@ -1,7 +1,7 @@
 A list of barcamps, camps, conferences, events, meetups, workshops and unconferences that aim to increase _diversity_ at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to current students and/or Professors.
 
-- [OPEN](#open)
-- [CLOSED](#closed)
++ [OPEN](#open)
++ [CLOSED](#closed)
 
 ---- 
 
@@ -9,6 +9,7 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 + [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
 
 # OPEN
++ [DjangoCon Europe](http://2015.djangocon.eu/) has [called for proposals](http://2015.djangocon.eu/proposals/) and lined up [mentors](http://2015.djangocon.eu/proposals/speaker-mentors/) to help you submit proposals. They also have [financial assistance](http://2015.djangocon.eu/news/financial-assistance/)for attendees.
 + [GORUCO](http://goruco.com):: The Gotham Ruby Conference will be held on 20-June-2015 at New York, NY. Speakers outside of the tri-state region are given a US$300 honorarium, plus $600 travel reimbursement. The talk submission deadline is 24-Mar-2015.
 + [Laracon EU](http://laracon.eu): a conference on the PHP web-development Laravel framework has an open CFP until 01-May-2015 for submissions about Laravel, PHP, and tools related to rapid application development. All chosen speakers will have their travel and hotel paid for. The conference takes place on August 25th and 26th. 
 + [CRA-W "Early" Career Mentoring Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/50/Career-Mentoring-Workshop-CMW.aspx), co-located with [Federated Computing Research Conference 2015](http://fcrc.acm.org/). Mentoring for third year and later graduate students and early Ph.D.s interested in academia or national labs, studying or working in the USA. Apply for workshop and travel funding by 1-Apr-2015.
