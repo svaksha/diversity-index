@@ -8,10 +8,18 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 + [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
 + The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) list for geek events which women may be eligible for.
 + [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
++ [The LWN.net community event calendar](http://lwn.net/Calendar/)
 
 ---
 
 # OPEN
+
+### [HTML5DevConf](http://html5devconf.com/)
++ What     : HTML5Devconf is the largest gathering of technical software developers, designers and decision makers in the world focused on Internet software technologies such as JavaScript, HTML5, CSS, node.js and other cross platform web, mobile and server technologies.
++ When     : 19-20/Oct/2015
++ Where    : San Francisco, USA.
++ CFP      : https://docs.google.com/forms/d/1RQ79YieG1zGrzVRz0HDJXJhPevCxHZlyUHQbgeUPam0/viewform
++ Grant/FA : TBA for 2015.
 
 ### EuroPython
 + What     : EuroPython 2015.
