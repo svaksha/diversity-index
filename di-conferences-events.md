@@ -5,12 +5,20 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 
 ---- 
 
++ [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
 + The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) list for geek events which women may be eligible for.
 + [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
 
 ---
 
 # OPEN
+
+### EuroPython
++ What     : EuroPython 2015.
++ When     : 20-26/Jul/2015
++ Where    : Bilbao, Spain.
++ CFP      : 14/Apr/2015, https://ep2015.europython.eu/en/call-for-proposals/
++ Grant/FA : Was available in 2014. TBA for 2015.
 
 ### DebConf
 + What     : The Debian conference - http://debconf15.debconf.org/
@@ -69,7 +77,8 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 + Grant/FA   : Apply for workshop and travel funding by 1/Apr/2015.
 
 ### [CRA-W "Mid-Career" Mentoring Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/45/Mid-Career-Mentoring-Workshop-Mid-CMW.aspx), 
-+ What       : Mentoring for mid-career Ph.D.s in academia or national labs, working in the USA, co-located with [Federated Computing Research Conference 2015](http://fcrc.acm.org/). 
++ What       : Mentoring for mid-career Ph.D.s in academia or national labs, working in the USA, co-located with [Federated Computing Research Conference 2015](http://fcrc.acm.org/). [CRA-Grad Cohort Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/55/Default.aspx)
+
 + When       : DD/MM/YYYY
 + Where      : USA
 + CFP        : -
@@ -85,17 +94,20 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 ---
 
 # CLOSED 
-
 + [Women's Institute in Summer Enrichment](https://www.truststc.org/wise/).
-+ [CRA-Grad Cohort Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/55/Default.aspx)
 + [Facebook-ABI](https://code.facebook.com/atscale) partnership gave complimentary registrations to those that applied to earlier application for @Scale to bring more women to @Scale in 2014 by offering a number of reserved guaranteed registration for community of technical women. Due to the overwhelming response, they want to provide *additional complimentary registrations* and the [application will only be open until next Thursday, 4-Sep-2014, noon PDT/UTC-7](https://docs.google.com/forms/d/1UuZxxPVtXAj42V5jV5VgEZMMfpG7UecWyvZqjEvWHs0/viewform).
 + Broadening Participation in Data Mining [BPDM 2014](http://www.dataminingshop.com/2014/index.php) will be held between August 23-24, 2014, co-located with ACM SIGKDD 2014 Conference on Knowledge Discovery and Data Mining in New York City, NY.
 + [Strange Loop](https://thestrangeloop.com/attendees/diversity-scholarships)’s scholarship program provides support to women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
 + [Clojure/Conj is offering Opportunity Grants](http://clojure-conj.org/grants) to traditionally under-represented groups in technology. That includes women (cis or trans). __A preference will be given to applicants based in the United States.__
 + [EuroBSDcon](http://2014.eurobsdcon.org/) :: [Free travel grants for women](http://geekfeminism.org/2014/08/23/quick-hit-free-tracavel-grants-for-women-to-attend-eurobsdcon-2014-in-sofia-bulgaria/) to attend EuroBSDcon 2014 in Sofia, Bulgaria from Google. [Apply here](https://docs.google.com/spreadsheet/viewform?formkey=dHpHa1JJbTFSY2ZOTHFSUXEyUzNGY2c6MA).
-+ [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
 + [Rocky Mountain Ruby](http://rockymtnruby.com/) have an Opportunity Scholarship available! You can attend the conference for free and get paired with an awesome guide for the duration of the conference. [Application form is here](https://docs.google.com/forms/d/1g1nP_XVAMm06KyxiwBmtkWhU2p7juUPRJj9cNzpz5yU/viewform).
-+ [AlterConf](http://www.alterconf.com/speak) is to be held on Feb 28, 2015 at Atlanta, GA, USA. The submission deadline is Jan 15, 2015 and they pay speakers for their time. 
+
+### [AlterConf](http://www.alterconf.com/)
++ What       : http://www.alterconf.com/speak
++ When       : 28/Feb/2015
++ Where      : Atlanta, GA, USA.
++ CFP        : 15/Jan/2015 
++ Grant/FA   : They pay speakers for their time. 
 
 ### FOSS4G North America
 + What       :
@@ -131,7 +143,7 @@ Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the followi
    * Post-docs can register under student pricing. 
    * If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
    
-###  [GORUCO](http://goruco.com)
+### [GORUCO](http://goruco.com)
 + What     : The Gotham Ruby Conference.
 + When     : 20/June/2015
 + Where    : New York, NY
