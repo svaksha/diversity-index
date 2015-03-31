@@ -26,6 +26,13 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 + CFP      : 08/April/2015
 + Grant/FA : Was available in 2014. 2015 status is unknown.
 
+### PyCon Australia
++ What     : PyCon Australia is the national conference for users of the Python Programming Language.
++ When     : 31/Jul-04/Aug/2015
++ Where    : Pullman Brisbane - King George Square, Australia.
++ CFP      : 08/05/2015 : http://2015.pycon-au.org/cfp
++ Grant/FA : 2015 status is TBA.
+
 ### [Computational Biology – ISMB/ECCB 2015!](https://www.iscb.org/ismbeccb2015) 
 + What     : The 23rd Annual International Conference on Intelligent Systems for Molecular Biology and the 14th European Conference on Computational Biology
 + When     : 10-14/July/2015. 
@@ -104,7 +111,7 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 + CFP      : 
 + Grant/FA :
 
-### [GHC.USA]
+### GHC.USA
 Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the following grants: 
 + What     : Grace Hopper Celebration, USA.
 + When     : DD/MM/YYYY
@@ -112,7 +119,7 @@ Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the followi
 + CFP      : 
 + Grant/FA : 
    + The [salesforce scholarship](http://gracehopper.salesforceux.com) is for students who are currently *residents of USA only*. 
-   + CEWiT offers scholarships *for Bloomington students* to attend [Grace Hopper Celebration of Women in Computing](http://cewit.indiana.edu/news/ghc-scholarship.shtml).
+   + CEWiT offers scholarships for *Bloomington students* to attend [Grace Hopper Celebration of Women in Computing](http://cewit.indiana.edu/news/ghc-scholarship.shtml).
 + Tips     : 
    * Post-docs can register under student pricing. 
    * If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
@@ -144,4 +151,15 @@ Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the followi
 + Where    : 
 + CFP      : 
 + Grant/FA :
+
+### LibrePlanet
++ What     : LibrePlanet is an annual conference for free software enthusiasts : https://libreplanet.org/2015/
++ When     : 21-22/March/2015
++ Where    : MIT Stata Center, Cambridge, MA
++ CFP      : 
++ Grant/FA : They award partial to full travel scholarships to help people get to LibrePlanet, in addition to waiving any registration fees. [Support the LibrePlanet Scholarship Fund](https://my.fsf.org/civicrm/contribute/transact?reset=1&id=33).
+
+
+
+
 
