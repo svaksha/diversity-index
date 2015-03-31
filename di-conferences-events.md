@@ -12,6 +12,13 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 
 # OPEN
 
+### SciPy
++ What     : [SciPy 2015](http://scipy2015.scipy.org) is the fourteenth annual Scientific Computing with Python conference, dedicated to the advancement of scientific computing through open source Python software for mathematics, science, and engineering.
++ When     : 06-12/July/2015
++ Where    : Austin, Texas.
++ CFP      : Submit your tutorial and talk ideas by 01/April/2015.
++ Grant/FA : Offers scholarships open to community members and students to attend the conference - funding for airfare, lodging, and conference registration. Apply by 15/April/2015 : http://www.scipy2015.scipy.org/ehome/115969/259279/?&
+
 ### [JuliaCon](http://juliacon.org)
 + What     : Julia Language conference.
 + When     : 24-28/June/2015
