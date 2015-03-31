@@ -12,6 +12,13 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 
 # OPEN
 
+### DebConf
++ What     : The Debian conference - http://debconf15.debconf.org/
++ When     : 15-22/Aug/2015
++ Where    : Heidelberg International youth hostel in Heidelberg, Germany.
++ CFP      : 15/Jun/2015, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
++ Grant/FA : Was available in 2014. 2015 status is unknown.
+
 ### SciPy
 + What     : [SciPy 2015](http://scipy2015.scipy.org) is the fourteenth annual Scientific Computing with Python conference, dedicated to the advancement of scientific computing through open source Python software for mathematics, science, and engineering.
 + When     : 06-12/July/2015
