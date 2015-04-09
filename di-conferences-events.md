@@ -54,7 +54,7 @@ List of events with an __OPEN__ call for proposals (CFP).
 + __What__:: The Julia Language conference.
 + __When__:: 24-28/June/2015
 + __Where__:: Cambridge, MA
-+ __CFP__:: 08/April/2015
++ __CFP__:: Extended to Sunday, April 12 at 11:59pm EDT.
 + __FinAid__:: Was available in 2014. 2015 status is unknown.
 
 ### SciPy
