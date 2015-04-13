@@ -29,7 +29,7 @@ Track the DiversityIndex and quantify _how_ much help is actually available to w
 
 # LICENSE 
 + COPYRIGHT © 2014-Now [SVAKSHA](http://svaksha.com/pages/Bio), All Rights Reserved. 
-+ This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/50-DI/blob/master/LICENSE.md) file and ALL copies and forks of this work must retain the Copyright, Licence (LICENSE.md file) and this permission notice.
++ This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/50-DI/blob/master/LICENSE.md) file and ALL references, citations, copies and forks of this work must retain the Copyright, Licence (LICENSE.md file), this permission notice and must [attribute credit](https://en.wikipedia.org/wiki/Creative_Commons_license#Attribution).
 
 ## Mirrors
 + [GitLab](https://gitlab.com/svaksha/50-DI) :: git clone git@gitlab.com:svaksha/50-DI.git 
@@ -39,9 +39,9 @@ Track the DiversityIndex and quantify _how_ much help is actually available to w
 Please submit a [pull request (PR)](https://github.com/svaksha/50-DI/pulls), if you wish to list any company, conference, foundation or organization that funds diversity initiatives for women.
 
 #### Guidelines for listing Events
-+ This is NOT a generic list of events or conferences, hence, **only those conferences/ events that explicitly publish their grants and financial aid programs for women (including those who identify as women in a way that's significant to them) will be listed**. For a generic list of events and conferences, use [Lanyrd](http://lanyrd.com/).
-+ Please dont list events that expect women to contact the organizers regarding FA grants as this places an extra burden on women to do the legwork of making their conference a success by begging for FA to speak at, or attend the conference. Reading @ashedryden 's article on "[Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference)" is an eye-opener. 
-+ Please dont list research grants that discriminate and restrict applicants on the basis of age, if this information is known or publicly available. 
++ This is NOT a generic list of events or conferences, hence, **only those conferences/ events that explicitly publish their grants and financial aid programs for women (including those who identify as women in a way that's significant to them) will be listed**. For a generic list of events and conferences, use Lanyrd.
++ Please dont list events that expect women to have protracted `diversity` discussions with the organizers to initiate the FA/grants programs as this places an extra burden on women to do the legwork of making their conference a success instead of `diversity` being a community effort. Reading @ashedryden 's article on "[Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference)" will give you a perspective of the challenges women in FOSS/IT face. 
++ Please dont list research grants that promote ageism and discriminate and restrict applicants on the basis of age, if this information is known or publicly available. 
 
 #### Guidelines to submit a PR
 + Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
