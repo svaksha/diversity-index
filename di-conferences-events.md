@@ -15,6 +15,13 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 # OPEN
 List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `CLOSED` section as the CFP closes and the conference date approaches.))
 
+### EuroPython
++ __What__:: EuroPython 2015.
++ __CFP__:: 2015APR28, Thursday, 23:59:59 CEST, https://ep2015.europython.eu/en/call-for-proposals/
++ __When__:: 2015JUL20-26
++ __Where__:: Bilbao, Spain.
++ __FinAid__:: Was available in 2014. TBA for 2015.
+
 ### [DjangoCon USA](https://2015.djangocon.us/)
 + __What__:: DjangoCon USA
 + __CFP__:: 2015MAY15 via https://2015.djangocon.us/speaking/cfp/
@@ -77,13 +84,6 @@ List of concluded events, including those whose call for proposals (CFP) has **C
 + __When__:: YYYYMMMDD
 + __Where__:: 
 + __FinAid__::
-
-### EuroPython
-+ __What__:: EuroPython 2015.
-+ __CFP__:: 2015APR14, https://ep2015.europython.eu/en/call-for-proposals/
-+ __When__:: 2015JUL20-26
-+ __Where__:: Bilbao, Spain.
-+ __FinAid__:: Was available in 2014. TBA for 2015.
 
 ### [DjangoCon Europe](http://2015.djangocon.eu/) 
 + __What__:: They have lined up [mentors](http://2015.djangocon.eu/proposals/speaker-mentors/) to help you submit proposals. 
