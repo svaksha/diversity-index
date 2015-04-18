@@ -2,15 +2,15 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 
 + [OPEN](#open)
 + [CLOSED](#closed)
++ [NEWS](#news)
 
 ---- 
 
 + [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
 + The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) list for geek events which women may be eligible for.
-+ [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
-+ [The LWN.net community event calendar](http://lwn.net/Calendar/)
++ [Google](https://www.google.com/edu/scholarships/) provides travel and conference grants for specific events, mostly for students. 
 
----
+----
 
 # OPEN
 List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `CLOSED` section as the CFP closes and the conference date approaches.))
@@ -64,12 +64,11 @@ List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will
 + __Where__:: Amsterdam, the Netherlands
 + FA/Grant : All chosen speakers will have their travel and hotel paid for. 
 
-
 ----
 
-
 # CLOSED 
-List of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
+
+A list of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
 
 ### [Computational Biology – ISMB/ECCB 2015!](https://www.iscb.org/ismbeccb2015) 
 + __What__:: The 23rd Annual International Conference on Intelligent Systems for Molecular Biology and the 14th European Conference on Computational Biology
@@ -215,3 +214,8 @@ Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the followi
 
 ----
 
+# NEWS
++ [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
++ [The LWN.net community event calendar](http://lwn.net/Calendar/)
+
+----

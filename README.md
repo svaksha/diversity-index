@@ -2,9 +2,10 @@
 + [LICENSE](#license)
    + [Mirrors](#mirrors)
    + [Contributing](#contributing)
-      + [Guidelines for listing Events](#guidelines-for-listing-events)
-      + [Guidelines to submit a PR](#guidelines-to-submit-a-pr)
+        + [Guidelines for listing Events](#guidelines-for-listing-events)
+        + [Guidelines to submit a PR](#guidelines-to-submit-a-pr)
 
+----
 
 # 50-DiversityIndex
 **[50-DI](http://svaksha.github.io/50-DI)** is a curated DiversityIndex of grants, scholarships, travel bursary and/or financial aid offered to women (including those who identify as women in a way that's significant to them) from __ALL around the world__, by conferences and companies sponsoring education to encourage diversity in STEM fields among __half the world's population__. 
@@ -26,6 +27,7 @@ Track the DiversityIndex and quantify _how_ much help is actually available to w
 + [di-internships.md](https://github.com/svaksha/50-DI/blob/master/di-internships.md) :: Summer of Code programs and internships open to women applicants.
 + [notes-speakers.md](https://github.com/svaksha/50-DI/blob/master/notes-speakers.md) :: Useful tips for conference speakers.
 
+----
 
 # LICENSE 
 + COPYRIGHT © 2014-Now [SVAKSHA](http://svaksha.com/pages/Bio), All Rights Reserved. 
@@ -39,12 +41,14 @@ Track the DiversityIndex and quantify _how_ much help is actually available to w
 Please submit a [pull request (PR)](https://github.com/svaksha/50-DI/pulls), if you wish to list any company, conference, foundation or organization that funds diversity initiatives for women.
 
 #### Guidelines for listing Events
-+ This is NOT a generic list of events or conferences, hence, **only those conferences/ events that explicitly publish their grants and financial aid programs for women (including those who identify as women in a way that's significant to them) will be listed**. For a generic list of events and conferences, use Lanyrd.
++ This is NOT a generic list of events or conferences, hence, **only those conferences/ events that explicitly publish their grants and financial aid programs for women (including those who identify as women in a way that's significant to them) will be listed**. 
 + Please dont list events that expect women to have protracted `diversity` discussions with the organizers to initiate the FA/grants programs as this places an extra burden on women to do the legwork of making their conference a success instead of `diversity` being a community effort. Reading @ashedryden 's article on "[Increasing Diversity at Your Conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference)" will give you a perspective of the challenges women in FOSS/IT face. 
-+ Please dont list research grants that promote ageism and discriminate and restrict applicants on the basis of age, if this information is known or publicly available. 
++ Please dont list research grants that promote ageism and/or discriminate and/or restrict applicants on the basis of age, if this information is known or publicly available. 
 
 #### Guidelines to submit a PR
 + Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
 + For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR.
 + For those unable to use git, create a github account, fork the `50-DI` repo and [edit the page by clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
+
+----
 
