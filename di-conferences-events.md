@@ -70,6 +70,13 @@ List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will
 
 A list of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
 
+### [womENcourage](http://womencourage.acm.org/)
++ __What__:: To register for the conference, please visit: http://www.regonline.com/acmweurope2015 
++ __CFP__:: Closed.
++ __When__:: 2015SEP24-26
++ __Where__:: Uppsala University, Sweden.
++ __FinAid__:: [Grants](http://womencourage.acm.org/grants.cfm) are available with an [eligibility criteria](http://womencourage.acm.org/eligibility.cfm).
+
 ### [Computational Biology – ISMB/ECCB 2015!](https://www.iscb.org/ismbeccb2015) 
 + __What__:: The 23rd Annual International Conference on Intelligent Systems for Molecular Biology and the 14th European Conference on Computational Biology
 + __CFP__:: -
