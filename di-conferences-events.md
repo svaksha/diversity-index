@@ -1,7 +1,7 @@
 A list of barcamps, camps, conferences, events, meetups, workshops and unconferences that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to current students and/or Professors. 
 
-+ [OPEN](#open)
-+ [CLOSED](#closed)
++ [OPEN CFP](#open-cfp)
++ [CLOSED CFP](#closed-cfp)
 + [NEWS](#news)
 
 ---- 
@@ -12,7 +12,7 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 
 ----
 
-# OPEN
+# OPEN CFP
 List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `CLOSED` section as the CFP closes and the conference date approaches.))
 
 ### EuroPython
@@ -66,7 +66,7 @@ List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will
 
 ----
 
-# CLOSED 
+# CLOSED CFP
 
 A list of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
 
