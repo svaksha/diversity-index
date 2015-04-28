@@ -10,6 +10,7 @@
 Before delving into the world of FOSS, here is some advice: 
 * [Getting started with contributions to Libre-FOSS projects](http://svaksha.com/post/2012/Contributing-to-Libre-software-projects).
 * [Suggestions for GNOME OPW Applicants](http://anteaya.info/blog/2013/03/29/suggestions-for-gnome-opw-applicants/)
+* [GSoC Do's and Dont's](http://google-opensource.blogspot.ro/2011/03/dos-and-donts-of-google-summer-of-code.html)
 
 ----
 
