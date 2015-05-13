@@ -9,6 +9,13 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 # OPEN CFP
 List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `CLOSED` section as the CFP closes and the conference date approaches.))
 
+### Black Hat & EWF 
++ __What__:: The Black Hat conference and The Executive Women's Forum (a conference and network of women leaders in information security) announce the launch of the [Future Female Leaders Scholarship Program](http://www.ewf-usa.com/?page=BlackHatScholarship
++ __CFP__:: -
++ __When__:: -
++ __Where__:: USA
++ __FinAid__:: 50 scholarship passes to women students interested in information security, and interested students must submit by June 26, 2015. They also have a [general university scholarship program](https://www.blackhat.com/us-15/student-scholarship-program.html)
+
 ### [Strange Loop](https://thestrangeloop.com/)
 + __What__:: Strange Loop is a multi-disciplinary conference that aims to bring together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, mobile development, and the web.
 + __CFP__:: 2015MAY15, https://thestrangeloop.com/sessions-page/call-for-presentations
@@ -16,12 +23,6 @@ List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will
 + __Where__:: St Louis, MO, USA
 + __FinAid__:: All speakers receive free admission to Strange Loop, reduced cost (50% off) on workshops and up to 4 nights of hotel, with airfare covered for US or Canada or a $500 travel stipend for international speakers. Their [Diversity scholarships](https://thestrangeloop.com/attendees/diversity-scholarships)  program provides support for women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
 
-### EuroPython
-+ __What__:: EuroPython 2015.
-+ __CFP__:: 2015APR28, Thursday, 23:59:59 CEST, https://ep2015.europython.eu/en/call-for-proposals/
-+ __When__:: 2015JUL20-26
-+ __Where__:: Bilbao, Spain.
-+ __FinAid__:: Was available in 2014. TBA for 2015.
 
 ### [DjangoCon USA](https://2015.djangocon.us/)
 + __What__:: DjangoCon USA
@@ -30,12 +31,6 @@ List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will
 + __Where__:: Austin, Texas, USA.
 + __FinAid__:: Travel/Accommodation grants are available.
 
-### PyCon Australia
-+ __What__:: PyCon Australia is the national conference for users of the Python Programming Language.
-+ __CFP__:: 2015MAY08 : http://2015.pycon-au.org/cfp
-+ __When__:: 2015JUL31-2015AUG04
-+ __Where__:: Pullman Brisbane - King George Square, Australia.
-+ __FinAid__:: 2015 status is TBA.
 
 ### [HTML5DevConf](http://html5devconf.com/)
 + __What__:: HTML5Devconf is the largest gathering of technical software developers, designers and decision makers in the world focused on Internet software technologies such as JavaScript, HTML5, CSS, node.js and other cross platform web, mobile and server technologies.
@@ -51,6 +46,12 @@ List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will
 + __Where__:: Heidelberg International youth hostel in Heidelberg, Germany.
 + __FinAid__:: Was available in 2014. 2015 status is unknown.
 
+
+----
+
+# CLOSED CFP
+A list of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
+
 ### [Laracon EU](http://laracon.eu)
 + __What__:: A conference on the PHP web-development Laravel framework. http://laracon.eu/2015
 + __CFP__:: 2015MAY01, for submissions about Laravel, PHP, and tools related to rapid application development.
@@ -58,11 +59,19 @@ List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will
 + __Where__:: Amsterdam, the Netherlands
 + FA/Grant : All chosen speakers will have their travel and hotel paid for. 
 
-----
+### EuroPython
++ __What__:: EuroPython 2015.
++ __CFP__:: 2015APR28, Thursday, 23:59:59 CEST, https://ep2015.europython.eu/en/call-for-proposals/
++ __When__:: 2015JUL20-26
++ __Where__:: Bilbao, Spain.
++ __FinAid__:: Available for 2015.
 
-# CLOSED CFP
-
-A list of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
+### PyCon Australia
++ __What__:: PyCon Australia is the national conference for users of the Python Programming Language.
++ __CFP__:: 2015MAY08 : http://2015.pycon-au.org/cfp
++ __When__:: 2015JUL31-2015AUG04
++ __Where__:: Pullman Brisbane - King George Square, Australia.
++ __FinAid__:: 2015 status is TBA.
 
 ### [womENcourage](http://womencourage.acm.org/)
 + __What__:: To register for the conference, please visit: http://www.regonline.com/acmweurope2015 
