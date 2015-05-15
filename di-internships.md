@@ -7,7 +7,7 @@
 ----
 
 # Advice
-Before delving into the world of FOSS, here is some advice: 
+Before delving into the world of FOSS, here is some *Free* advice: 
 * [Getting started with contributions to Libre-FOSS projects](http://svaksha.com/post/2012/Contributing-to-Libre-software-projects).
 * [Suggestions for GNOME OPW Applicants](http://anteaya.info/blog/2013/03/29/suggestions-for-gnome-opw-applicants/)
 * [GSoC Do's and Dont's](http://google-opensource.blogspot.ro/2011/03/dos-and-donts-of-google-summer-of-code.html)
@@ -21,6 +21,9 @@ Before delving into the world of FOSS, here is some advice:
 
 ### GSoC
 * [Google Summer of Code](http://www.google-melange.com/gsoc/program/) :: An annual internship program that is open to people of all genders from around the world, hence highly competitive.
+
+### [Julia Summer of Code]
++ TBA
 
 ### RSoC
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/) offers full-time scholarships for 3 months to women who can work on FOSS projects, regardless of which part of the world they live in.
