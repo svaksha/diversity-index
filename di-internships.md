@@ -16,22 +16,25 @@ Before delving into the world of FOSS, here is some *Free* advice:
 
 # FOSS
 
+### Julia Summer of Code
++ __Program__:: JSoC projects will be similar in scope and nature to that of GSoC. If you have a project you'd like to propose, write up an description and send it to Stefan Karpinski <stefan@karpinski.org> and Viral Shah <viral@mayin.org> with "JSoC proposal:" in the subject line.
++ __FinAid__:: Compensation is similar to GSoC - USD5500.00
++ __Deadline__:: ASAP.
+
 ### GNOME
 * Gnome's [Outreachy Program for Women](https://opw.gnome.org/) is run and funded by the [Gnome Foundation](https://www.gnome.org/) and various sponsors. More details are available at their [wiki](https://wiki.gnome.org/Outreachy) and the OPW website.
 
 ### GSoC
 * [Google Summer of Code](http://www.google-melange.com/gsoc/program/) :: An annual internship program that is open to people of all genders from around the world, hence highly competitive.
 
-### [Julia Summer of Code]
-+ TBA
-
 ### RSoC
-* [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/) offers full-time scholarships for 3 months to women who can work on FOSS projects, regardless of which part of the world they live in.
++ __Program__:: [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/) 
++ __FinAid__:: Offers full-time scholarships for 3 months to women who can work on FOSS projects, regardless of which part of the world they live in.
 
 ### [Rosetta Commons](https://www.rosettacommons.org/) 
 + The largest collection of libraries for computational protein structure prediction and design is offering [undergraduate student internships](https://www.rosettacommons.org/about/intern) for the summer of 2015. 
 + __FinAid__:: The Rosetta Commons and the sponsoring lab will provide housing, travel expenses up to $500, and a stipend of $4,500. 
-+ __Deadline__:: 01-March-2015
++ __Deadline__:: 2015-Mar-01
 
 ----
 
