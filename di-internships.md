@@ -16,10 +16,10 @@ Before delving into the world of FOSS, here is some *Free* advice:
 
 # FOSS
 
-### Julia Summer of Code
-+ __Program__:: JSoC projects will be similar in scope and nature to that of GSoC. If you have a project you'd like to propose, write up an description and send it to Stefan Karpinski <stefan@karpinski.org> and Viral Shah <viral@mayin.org> with "JSoC proposal:" in the subject line.
+### JSoC
++ __Program__:: Julia Summer of Code (JSoC) projects will be similar in scope and nature to that of GSoC, and is open to anyone willing to commit three months to a project, although preference will be given to students. If you have a project you'd like to propose, write up an description and send it to Stefan Karpinski <stefan@karpinski.org> and Viral Shah <viral@mayin.org> with "JSoC proposal:" in the subject line. See the thread on the [user group](https://groups.google.com/forum/?fromgroups=#!topic/julia-users/bolLGcSCrs0)
 + __FinAid__:: Compensation is similar to GSoC - USD5500.00
-+ __Deadline__:: ASAP.
++ __Deadline__:: ASAP, May-Aug of each year.
 
 ### GNOME
 * Gnome's [Outreachy Program for Women](https://opw.gnome.org/) is run and funded by the [Gnome Foundation](https://www.gnome.org/) and various sponsors. More details are available at their [wiki](https://wiki.gnome.org/Outreachy) and the OPW website.
