@@ -1,28 +1,37 @@
 A list of barcamps, camps, conferences, events, meetups, workshops and unconferences that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to current students and/or Professors. 
 
-+ [OPEN CFP](#open-cfp)
-+ [CLOSED CFP](#closed-cfp)
++ [PRESENT](#present)
++ [PAST](#past)
 + [NEWS](#news)
 
 ---- 
 
-# OPEN CFP
-List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `CLOSED` section as the CFP closes and the conference date approaches.))
+# PRESENT
+List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.))
+
+
+### GHC.USA
+The Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the following grants: 
++ __What__:: Grace Hopper Celebration, USA.
++ __CFP__::
++ __When__:: 2015Oct14-16.
++ __Where__:: Houston, TX.
++ __FinAid__:: 1. The [Google travel grants](http://googleforstudents.blogspot.fr/2015/05/applications-for-travel-grants-to-2015.html) is for women and students who are currently *residents of USA/Canada only*. 
++ __Tips__:: 1. Post-docs can register under student pricing. 2. If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
 
 ### Black Hat & EWF 
 + __What__:: The Black Hat conference and The Executive Women's Forum (a conference and network of women leaders in information security) announce the launch of the [Future Female Leaders Scholarship Program](http://www.ewf-usa.com/?page=BlackHatScholarship
 + __CFP__:: -
 + __When__:: -
 + __Where__:: USA
-+ __FinAid__:: 50 scholarship passes to women students interested in information security, and interested students must submit by June 26, 2015. They also have a [general university scholarship program](https://www.blackhat.com/us-15/student-scholarship-program.html)
++ __FinAid__:: 50 scholarship passes to women students interested in information security, and interested students must submit by 2015Jun26. They also have a [general university scholarship program](https://www.blackhat.com/us-15/student-scholarship-program.html).
 
 ### [Strange Loop](https://thestrangeloop.com/)
 + __What__:: Strange Loop is a multi-disciplinary conference that aims to bring together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, mobile development, and the web.
-+ __CFP__:: 2015MAY15, https://thestrangeloop.com/sessions-page/call-for-presentations
++ __CFP__:: 2015May15, https://thestrangeloop.com/sessions-page/call-for-presentations
 + __When__:: 2015SEP24-26
 + __Where__:: St Louis, MO, USA
 + __FinAid__:: All speakers receive free admission to Strange Loop, reduced cost (50% off) on workshops and up to 4 nights of hotel, with airfare covered for US or Canada or a $500 travel stipend for international speakers. Their [Diversity scholarships](https://thestrangeloop.com/attendees/diversity-scholarships)  program provides support for women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
-
 
 ### [DjangoCon USA](https://2015.djangocon.us/)
 + __What__:: DjangoCon USA
@@ -46,18 +55,17 @@ List of events with an __OPEN__ call for proposals (CFP). {{NB: The listing will
 + __Where__:: Heidelberg International youth hostel in Heidelberg, Germany.
 + __FinAid__:: Was available in 2014. 2015 status is unknown.
 
+### [Laracon EU](http://laracon.eu)
++ __What__:: A conference on the PHP web-development Laravel framework. http://laracon.eu/2015
++ __CFP__:: {CLOSED} 2015MAY01, for submissions about Laravel, PHP, and tools related to rapid application development.
++ __When__:: 2015AUG25-26
++ __Where__:: Amsterdam, The Netherlands.
++ __FA/Grant__:: All chosen speakers will have their travel and hotel paid for. 
 
 ----
 
-# CLOSED CFP
+# PAST
 A list of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
-
-### [Laracon EU](http://laracon.eu)
-+ __What__:: A conference on the PHP web-development Laravel framework. http://laracon.eu/2015
-+ __CFP__:: 2015MAY01, for submissions about Laravel, PHP, and tools related to rapid application development.
-+ __When__:: 2015AUG25-26
-+ __Where__:: Amsterdam, the Netherlands
-+ FA/Grant : All chosen speakers will have their travel and hotel paid for. 
 
 ### EuroPython
 + __What__:: EuroPython 2015.
@@ -68,7 +76,7 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 
 ### PyCon Australia
 + __What__:: PyCon Australia is the national conference for users of the Python Programming Language.
-+ __CFP__:: 2015MAY08 : http://2015.pycon-au.org/cfp
++ __CFP__:: 2015MAY08, http://2015.pycon-au.org/cfp
 + __When__:: 2015JUL31-2015AUG04
 + __Where__:: Pullman Brisbane - King George Square, Australia.
 + __FinAid__:: 2015 status is TBA.
@@ -87,7 +95,7 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 + __Where__:: Convention Center Dublin, Ireland
 + __FinAid__:: [Travel Fellowships](https://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-travel-fellowship) for students and postdoctoral fellows to present a talk or poster at the conference is available.
 
-### [Ada Camp](http://adacamp.org/) 
+### [AdaCamp](http://adacamp.org/) 
 + __What__:: A conference dedicated to increasing women's participation in open technology and culture.
 + __CFP__:: 
 + __When__:: YYYYMMMDD
@@ -104,14 +112,14 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 ### [JuliaCon](http://juliacon.org)
 + __What__:: The Julia Language conference.
 + __CFP__:: Extended to Sunday, 2015Apr12 at 11:59pm EDT.
-+ __When__:: 2015JUN24-28
++ __When__:: 2015Jun24-28
 + __Where__:: Cambridge, MA
 + __FinAid__:: Was available in 2014. 2015 status is unknown.
 
 ### SciPy
 + __What__:: [SciPy 2015](http://scipy2015.scipy.org) is the fourteenth annual Scientific Computing with Python conference, dedicated to the advancement of scientific computing through open source Python software for mathematics, science, and engineering.
-+ __CFP__:: 2015APR01
-+ __When__:: 2015JUL06-12
++ __CFP__:: 2015Apr01
++ __When__:: 2015Jul06-12
 + __Where__:: Austin, Texas.
 + __FinAid__:: Offers scholarships open to community members and students to attend the conference - funding for airfare, lodging, and conference registration. [Apply by 2015APR15](http://www.scipy2015.scipy.org/ehome/115969/259279/?&)
 
@@ -153,7 +161,7 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 ### Pycon USA
 + __What__::
 + __CFP__::
-+ __When__:: YYYYMMMDD
++ __When__:: 2016May
 + __Where__::
 + __FinAid__:: Submit a [travel grant](https://us.pycon.org/2015/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by JAN15'th to enable people to attend the conference in March/April.
 
@@ -164,16 +172,7 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 + __Where__:: Bengaluru, India. 
 + __FinAid__::
 
-### GHC.USA
-Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the following grants: 
-+ __What__:: Grace Hopper Celebration, USA.
-+ __CFP__::
-+ __When__:: YYYYMMMDD
-+ __Where__:: Bengaluru, India. 
-+ __FinAid__:: 1. The [salesforce scholarship](http://gracehopper.salesforceux.com) is for students who are currently *residents of USA only*. 2. CEWiT offers scholarships for *Bloomington students* to attend [Grace Hopper Celebration of Women in Computing](http://cewit.indiana.edu/news/ghc-scholarship.shtml).
-+ __Tips__:: 1. Post-docs can register under student pricing. 2. If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
-   
-### [GORUCO](http://goruco.com)
+ ### [GORUCO](http://goruco.com)
 + __What__:: The Gotham Ruby Conference.
 + __CFP__:: The talk submission deadline: 2015MAR24.
 + __When__:: 2015JUN20
