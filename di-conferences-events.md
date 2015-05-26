@@ -1,13 +1,20 @@
 A list of barcamps, camps, conferences, events, meetups, workshops and unconferences that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to current students and/or Professors. 
 
 + [PRESENT](#present)
++ [FiNEWS](#finews)
 + [PAST](#past)
-+ [NEWS](#news)
 
 ---- 
 
 # PRESENT
-List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.))
+List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
+
+### [ThunderPlains Conf](http://thunderplainsconf.com/)
++ __What__:: ThunderPlains is a web and mobile developer conference organized by the Oklahoma City Javascript User Group. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
++ __CFP__:: http://cfp.thunderplainsconf.com/
++ __When__:: 2015Nov03
++ __Where__:: Cox Convention Center, Oklahoma City, USA.
++ __FinAid__:: http://cfp.thunderplainsconf.com/package
 
 ### [LAtINiTY](http://www.latinity.info)
 + __What__:: Latin American Women in Technology (LAtINiTY) is a 2-day conference where participants will have the opportunity to listen to women leaders from the region and discuss gender issues in computing and technology.
@@ -18,7 +25,7 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 
 ### GHC.USA
 + __What__:: The [Grace Hopper Celebration](http://gracehopper.org/) (USA), offers the following grants: 
-+ __CFP__::
++ __CFP__:: Closed.
 + __When__:: 2015Oct14-16.
 + __Where__:: Houston, TX.
 + __FinAid__:: 1. The [Google travel grants](http://googleforstudents.blogspot.fr/2015/05/applications-for-travel-grants-to-2015.html) is for women and students who are currently *residents of USA and Canada only*. 
@@ -36,7 +43,7 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __CFP__:: 2015May15, https://thestrangeloop.com/sessions-page/call-for-presentations
 + __When__:: 2015SEP24-26
 + __Where__:: St Louis, MO, USA
-+ __FinAid__:: All speakers receive free admission to Strange Loop, reduced cost (50% off) on workshops and up to 4 nights of hotel, with airfare covered for US or Canada or a $500 travel stipend for international speakers. Their [Diversity scholarships](https://thestrangeloop.com/attendees/diversity-scholarships)  program provides support for women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
++ __FinAid__:: All __speakers__ receive free admission to Strange Loop, reduced cost (50% off) on workshops and up to 4 nights of hotel, with airfare covered for US or Canada or a $500 travel stipend for international speakers. Their [Diversity scholarships](https://thestrangeloop.com/attendees/diversity-scholarships) program provides support for women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
 
 ### [DjangoCon USA](https://2015.djangocon.us/)
 + __What__:: DjangoCon USA
@@ -66,6 +73,16 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __When__:: 2015AUG25-26
 + __Where__:: Amsterdam, The Netherlands.
 + __FA/Grant__:: All chosen speakers will have their travel and hotel paid for. 
+
+----
+
+# FiNEWS
+Additional NEWS and links for financial support, either as travel grants, tickets or other event-based scholarships.
++ [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
++ The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) and [STEM grants](http://geekfeminism.wikia.com/wiki/Scholarships_and_grants_for_women_and_minorities_in_STEM) list for women.
++ [Google](https://www.google.com/edu/scholarships/) provides travel and conference grants for specific events, mostly for students. 
++ [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
++ [The LWN.net community event calendar](http://lwn.net/Calendar/)
 
 ----
 
@@ -226,14 +243,5 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 + __Where__:: Eaton European Innovation Centre (EEIC), Prague - Roztoky.
 + __FinAid__:: Travel and accommodation costs may be reimbursed for students living more than 50k from Prague.
 
-
-----
-
-# NEWS
-+ [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
-+ The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) list for geek events which women may be eligible for.
-+ [Google](https://www.google.com/edu/scholarships/) provides travel and conference grants for specific events, mostly for students. 
-+ [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
-+ [The LWN.net community event calendar](http://lwn.net/Calendar/)
 
 
