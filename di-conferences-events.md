@@ -9,14 +9,19 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 # PRESENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.))
 
+### [LAtINiTY](http://www.latinity.info)
++ __What__:: Latin American Women in Technology (LAtINiTY) is a 2-day conference where participants will have the opportunity to listen to women leaders from the region and discuss gender issues in computing and technology.
++ __CFP__:: http://www.latinity.info/call-for-participation/
++ __When__:: 2015Nov09-10
++ __Where__:: Santiago, Chile.
++ __FinAid__:: Information not available on the website.
 
 ### GHC.USA
-The Grace Hopper Celebration (GHC), USA](http://gracehopper.org/) offers the following grants: 
-+ __What__:: Grace Hopper Celebration, USA.
++ __What__:: The [Grace Hopper Celebration](http://gracehopper.org/) (USA), offers the following grants: 
 + __CFP__::
 + __When__:: 2015Oct14-16.
 + __Where__:: Houston, TX.
-+ __FinAid__:: 1. The [Google travel grants](http://googleforstudents.blogspot.fr/2015/05/applications-for-travel-grants-to-2015.html) is for women and students who are currently *residents of USA/Canada only*. 
++ __FinAid__:: 1. The [Google travel grants](http://googleforstudents.blogspot.fr/2015/05/applications-for-travel-grants-to-2015.html) is for women and students who are currently *residents of USA and Canada only*. 
 + __Tips__:: 1. Post-docs can register under student pricing. 2. If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
 
 ### Black Hat & EWF 
