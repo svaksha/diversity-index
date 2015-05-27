@@ -82,7 +82,8 @@ Additional NEWS and links for financial support, either as travel grants, ticket
 + The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) and [STEM grants](http://geekfeminism.wikia.com/wiki/Scholarships_and_grants_for_women_and_minorities_in_STEM) list for women.
 + [Google](https://www.google.com/edu/scholarships/) provides travel and conference grants for specific events, mostly for students. 
 + [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
-+ [The LWN.net community event calendar](http://lwn.net/Calendar/)
++ [The LWN.net community event calendar](http://lwn.net/Calendar/).
++ Free [conference calling](https://www.freeconferencecall.com/) service.
 
 ----
 
