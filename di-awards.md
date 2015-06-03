@@ -8,4 +8,4 @@
 ### ABI-Systers
 + [Pass-It-On Awards](http://anitaborg.org/awards-grants/pass-it-on-awards-program/) 
 + Open to women ALL over the world. [APPLY HERE](http://systers.submittable.com/submit)!
-
++ [Tech Initiatives for marginalized groups](https://gist.github.com/anikalindtner/9524950) by @anikalindtner
