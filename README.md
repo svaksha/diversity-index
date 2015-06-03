@@ -17,10 +17,8 @@ The "diversity" scarcity problem is a lot more prominent within FOSS where the _
 
 **[50-DI](http://svaksha.github.io/50-DI)** is a curated DiversityIndex of grants, scholarships, travel bursary and/or financial aid offered to women (including those who identify as women in a way that's significant to them) from __ALL around the world__, by conferences and companies sponsoring education to encourage diversity in STEM fields among __half the world's population__. Lets track the DiversityIndex and quantify _how_ much help is actually available to women across the world from the following pages:
 
-+ [di-awards.md](https://github.com/svaksha/50-DI/blob/master/di-awards.md) :: General grants and awards for Women in STEM.
++ [di-awards.md](https://github.com/svaksha/50-DI/blob/master/di-awards.md) :: General grants and awards for Women in STEM, Post Doctoral Research grants and Scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world.
 + [di-conferences-events.md](https://github.com/svaksha/50-DI/blob/master/di-conferences-events.md) :: Track the DiversityIndex of women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events thanks to financial aid and travel grants.
-+ [di-edu-postdoc-research.md](https://github.com/svaksha/50-DI/blob/master/di-edu-postdoc-research.md) :: Post Doctoral Research grants. 
-+ [di-edu-university.md](https://github.com/svaksha/50-DI/blob/master/di-edu-university.md) :: Track the DiversityIndex in scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world. 
 + [di-internships.md](https://github.com/svaksha/50-DI/blob/master/di-internships.md) :: Summer of Code programs and internships open to women applicants.
 + [notes-speakers.md](https://github.com/svaksha/50-DI/blob/master/notes-speakers.md) :: Useful tips for conference speakers.
 
