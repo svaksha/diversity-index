@@ -9,6 +9,15 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 # PRESENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
 
+### [womENcourage](http://womencourage.acm.org/)
++ __What__:: To register for the conference, please visit: http://www.regonline.com/acmweurope2015 
++ __CFP__:: Closed.
++ __When__:: 2015SEP24-26
++ __Where__:: Uppsala University, Sweden.
++ __FinAid__:: 
+        1. Google has an open Travel Grant [application](https://docs.google.com/forms/d/1a53FRvTEWZnSGvbGqx-LwT1OZ4hBMWg2K7JxZCLXPBY/viewform) process until 2015Jul31 for attending the WomEncourage conference.
+        2. [Grants](http://womencourage.acm.org/grants.cfm) are available with an [eligibility criteria](http://womencourage.acm.org/eligibility.cfm). 
+
 ### [ThunderPlains Conf](http://thunderplainsconf.com/)
 + __What__:: ThunderPlains is a web and mobile developer conference organized by the Oklahoma City Javascript User Group. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
 + __CFP__:: http://cfp.thunderplainsconf.com/
@@ -108,13 +117,6 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 + __When__:: 2015JUL31-2015AUG04
 + __Where__:: Pullman Brisbane - King George Square, Australia.
 + __FinAid__:: 2015 status is TBA.
-
-### [womENcourage](http://womencourage.acm.org/)
-+ __What__:: To register for the conference, please visit: http://www.regonline.com/acmweurope2015 
-+ __CFP__:: Closed.
-+ __When__:: 2015SEP24-26
-+ __Where__:: Uppsala University, Sweden.
-+ __FinAid__:: [Grants](http://womencourage.acm.org/grants.cfm) are available with an [eligibility criteria](http://womencourage.acm.org/eligibility.cfm).
 
 ### [Computational Biology – ISMB/ECCB 2015!](https://www.iscb.org/ismbeccb2015) 
 + __What__:: The 23rd Annual International Conference on Intelligent Systems for Molecular Biology and the 14th European Conference on Computational Biology
