@@ -1,8 +1,8 @@
 A list of barcamps, camps, conferences, events, meetups, workshops and unconferences that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to current students and/or Professors. 
 
 + [PRESENT](#present)
-+ [FiNEWS](#finews)
 + [PAST](#past)
++ [FiNEWS](#finews)
 
 ---- 
 
@@ -15,8 +15,8 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __When__:: 2015SEP24-26
 + __Where__:: Uppsala University, Sweden.
 + __FinAid__:: 
-        1. Google has an open Travel Grant [application](https://docs.google.com/forms/d/1a53FRvTEWZnSGvbGqx-LwT1OZ4hBMWg2K7JxZCLXPBY/viewform) process until 2015Jul31 for attending the WomEncourage conference.
-        2. [Grants](http://womencourage.acm.org/grants.cfm) are available with an [eligibility criteria](http://womencourage.acm.org/eligibility.cfm). 
+   1. Google has an open Travel Grant [application](https://docs.google.com/forms/d/1a53FRvTEWZnSGvbGqx-LwT1OZ4hBMWg2K7JxZCLXPBY/viewform) process until 2015Jul31 for attending the WomEncourage conference.
+   2. [Grants](http://womencourage.acm.org/grants.cfm) are available with an [eligibility criteria](http://womencourage.acm.org/eligibility.cfm). 
 
 ### [ThunderPlains Conf](http://thunderplainsconf.com/)
 + __What__:: ThunderPlains is a web and mobile developer conference organized by the Oklahoma City Javascript User Group. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
@@ -38,11 +38,11 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __When__:: 2015Oct14-16.
 + __Where__:: Houston, TX.
 + __FinAid__:: 
-        1. The [Google travel grants](http://googleforstudents.blogspot.fr/2015/05/applications-for-travel-grants-to-2015.html) is for women and students who are currently *residents of USA and Canada only*. 
-        2. The [Facebook GHC scholarship](https://www.facebook.com/careers/program/gracehopper2015/) deadline is 2015Jun19, 11:59pm PST.
+   1. The [Google travel grants](http://googleforstudents.blogspot.fr/2015/05/applications-for-travel-grants-to-2015.html) is for women and students who are currently *residents of USA and Canada only*. 
+   2. The [Facebook GHC scholarship](https://www.facebook.com/careers/program/gracehopper2015/) deadline is 2015Jun19, 11:59pm PST.
 + __Tips__:: 
-        1. Post-docs can register under student pricing. 
-        2. If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
+   1. Post-docs can register under student pricing. 
+   2. If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
 
 ### Black Hat & EWF 
 + __What__:: The Black Hat conference and The Executive Women's Forum (a conference and network of women leaders in information security) announce the launch of the [Future Female Leaders Scholarship Program](http://www.ewf-usa.com/?page=BlackHatScholarship
@@ -87,17 +87,6 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __Where__:: Amsterdam, The Netherlands.
 + __FA/Grant__:: All chosen speakers will have their travel and hotel paid for. 
 
-----
-
-# FiNEWS
-Additional NEWS and links for financial support, either as travel grants, tickets or other event-based scholarships.
-+ The Prince Claus Fund’s [Ticket Fund](http://www.princeclausfund.org/en/activities/the-prince-claus-fund-s-ticket-fund.html) supports the cross-cultural exchange of artists and cultural practitioners. Its not clear if STEM fallsunder the ambit of Art.
-+ [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
-+ The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) and [STEM grants](http://geekfeminism.wikia.com/wiki/Scholarships_and_grants_for_women_and_minorities_in_STEM) list for women.
-+ [Google](https://www.google.com/edu/scholarships/) provides travel and conference grants for specific events, mostly for students. 
-+ [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
-+ [The LWN.net community event calendar](http://lwn.net/Calendar/).
-+ Free [conference calling](https://www.freeconferencecall.com/) service.
 
 ----
 
@@ -252,4 +241,15 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 + __FinAid__:: Travel and accommodation costs may be reimbursed for students living more than 50k from Prague.
 
 
+----
+
+# FiNEWS
+Additional NEWS and links for financial support, either as travel grants, tickets or other event-based scholarships.
++ The Prince Claus Fund’s [Ticket Fund](http://www.princeclausfund.org/en/activities/the-prince-claus-fund-s-ticket-fund.html) supports the cross-cultural exchange of artists and cultural practitioners. Its not clear if STEM fallsunder the ambit of Art.
++ [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
++ The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) and [STEM grants](http://geekfeminism.wikia.com/wiki/Scholarships_and_grants_for_women_and_minorities_in_STEM) list for women.
++ [Google](https://www.google.com/edu/scholarships/) provides travel and conference grants for specific events, mostly for students. 
++ [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
++ [The LWN.net community event calendar](http://lwn.net/Calendar/).
++ Free [conference calling](https://www.freeconferencecall.com/) service.
 
