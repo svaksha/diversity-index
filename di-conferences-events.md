@@ -9,6 +9,12 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 # PRESENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
 
+### [MesosCon](http://events.linuxfoundation.org/events/mesoscon)
++ __What__:: MesosCon is the annual open source #ApacheMesos developers conference.
++ __CFP__:: Closed.
++ __When__:: 2015Aug20-21.
++ __Where__:: Seattle, WA.
++ __Diversity__:: Currently accepting applications for their [diversity scholarship](http://events.linuxfoundation.org/events/mesoscon/attend/scholarship) which provides financial assistance for women (cis and trans), genderqueer people, people of color, and people with disabilities. Scholarship recipients will receive a free registration ticket, can request support for travel and hotel.
 
 ### [CSSconf EU 2015](http://womencourage.acm.org/)
 + __What__:: CSSconf EU is targeted at CSS professionals, CSS creatives, CSS aficionados.
