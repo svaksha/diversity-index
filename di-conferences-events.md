@@ -9,6 +9,13 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 # PRESENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
 
+### [Lesbians Who Tech](http://lesbianswhotech.org/berlinsummit/)
++ __What__:: Lesbians Who Tech is hosting the first-ever annual Summit in Berlin to bring together queer women in tech (and allies) for the most unique technology conference ever.
++ __CFP__:: Apply to [speak here](https://docs.google.com/forms/d/1zT-G2RtTL7h-nnsCql6OxDyA-YpPSwADivZVG2XCCT0/viewform?edit_requested=true).
++ __When__:: 2015Aug28–30
++ __Where__:: Berlin, DE, EU.
++ __Diversity__:: Apply for their [diversity scholarship](https://docs.google.com/forms/d/1soxRk3J-1usogalOgLV_wCTCX6gW4mmxTqcsTlttD2E/viewform).
+
 ### [MesosCon](http://events.linuxfoundation.org/events/mesoscon)
 + __What__:: MesosCon is the annual open source #ApacheMesos developers conference.
 + __CFP__:: Closed.
