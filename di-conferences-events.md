@@ -273,3 +273,14 @@ Additional NEWS and links for financial support, either as travel grants, ticket
 + [The LWN.net community event calendar](http://lwn.net/Calendar/).
 + Free [conference calling](https://www.freeconferencecall.com/) service.
 
+----
+
+# Only US Citizens
+Diversity awards restricted to American women only (citizens or permanent residents).
+
+### Women in Power Conference
++ __What__:: SCinet, the Supercomputing Conference (SC).
++ __CFP__:: None.
++ __When__:: -
++ __Where__:: USA.
++ __Diversity__:: SC15 SCinet Diversity Grant [Application form](https://drive.google.com/file/d/0BwuiWtHaa8YWRVFVd09GemdMd0U/view). Please submit applications to <sc-women@ucar.edu> with your resume and a Letter of Support from your employer by July 10, 2015 11:59pm Pacific Time.

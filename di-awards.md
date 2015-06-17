@@ -2,14 +2,14 @@ __General grants and awards for Women in STEM, Post Doctoral Research grants and
 
 + [INTERNATIONAL SCHOLARSHIPS](#international-scholarships)
    + [Doctoral Fellowships](#doctoral-fellowships)
-+ [NATIONAL SCHOLARSHIPS](#national-scholarships)
++ [SCHOLARSHIPS by NATIONALITY](#scholarships-by-nationality)
    + [USA](#usa)
 + [RESEARCH GRANTS](#research-grants)
    + [Human Health](#human-health)
    
 ----
 
-+ [Tech Initiatives for marginalized groups](https://gist.github.com/anikalindtner/9524950) by @anikalindtner
++ [Tech Initiatives for marginalized groups](https://gist.github.com/anikalindtner/9524950) by @anikalindtner.
 
 ----
 
@@ -33,7 +33,7 @@ __Alphabetical listing of awards for international and national scholarships, fe
 
 ----
 
-# NATIONAL SCHOLARSHIPS
+# SCHOLARSHIPS by NATIONALITY
 List of scholarships by country, which require the applicant to be a Citizen or a permanent resident of the country at the time of applying.
 
 ## USA
