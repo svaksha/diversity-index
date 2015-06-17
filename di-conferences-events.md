@@ -264,7 +264,8 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 
 # FiNEWS
 Additional NEWS and links for financial support, either as travel grants, tickets or other event-based scholarships.
-+ The Prince Claus Fund’s [Ticket Fund](http://www.princeclausfund.org/en/activities/the-prince-claus-fund-s-ticket-fund.html) supports the cross-cultural exchange of artists and cultural practitioners. Its not clear if STEM fallsunder the ambit of Art.
+
++ The Prince Claus Fund’s [Ticket Fund](http://www.princeclausfund.org/en/activities/the-prince-claus-fund-s-ticket-fund.html) supports the cross-cultural exchange of artists and cultural practitioners. Its not clear if STEM falls under the ambit of Art.
 + [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
 + The [GeekFeminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) has a [travel and attendance funding](http://geekfeminism.wikia.com/wiki/Travel_funding) and [STEM grants](http://geekfeminism.wikia.com/wiki/Scholarships_and_grants_for_women_and_minorities_in_STEM) list for women.
 + [Google](https://www.google.com/edu/scholarships/) provides travel and conference grants for specific events, mostly for students. 
