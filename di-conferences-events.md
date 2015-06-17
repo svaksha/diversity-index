@@ -9,6 +9,13 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 # PRESENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
 
+### DebConf
++ __What__:: The Debian conference - http://debconf15.debconf.org/
++ __CFP__:: 2015JUN15, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
++ __When__:: 2015AUG15-22
++ __Where__:: Heidelberg International youth hostel in Heidelberg, Germany.
++ __Diversity__:: http://blog.debconf.org/blog/debconf15/2015-06-17_debconf15_diversity_sponsorship.dc
+
 ### [Lesbians Who Tech](http://lesbianswhotech.org/berlinsummit/)
 + __What__:: Lesbians Who Tech is hosting the first-ever annual Summit in Berlin to bring together queer women in tech (and allies) for the most unique technology conference ever.
 + __CFP__:: Apply to [speak here](https://docs.google.com/forms/d/1zT-G2RtTL7h-nnsCql6OxDyA-YpPSwADivZVG2XCCT0/viewform?edit_requested=true).
@@ -86,7 +93,6 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __Where__:: Austin, Texas, USA.
 + __Diversity__:: Travel/Accommodation grants are available.
 
-
 ### [HTML5DevConf](http://html5devconf.com/)
 + __What__:: HTML5Devconf is the largest gathering of technical software developers, designers and decision makers in the world focused on Internet software technologies such as JavaScript, HTML5, CSS, node.js and other cross platform web, mobile and server technologies.
 + __CFP__:: https://docs.google.com/forms/d/1RQ79YieG1zGrzVRz0HDJXJhPevCxHZlyUHQbgeUPam0/viewform
@@ -94,20 +100,12 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __Where__:: San Francisco, USA.
 + __Diversity__:: TBA for 2015.
 
-### DebConf
-+ __What__:: The Debian conference - http://debconf15.debconf.org/
-+ __CFP__:: 2015JUN15, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
-+ __When__:: 2015AUG15-22
-+ __Where__:: Heidelberg International youth hostel in Heidelberg, Germany.
-+ __Diversity__:: Was available in 2014. 2015 status is unknown.
-
 ### [Laracon EU](http://laracon.eu)
 + __What__:: A conference on the PHP web-development Laravel framework. http://laracon.eu/2015
 + __CFP__:: {CLOSED} 2015MAY01, for submissions about Laravel, PHP, and tools related to rapid application development.
 + __When__:: 2015AUG25-26
 + __Where__:: Amsterdam, The Netherlands.
 + __FA/Grant__:: All chosen speakers will have their travel and hotel paid for. 
-
 
 ----
 
