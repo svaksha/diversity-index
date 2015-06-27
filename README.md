@@ -20,7 +20,7 @@ The **[diversity-index](http://svaksha.github.io/diversity-index)** is a curated
 + [di-awards.md](https://github.com/svaksha/diversity-index/blob/master/di-awards.md) :: General grants and awards for Women in STEM, Post Doctoral Research grants and Scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world.
 + [di-conferences-events.md](https://github.com/svaksha/diversity-index/blob/master/di-conferences-events.md) :: Track the DiversityIndex of women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events thanks to financial aid and travel grants.
 + [di-internships.md](https://github.com/svaksha/diversity-index/blob/master/di-internships.md) :: Summer of Code programs and internships open to women applicants.
-+ [notes-speakers.md](https://github.com/svaksha/diversity-index/blob/master/notes-speakers.md) :: Useful tips for conference speakers.
++ [di-resources.md](https://github.com/svaksha/diversity-index/blob/master/di-resources.md) :: Useful resources for conference speakers and diversity links.
 
 ----
 
