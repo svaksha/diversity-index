@@ -68,6 +68,7 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __Diversity__:: 
    1. The [Google travel grants](http://googleforstudents.blogspot.fr/2015/05/applications-for-travel-grants-to-2015.html) is for women and students who are currently *residents of USA and Canada only*. 
    2. The [Facebook GHC scholarship](https://www.facebook.com/careers/program/gracehopper2015/) deadline is 2015Jun19, 11:59pm PST.
+   3. The [Twitter GHC scholarship](http://twitterghcfellowship.splashthat.com/) deadline is July 1st 2015, 11:59pm PST. *For currently enrolled  students (juniors/seniors/graduates) in CS/CE/related fields in the USA and Canada only.*
 + __Tips__:: 
    1. Post-docs can register under student pricing. 
    2. If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
