@@ -9,6 +9,13 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 # PRESENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
 
+### RubyConf.CO
++ __What__:: Rubyconf at Colombia.
++ __CFP__:: 2015Jul31, at 11:59pm COT, http://cfp.rubyconf.co/events/cfp-2015
++ __When__:: 2015Oct15-17
++ __Where__:: Medellín, Colombia.
++ __Diversity__:: [What do Speakers get?](http://cfp.rubyconf.co/events/cfp-2015)
+
 ### DebConf
 + __What__:: The Debian conference - http://debconf15.debconf.org/
 + __CFP__:: 2015JUN15, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
