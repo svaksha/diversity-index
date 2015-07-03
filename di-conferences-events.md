@@ -1,4 +1,4 @@
-A list of barcamps, camps, conferences, events, meetups, workshops and unconferences that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to current students and/or Professors. 
+A list of events (barcamps, camps, conferences, meetups, workshops and unconferences) that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to currently enrolled University students and/or Professors. 
 
 + [PRESENT](#present)
 + [PAST](#past)
@@ -8,6 +8,13 @@ A list of barcamps, camps, conferences, events, meetups, workshops and unconfere
 
 # PRESENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
+
+### PyCON-HK
++ __What__:: PyCON HongKong 2015 - First Python Conference in Hong Kong!
++ __CFP__:: 2015Aug16 Sunday 23:30 hrs, [CFP form](https://docs.google.com/forms/d/19GB9YdTStjK6f7L_6m-3fwgu0ufkWTT65DO5BImlQ2w/viewform).
++ __When__:: 2015Nov7-8
++ __Where__:: Cyberport, HK.
++ __Diversity__:: 2015Aug16 23:30 hrs, [Application form](https://docs.google.com/forms/d/10vZxzB7ED77CfKrX1iVBAHXeHrfzMAgGu1YaUtUIZqw/viewform).
 
 ### RubyConf.CO
 + __What__:: Rubyconf at Colombia.
