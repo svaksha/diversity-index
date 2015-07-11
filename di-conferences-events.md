@@ -9,6 +9,13 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 # PRESENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
 
+### [TXJS](https://2015.texasjavascript.com/)
++ __What__:: TXJS is one of the oldest JavaScript conferences, a single track conference featuring some of the most interesting speakers on JavaScript, HTML, CSS, and UX. All skill levels are welcome. 
++ __CFP__:: Closed.
++ __When__:: 2015Jul24
++ __Where__:: Paramount Theatre in downtown Austin, TX.
++ __Diversity__:: [Two diversity scholarships](https://2015.texasjavascript.com/#diversity-scholarship) are available!
+
 ### PyCON-HK
 + __What__:: PyCON HongKong 2015 - First Python Conference in Hong Kong!
 + __CFP__:: 2015Aug16 Sunday 23:30 hrs, [CFP form](https://docs.google.com/forms/d/19GB9YdTStjK6f7L_6m-3fwgu0ufkWTT65DO5BImlQ2w/viewform).
