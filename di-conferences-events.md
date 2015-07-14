@@ -1,20 +1,20 @@
 A list of events (barcamps, camps, conferences, meetups, workshops and unconferences) that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to currently enrolled University students and/or Professors. 
 
-+ [PRESENT](#present)
-+ [PAST](#past)
++ [OPEN](#open)
++ [CLOSED](#closed)
 + [FiNEWS](#finews)
 
 ---- 
 
-# PRESENT
+# OPEN
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
 
-### [TXJS](https://2015.texasjavascript.com/)
-+ __What__:: TXJS is one of the oldest JavaScript conferences, a single track conference featuring some of the most interesting speakers on JavaScript, HTML, CSS, and UX. All skill levels are welcome. 
-+ __CFP__:: Closed.
-+ __When__:: 2015Jul24
-+ __Where__:: Paramount Theatre in downtown Austin, TX.
-+ __Diversity__:: [Two diversity scholarships](https://2015.texasjavascript.com/#diversity-scholarship) are available!
+### [Madison PHP conference](http://2015.madisonphpconference.com/)
++ __What__:: The Madison PHP conference is a one day, three track conference that focuses on PHP and related web technologies. 
++ __CFP__:: Closes on [2015Aug04](http://cfp.madisonphpconference.com/).
++ __When__:: 2015Nov14
++ __Where__:: Madison, Wisconsin.
++ __Diversity__:: The [Speaker package](http://cfp.madisonphpconference.com/package) encourages international speakers.
 
 ### PyCON-HK
 + __What__:: PyCON HongKong 2015 - First Python Conference in Hong Kong!
@@ -25,17 +25,10 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 
 ### RubyConf.CO
 + __What__:: Rubyconf at Colombia.
-+ __CFP__:: 2015Jul31, at 11:59pm COT, http://cfp.rubyconf.co/events/cfp-2015
++ __CFP__:: [2015Jul31, at 11:59pm COT](http://cfp.rubyconf.co/events/cfp-2015)
 + __When__:: 2015Oct15-17
 + __Where__:: Medellín, Colombia.
 + __Diversity__:: [What do Speakers get?](http://cfp.rubyconf.co/events/cfp-2015)
-
-### DebConf
-+ __What__:: The Debian conference - http://debconf15.debconf.org/
-+ __CFP__:: 2015JUN15, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
-+ __When__:: 2015AUG15-22
-+ __Where__:: Heidelberg International youth hostel in Heidelberg, Germany.
-+ __Diversity__:: http://blog.debconf.org/blog/debconf15/2015-06-17_debconf15_diversity_sponsorship.dc
 
 ### [Lesbians Who Tech](http://lesbianswhotech.org/berlinsummit/)
 + __What__:: Lesbians Who Tech is hosting the first-ever annual Summit in Berlin to bring together queer women in tech (and allies) for the most unique technology conference ever.
@@ -44,28 +37,13 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __Where__:: Berlin, DE, EU.
 + __Diversity__:: Apply for their [diversity scholarship](https://docs.google.com/forms/d/1soxRk3J-1usogalOgLV_wCTCX6gW4mmxTqcsTlttD2E/viewform).
 
-### [MesosCon](http://events.linuxfoundation.org/events/mesoscon)
-+ __What__:: MesosCon is the annual open source #ApacheMesos developers conference.
-+ __CFP__:: Closed.
-+ __When__:: 2015Aug20-21.
-+ __Where__:: Seattle, WA.
-+ __Diversity__:: Currently accepting applications for their [diversity scholarship](http://events.linuxfoundation.org/events/mesoscon/attend/scholarship) which provides financial assistance for women (cis and trans), genderqueer people, people of color, and people with disabilities. Scholarship recipients will receive a free registration ticket, can request support for travel and hotel.
 
-### [CSSconf EU 2015](http://womencourage.acm.org/)
+### [CSSconf EU 2015](http://2015.cssconf.eu/)
 + __What__:: CSSconf EU is targeted at CSS professionals, CSS creatives, CSS aficionados.
 + __CFP__:: Proposals can be submitted until [2015JUL15, midnight CEST](http://2015.cssconf.eu/call-for-speakers/).
 + __When__:: 2015SEP26
 + __Where__:: Berlin, Germany.
 + __Diversity__:: http://2015.cssconf.eu/scholarships/
-
-### [womENcourage](http://womencourage.acm.org/)
-+ __What__:: To register for the conference, please visit: http://www.regonline.com/acmweurope2015 
-+ __CFP__:: Closed.
-+ __When__:: 2015SEP24-26
-+ __Where__:: Uppsala University, Sweden.
-+ __Diversity__:: 
-   1. Google has an open Travel Grant [application](https://docs.google.com/forms/d/1a53FRvTEWZnSGvbGqx-LwT1OZ4hBMWg2K7JxZCLXPBY/viewform) process until 2015Jul31 for attending the WomEncourage conference.
-   2. [Grants](http://womencourage.acm.org/grants.cfm) are available with an [eligibility criteria](http://womencourage.acm.org/eligibility.cfm). 
 
 ### [ThunderPlains Conf](http://thunderplainsconf.com/)
 + __What__:: ThunderPlains is a web and mobile developer conference organized by the Oklahoma City Javascript User Group. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
@@ -80,6 +58,11 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __When__:: 2015Nov09-10
 + __Where__:: Santiago, Chile.
 + __Diversity__:: Information not available on the website.
+
+----
+
+# CLOSED
+A list of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
 
 ### GHC.USA
 + __What__:: The [Grace Hopper Celebration](http://gracehopper.org/) (USA), offers the following grants: 
@@ -129,10 +112,12 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 + __Where__:: Amsterdam, The Netherlands.
 + __FA/Grant__:: All chosen speakers will have their travel and hotel paid for. 
 
-----
-
-# PAST
-A list of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
+### [JSConf EU](http://2015.jsconf.eu/)
++ __What__:: JSConf EU is the JavaScript community conference.
++ __CFP__:: Closed, http://2015.jsconf.eu/call-for-speakers/
++ __When__:: 2015Sep25-27.
++ __Where__:: Berlin.
++ __Diversity__:: JSConf-EU speakers travel, conf registration and accomodation are covered.
 
 ### EuroPython
 + __What__:: EuroPython 2015.
@@ -274,6 +259,29 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 + __Where__:: USA
 + __Diversity__:: Apply for workshop and travel funding by 2015APR01.
 
+### DebConf
++ __What__:: The Debian conference - http://debconf15.debconf.org/
++ __CFP__:: 2015JUN15, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
++ __When__:: 2015AUG15-22
++ __Where__:: Heidelberg International youth hostel in Heidelberg, Germany.
++ __Diversity__:: http://blog.debconf.org/blog/debconf15/2015-06-17_debconf15_diversity_sponsorship.dc
+
+### [MesosCon](http://events.linuxfoundation.org/events/mesoscon)
++ __What__:: MesosCon is the annual open source #ApacheMesos developers conference.
++ __CFP__:: Closed.
++ __When__:: 2015Aug20-21.
++ __Where__:: Seattle, WA.
++ __Diversity__:: Currently accepting applications for their [diversity scholarship](http://events.linuxfoundation.org/events/mesoscon/attend/scholarship) which provides financial assistance for women (cis and trans), genderqueer people, people of color, and people with disabilities. Scholarship recipients will receive a free registration ticket, can request support for travel and hotel.
+
+### [womENcourage](http://womencourage.acm.org/)
++ __What__:: To register for the conference, please visit: http://www.regonline.com/acmweurope2015 
++ __CFP__:: Closed.
++ __When__:: 2015SEP24-26
++ __Where__:: Uppsala University, Sweden.
++ __Diversity__:: 
+   1. Google has an open Travel Grant [application](https://docs.google.com/forms/d/1a53FRvTEWZnSGvbGqx-LwT1OZ4hBMWg2K7JxZCLXPBY/viewform) process until 2015Jul31 for attending the WomEncourage conference.
+   2. [Grants](http://womencourage.acm.org/grants.cfm) are available with an [eligibility criteria](http://womencourage.acm.org/eligibility.cfm). 
+
 ### Women in Power Conference
 + __What__:: Women in Power Conference
 + __CFP__:: None.
@@ -281,6 +289,12 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 + __Where__:: Eaton European Innovation Centre (EEIC), Prague - Roztoky.
 + __Diversity__:: Travel and accommodation costs may be reimbursed for students living more than 50k from Prague.
 
+### [TXJS](https://2015.texasjavascript.com/)
++ __What__:: TXJS is one of the oldest JavaScript conferences, a single track conference featuring some of the most interesting speakers on JavaScript, HTML, CSS, and UX. All skill levels are welcome. 
++ __CFP__:: Closed.
++ __When__:: 2015Jul24
++ __Where__:: Paramount Theatre in downtown Austin, TX.
++ __Diversity__:: [Two diversity scholarships](https://2015.texasjavascript.com/#diversity-scholarship) are available!
 
 ----
 
