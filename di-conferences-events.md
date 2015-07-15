@@ -9,6 +9,14 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 # OPEN
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
 
+
+### [HashiConf](https://hashiconf.com/)
++ __What__:: A `DevOps` conf covering a wide spectrum from developer-focused to IT/Ops/DevOps "HashiCorp" tools (Vagrant, Packer, Consul, Terraform, Vault) dedicated to automating the modern datacenter.
++ __CFP__:: Closed, but they are looking for women speakers to submit talks on any "HashiCorp" tools.
++ __When__:: 2015Sep28-29 
++ __Where__:: Portland, OR.
++ __Diversity__:: Speaker travel and lodging is covered.
+
 ### [Madison PHP conference](http://2015.madisonphpconference.com/)
 + __What__:: The Madison PHP conference is a one day, three track conference that focuses on PHP and related web technologies. 
 + __CFP__:: Closes on [2015Aug04](http://cfp.madisonphpconference.com/).
