@@ -28,8 +28,13 @@ __Alphabetical listing of awards for international and national scholarships, fe
 + List of [Scholarships that accept applications from International Students](http://scholarships.berkeley.edu/main_content/schol_details/pdf/int_student_opportunities.pdf) at various American Universities. 
 + The [Scholarship Connection Website](http://scholarships.berkeley.edu/) from the University of California, Berkeley, maintains a database of information on scholarships that are funded by sources outside the University. While these listings are not restricted to women, so you will need to spend some time searching for scholarships of interest to you.
 
-### Doctoral Fellowships
-+ [SFI Omidyar Fellowship](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/) :: The Santa Fe Institute seeks interdisciplinary post-doctoral scientists for the SFI Omidyar Fellowship. Candidates from **any country, any discipline, and women and members of under-represented** groups are encouraged to apply beween 11AUG2014 to 24OCT2014 via their [application form](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/).
+## Doctoral Fellowships
+#### [SFI Omidyar Fellowship](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/) 
++ __DETAILS__:: The Santa Fe Institute seeks interdisciplinary post-doctoral scientists for the SFI Omidyar Fellowship. Candidates from **any country, any discipline, and women and members of under-represented** groups are encouraged to apply via their [website form](http://www.santafe.edu/education/fellowships/omidyar-postdoctoral/).
++ __DATES__:: 2015/AUG/10 - 2015/NOV/01
++ __ELIGIBILITY__:: A PhD in any discipline (completed by September 2016).
++ __PERIOD__:: Up to three years beginning summer/fall 2016.
++ __EMAIL__:: <ofellowship@santafe.edu>
 
 ----
 
