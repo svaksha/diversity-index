@@ -9,6 +9,16 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 # OPEN
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
 
+### [CITCON](http://citconf.com/index.php) {{UnConference}}
++ __What__:: CITCON, the Continuous Integration and Testing Conference, is a world-wide series of free Open Spaces events for developer-testers, tester-developers and anyone else with an interest in Continuous Integration and the type of Testing that goes along with it.
++ __CFP__:: Its an OpenSpace UnConference where anyone can talk. First Come, First Served.
++ __When__:: 
+        1. CITCON Europe 2015 in Helsinki, Finland, September 11th & 12th
+        2. CITCON North America 2015 in Ann Arbor, Michigan, October 2nd & 3rd
+        3. CITCON Asia 2016 in Bangalore and Pune, India
+        4. CITCON ANZ 2016 in Perth, Australia
++ __Where__:: Helsinki (FI), Ann Arbor (US), Bangalore (IN), Pune (IN), and Perth (AU)
++ __Diversity__:: None.
 
 ### [HashiConf](https://hashiconf.com/)
 + __What__:: A `DevOps` conf covering a wide spectrum from developer-focused to IT/Ops/DevOps "HashiCorp" tools (Vagrant, Packer, Consul, Terraform, Vault) dedicated to automating the modern datacenter.
