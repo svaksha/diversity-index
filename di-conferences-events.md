@@ -1,13 +1,23 @@
 A list of events (barcamps, camps, conferences, meetups, workshops and unconferences) that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to currently enrolled University students and/or Professors. 
 
-+ [OPEN](#open)
-+ [CLOSED](#closed)
++ [PRESENT](#present)
++ [PAST](#past)
 + [FiNEWS](#finews)
 
 ---- 
 
-# OPEN
-List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). {{NB: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}
+# PRESENT
+List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
+__{{NotaBene: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}__
+
+
+
+### ABI.Delhi-NCR
++ __What__:: The Anita Borg Institute (ABI) India has launched a new initiative the __ABI.Delhi-NCR__, focused on building a local community to connect women technologists and tech organizations in this region. ABI.Delhi-NCR will allow women technologists including professionals and students to build their networks, discover opportunities and receive career guidance. [Register](http://anitaborg.org/dot-local/delhi-ncr-networking-reception/) to be a part of it!
++ __CFP__:: None.
++ __When__:: 2015Aug27, 0845-1730 hours.
++ __Where__:: ITC Maurya, New Delhi, India.
++ __Diversity__:: An exclusive event for women in technology by ABI. 
 
 ### [CITCON](http://citconf.com/index.php) {{UnConference}}
 + __What__:: CITCON, the Continuous Integration and Testing Conference, is a world-wide series of free Open Spaces events for developer-testers, tester-developers and anyone else with an interest in Continuous Integration and the type of Testing that goes along with it.
@@ -17,7 +27,7 @@ List of current events either offering travel grants or an __OPEN__ call for pro
         2. CITCON North America 2015 in Ann Arbor, Michigan, October 2nd & 3rd
         3. CITCON Asia 2016 in Bangalore and Pune, India
         4. CITCON ANZ 2016 in Perth, Australia
-+ __Where__:: Helsinki (FI), Ann Arbor (US), Bangalore (IN), Pune (IN), and Perth (AU)
++ __Where__:: Helsinki (FI), Ann Arbor (US), Bangalore (IN), Pune (IN), and Perth (AU).
 + __Diversity__:: None.
 
 ### [HashiConf](https://hashiconf.com/)
@@ -79,8 +89,8 @@ List of current events either offering travel grants or an __OPEN__ call for pro
 
 ----
 
-# CLOSED
-A list of concluded events, including those whose call for proposals (CFP) has **CLOSED**. Check their website to see if registration tickets to attend the conference are still available on sale.
+# PAST
+A list of events that were conducted OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
 
 ### GHC.USA
 + __What__:: The [Grace Hopper Celebration](http://gracehopper.org/) (USA), offers the following grants: 
@@ -90,7 +100,7 @@ A list of concluded events, including those whose call for proposals (CFP) has *
 + __Diversity__:: 
    1. The [Google travel grants](http://googleforstudents.blogspot.fr/2015/05/applications-for-travel-grants-to-2015.html) is for women and students who are currently *residents of USA and Canada only*. 
    2. The [Facebook GHC scholarship](https://www.facebook.com/careers/program/gracehopper2015/) deadline is 2015Jun19, 11:59pm PST.
-   3. The [Twitter GHC scholarship](http://twitterghcfellowship.splashthat.com/) deadline is July 1st 2015, 11:59pm PST. *For currently enrolled  students (juniors/seniors/graduates) in CS/CE/related fields in the USA and Canada only.*
+   3. The [Twitter GHC scholarship](http://twitterghcfellowship.splashthat.com/) deadline is 2015Jul01, 11:59pm PST. *For currently enrolled  students (juniors/seniors/graduates) in CS/CE/related fields in the USA and Canada only.*
 + __Tips__:: 
    1. Post-docs can register under student pricing. 
    2. If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
