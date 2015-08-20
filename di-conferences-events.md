@@ -8,83 +8,65 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 
 # PRESENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
-__{{NotaBene: The listing will be moved to the `PAST` section below when the CFP closes and/or the conference date approaches.}}__
-
-
+__{{NotaBene: The listing will be moved to the `PAST` section below Date & Venue the CFP closes and/or the conference date approaches.}}__
 
 ### ABI.Delhi-NCR
-+ __What__:: The Anita Borg Institute (ABI) India has launched a new initiative the __ABI.Delhi-NCR__, focused on building a local community to connect women technologists and tech organizations in this region. ABI.Delhi-NCR will allow women technologists including professionals and students to build their networks, discover opportunities and receive career guidance. [Register](http://anitaborg.org/dot-local/delhi-ncr-networking-reception/) to be a part of it!
++ __Info__:: The Anita Borg Institute (ABI) India has launched a new initiative the __ABI.Delhi-NCR__, focused on building a local community to connect women technologists and tech organizations in this region. ABI.Delhi-NCR will allow women technologists including professionals and students to build their networks, discover opportunities and receive career guidance. [Register](http://anitaborg.org/dot-local/delhi-ncr-networking-reception/) to be a part of it!
++ __Date & Venue__:: 2015Aug27, 0845-1730 hours. ITC Maurya, New Delhi, India.
 + __CFP__:: None.
-+ __When__:: 2015Aug27, 0845-1730 hours.
-+ __Where__:: ITC Maurya, New Delhi, India.
 + __Diversity__:: An exclusive event for women in technology by ABI. 
 
+### [Django Under The Hood](http://www.djangounderthehood.com/)
++ __Info__:: A conference for Django developers happening in November in Amsterdam, EU.
++ __Date & Venue__:: 2015Nov05 (Thursday, 1300hrs) to 2015Nov07 (ends late). At the Pakhuis de Zwijger, Amsterdam, Netherlands. 
++ __CFP__:: None.
++ __Diversity__:: [Applications](http://www.djangounderthehood.com/scholarship/) are due 2015Aug21'st, by the end of the day CEST (Amsterdam time).
+
 ### [CITCON](http://citconf.com/index.php) {{UnConference}}
-+ __What__:: CITCON, the Continuous Integration and Testing Conference, is a world-wide series of free Open Spaces events for developer-testers, tester-developers and anyone else with an interest in Continuous Integration and the type of Testing that goes along with it.
-+ __CFP__:: Its an OpenSpace UnConference where anyone can talk. First Come, First Served.
-+ __When__:: 
++ __Info__:: CITCON, the Continuous Integration and Testing Conference, is a world-wide series of free Open Spaces events for developer-testers, tester-developers and anyone else with an interest in Continuous Integration and the type of Testing that goes along with it.
++ __Date & Venue__:: 
         1. CITCON Europe 2015 in Helsinki, Finland, September 11th & 12th
         2. CITCON North America 2015 in Ann Arbor, Michigan, October 2nd & 3rd
         3. CITCON Asia 2016 in Bangalore and Pune, India
         4. CITCON ANZ 2016 in Perth, Australia
-+ __Where__:: Helsinki (FI), Ann Arbor (US), Bangalore (IN), Pune (IN), and Perth (AU).
++ __CFP__:: Its an OpenSpace UnConference where anyone can talk. First Come, First Served.
 + __Diversity__:: None.
 
-### [HashiConf](https://hashiconf.com/)
-+ __What__:: A `DevOps` conf covering a wide spectrum from developer-focused to IT/Ops/DevOps "HashiCorp" tools (Vagrant, Packer, Consul, Terraform, Vault) dedicated to automating the modern datacenter.
-+ __CFP__:: Closed, but they are looking for women speakers to submit talks on any "HashiCorp" tools.
-+ __When__:: 2015Sep28-29 
-+ __Where__:: Portland, OR.
-+ __Diversity__:: Speaker travel and lodging is covered.
-
-### [Madison PHP conference](http://2015.madisonphpconference.com/)
-+ __What__:: The Madison PHP conference is a one day, three track conference that focuses on PHP and related web technologies. 
-+ __CFP__:: Closes on [2015Aug04](http://cfp.madisonphpconference.com/).
-+ __When__:: 2015Nov14
-+ __Where__:: Madison, Wisconsin.
-+ __Diversity__:: The [Speaker package](http://cfp.madisonphpconference.com/package) encourages international speakers.
 
 ### PyCON-HK
-+ __What__:: PyCON HongKong 2015 - First Python Conference in Hong Kong!
++ __Info__:: PyCON HongKong 2015 - First Python Conference in Hong Kong!
++ __Date & Venue__:: 2015Nov7-8 @ Cyberport, HK.
 + __CFP__:: 2015Aug16 Sunday 23:30 hrs, [CFP form](https://docs.google.com/forms/d/19GB9YdTStjK6f7L_6m-3fwgu0ufkWTT65DO5BImlQ2w/viewform).
-+ __When__:: 2015Nov7-8
-+ __Where__:: Cyberport, HK.
 + __Diversity__:: 2015Aug16 23:30 hrs, [Application form](https://docs.google.com/forms/d/10vZxzB7ED77CfKrX1iVBAHXeHrfzMAgGu1YaUtUIZqw/viewform).
 
 ### RubyConf.CO
-+ __What__:: Rubyconf at Colombia.
++ __Info__:: Rubyconf at Colombia.
++ __Date & Venue__:: 2015Oct15-17 @ Medellín, Colombia.
 + __CFP__:: [2015Jul31, at 11:59pm COT](http://cfp.rubyconf.co/events/cfp-2015)
-+ __When__:: 2015Oct15-17
-+ __Where__:: Medellín, Colombia.
-+ __Diversity__:: [What do Speakers get?](http://cfp.rubyconf.co/events/cfp-2015)
++ __Diversity__:: [Info do Speakers get?](http://cfp.rubyconf.co/events/cfp-2015)
 
 ### [Lesbians Who Tech](http://lesbianswhotech.org/berlinsummit/)
-+ __What__:: Lesbians Who Tech is hosting the first-ever annual Summit in Berlin to bring together queer women in tech (and allies) for the most unique technology conference ever.
++ __Info__:: Lesbians Who Tech is hosting the first-ever annual Summit in Berlin to bring together queer women in tech (and allies) for the most unique technology conference ever.
++ __Date & Venue__:: 2015Aug28–30 @ Berlin, DE, EU.
 + __CFP__:: Apply to [speak here](https://docs.google.com/forms/d/1zT-G2RtTL7h-nnsCql6OxDyA-YpPSwADivZVG2XCCT0/viewform?edit_requested=true).
-+ __When__:: 2015Aug28–30
-+ __Where__:: Berlin, DE, EU.
 + __Diversity__:: Apply for their [diversity scholarship](https://docs.google.com/forms/d/1soxRk3J-1usogalOgLV_wCTCX6gW4mmxTqcsTlttD2E/viewform).
 
-
 ### [CSSconf EU 2015](http://2015.cssconf.eu/)
-+ __What__:: CSSconf EU is targeted at CSS professionals, CSS creatives, CSS aficionados.
++ __Info__:: CSSconf EU is targeted at CSS professionals, CSS creatives, CSS aficionados.
++ __Date & Venue__:: 2015SEP26 @ Berlin, Germany.
 + __CFP__:: Proposals can be submitted until [2015JUL15, midnight CEST](http://2015.cssconf.eu/call-for-speakers/).
-+ __When__:: 2015SEP26
-+ __Where__:: Berlin, Germany.
 + __Diversity__:: http://2015.cssconf.eu/scholarships/
 
 ### [ThunderPlains Conf](http://thunderplainsconf.com/)
-+ __What__:: ThunderPlains is a web and mobile developer conference organized by the Oklahoma City Javascript User Group. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
++ __Info__:: ThunderPlains is a web and mobile developer conference organized by the Oklahoma City Javascript User Group. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
 + __CFP__:: http://cfp.thunderplainsconf.com/
-+ __When__:: 2015Nov03
-+ __Where__:: Cox Convention Center, Oklahoma City, USA.
++ __Date & Venue__:: 2015Nov03 @ Cox Convention Center, Oklahoma City, USA.
 + __Diversity__:: http://cfp.thunderplainsconf.com/package
 
 ### [LAtINiTY](http://www.latinity.info)
-+ __What__:: Latin American Women in Technology (LAtINiTY) is a 2-day conference where participants will have the opportunity to listen to women leaders from the region and discuss gender issues in computing and technology.
++ __Info__:: Latin American Women in Technology (LAtINiTY) is a 2-day conference where participants will have the opportunity to listen to women leaders from the region and discuss gender issues in computing and technology.
++ __Date & Venue__:: 2015Nov09-10 @ Santiago, Chile.
 + __CFP__:: http://www.latinity.info/call-for-participation/
-+ __When__:: 2015Nov09-10
-+ __Where__:: Santiago, Chile.
 + __Diversity__:: Information not available on the website.
 
 ----
@@ -93,10 +75,9 @@ __{{NotaBene: The listing will be moved to the `PAST` section below when the CFP
 A list of events that were conducted OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
 
 ### GHC.USA
-+ __What__:: The [Grace Hopper Celebration](http://gracehopper.org/) (USA), offers the following grants: 
++ __Info__:: The [Grace Hopper Celebration](http://gracehopper.org/) (USA), offers the following grants: 
++ __Date & Venue__:: 2015Oct14-16 @ Houston, TX.
 + __CFP__:: Closed.
-+ __When__:: 2015Oct14-16.
-+ __Where__:: Houston, TX.
 + __Diversity__:: 
    1. The [Google travel grants](http://googleforstudents.blogspot.fr/2015/05/applications-for-travel-grants-to-2015.html) is for women and students who are currently *residents of USA and Canada only*. 
    2. The [Facebook GHC scholarship](https://www.facebook.com/careers/program/gracehopper2015/) deadline is 2015Jun19, 11:59pm PST.
@@ -106,223 +87,189 @@ A list of events that were conducted OR whose call for proposals (CFP) has **CLO
    2. If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
 
 ### Black Hat & EWF 
-+ __What__:: The Black Hat conference and The Executive Women's Forum (a conference and network of women leaders in information security) announce the launch of the [Future Female Leaders Scholarship Program](http://www.ewf-usa.com/?page=BlackHatScholarship
++ __Info__:: The Black Hat conference and The Executive Women's Forum (a conference and network of women leaders in information security) announce the launch of the [Future Female Leaders Scholarship Program](http://www.ewf-usa.com/?page=BlackHatScholarship
++ __Date & Venue__:: -, USA
 + __CFP__:: -
-+ __When__:: -
-+ __Where__:: USA
 + __Diversity__:: 50 scholarship passes to women students interested in information security, and interested students must submit by 2015Jun26. They also have a [general university scholarship program](https://www.blackhat.com/us-15/student-scholarship-program.html).
 
 ### [Strange Loop](https://thestrangeloop.com/)
-+ __What__:: Strange Loop is a multi-disciplinary conference that aims to bring together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, mobile development, and the web.
++ __Info__:: Strange Loop is a multi-disciplinary conference that aims to bring together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, mobile development, and the web.
++ __Date & Venue__:: 2015SEP24-26 @ St Louis, MO, USA
 + __CFP__:: 2015May15, https://thestrangeloop.com/sessions-page/call-for-presentations
-+ __When__:: 2015SEP24-26
-+ __Where__:: St Louis, MO, USA
 + __Diversity__:: All __speakers__ receive free admission to Strange Loop, reduced cost (50% off) on workshops and up to 4 nights of hotel, with airfare covered for US or Canada or a $500 travel stipend for international speakers. Their [Diversity scholarships](https://thestrangeloop.com/attendees/diversity-scholarships) program provides support for women, people of color, and people with disabilities who may not otherwise have the opportunity to attend Strange Loop for financial reasons.
 
 ### [DjangoCon USA](https://2015.djangocon.us/)
-+ __What__:: DjangoCon USA
++ __Info__:: DjangoCon USA
++ __Date & Venue__:: 2015SEP06-11 @ Austin, Texas, USA.
 + __CFP__:: 2015MAY15 via https://2015.djangocon.us/speaking/cfp/
-+ __When__:: 2015SEP06-11
-+ __Where__:: Austin, Texas, USA.
 + __Diversity__:: Travel/Accommodation grants are available.
 
 ### [HTML5DevConf](http://html5devconf.com/)
-+ __What__:: HTML5Devconf is the largest gathering of technical software developers, designers and decision makers in the world focused on Internet software technologies such as JavaScript, HTML5, CSS, node.js and other cross platform web, mobile and server technologies.
++ __Info__:: HTML5Devconf is the largest gathering of technical software developers, designers and decision makers in the world focused on Internet software technologies such as JavaScript, HTML5, CSS, node.js and other cross platform web, mobile and server technologies.
++ __Date & Venue__:: 2015OCT19-20 @ San Francisco, USA.
 + __CFP__:: https://docs.google.com/forms/d/1RQ79YieG1zGrzVRz0HDJXJhPevCxHZlyUHQbgeUPam0/viewform
-+ __When__:: 2015OCT19-20
-+ __Where__:: San Francisco, USA.
 + __Diversity__:: TBA for 2015.
 
 ### [Laracon EU](http://laracon.eu)
-+ __What__:: A conference on the PHP web-development Laravel framework. http://laracon.eu/2015
++ __Info__:: A conference on the PHP web-development Laravel framework. http://laracon.eu/2015
++ __Date & Venue__:: 2015AUG25-26 @ Amsterdam, The Netherlands.
 + __CFP__:: {CLOSED} 2015MAY01, for submissions about Laravel, PHP, and tools related to rapid application development.
-+ __When__:: 2015AUG25-26
-+ __Where__:: Amsterdam, The Netherlands.
 + __FA/Grant__:: All chosen speakers will have their travel and hotel paid for. 
 
 ### [JSConf EU](http://2015.jsconf.eu/)
-+ __What__:: JSConf EU is the JavaScript community conference.
++ __Info__:: JSConf EU is the JavaScript community conference.
++ __Date & Venue__:: 2015Sep25-27 @ Berlin.
 + __CFP__:: Closed, http://2015.jsconf.eu/call-for-speakers/
-+ __When__:: 2015Sep25-27.
-+ __Where__:: Berlin.
 + __Diversity__:: JSConf-EU speakers travel, conf registration and accomodation are covered.
 
 ### EuroPython
-+ __What__:: EuroPython 2015.
++ __Info__:: EuroPython 2015.
++ __Date & Venue__:: 2015JUL20-26 @ Bilbao, Spain.
 + __CFP__:: 2015APR28, Thursday, 23:59:59 CEST, https://ep2015.europython.eu/en/call-for-proposals/
-+ __When__:: 2015JUL20-26
-+ __Where__:: Bilbao, Spain.
 + __Diversity__:: Available for 2015.
 
 ### PyCon Australia
-+ __What__:: PyCon Australia is the national conference for users of the Python Programming Language.
++ __Info__:: PyCon Australia is the national conference for users of the Python Programming Language.
++ __Date & Venue__:: 2015JUL31-AUG04 @ Pullman Brisbane - King George Square, Australia.
 + __CFP__:: 2015MAY08, http://2015.pycon-au.org/cfp
-+ __When__:: 2015JUL31-2015AUG04
-+ __Where__:: Pullman Brisbane - King George Square, Australia.
-+ __Diversity__:: 2015 status is TBA.
++ __Diversity__:: -
 
 ### [Computational Biology – ISMB/ECCB 2015!](https://www.iscb.org/ismbeccb2015) 
-+ __What__:: The 23rd Annual International Conference on Intelligent Systems for Molecular Biology and the 14th European Conference on Computational Biology
++ __Info__:: The 23rd Annual International Conference on Intelligent Systems for Molecular Biology and the 14th European Conference on Computational Biology
++ __Date & Venue__:: 2015JUL10-14 @ Convention Center Dublin, Ireland
 + __CFP__:: -
-+ __When__:: 2015JUL10-14
-+ __Where__:: Convention Center Dublin, Ireland
 + __Diversity__:: [Travel Fellowships](https://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-travel-fellowship) for students and postdoctoral fellows to present a talk or poster at the conference is available.
 
-### [AdaCamp](http://adacamp.org/) 
-+ __What__:: A conference dedicated to increasing women's participation in open technology and culture.
-+ __CFP__:: 
-+ __When__:: YYYYMMMDD
-+ __Where__:: 
-+ __Diversity__::
-
 ### [DjangoCon Europe](http://2015.djangocon.eu/) 
-+ __What__:: They have lined up [mentors](http://2015.djangocon.eu/proposals/speaker-mentors/) to help you submit proposals. 
++ __Info__:: They have lined up [mentors](http://2015.djangocon.eu/proposals/speaker-mentors/) to help you submit proposals. 
++ __Date & Venue__:: 2015MAY31-2015JUN06 @ Cardiff, Wales.
 + __CFP__:: http://2015.djangocon.eu/proposals/
-+ __When__:: 2015MAY31-2015JUN06
-+ __Where__:: Cardiff, Wales.
 + __Diversity__:: They also have [financial assistance](http://2015.djangocon.eu/news/financial-assistance/) for attendees.
 
 ### [JuliaCon](http://juliacon.org)
-+ __What__:: The Julia Language conference.
++ __Info__:: The Julia Language conference.
++ __Date & Venue__:: 2015Jun24-28 @ Cambridge, MA
 + __CFP__:: Extended to Sunday, 2015Apr12 at 11:59pm EDT.
-+ __When__:: 2015Jun24-28
-+ __Where__:: Cambridge, MA
 + __Diversity__:: Was available in 2014. 2015 status is unknown.
 
 ### SciPy
-+ __What__:: [SciPy 2015](http://scipy2015.scipy.org) is the fourteenth annual Scientific Computing with Python conference, dedicated to the advancement of scientific computing through open source Python software for mathematics, science, and engineering.
++ __Info__:: [SciPy 2015](http://scipy2015.scipy.org) is the fourteenth annual Scientific Computing with Python conference, dedicated to the advancement of scientific computing through open source Python software for mathematics, science, and engineering.
 + __CFP__:: 2015Apr01
-+ __When__:: 2015Jul06-12
++ __Date & Venue__:: 2015Jul06-12
 + __Where__:: Austin, Texas.
 + __Diversity__:: Offers scholarships open to community members and students to attend the conference - funding for airfare, lodging, and conference registration. [Apply by 2015APR15](http://www.scipy2015.scipy.org/ehome/115969/259279/?&)
 
 ### EuroBSDcon
-+ __What__:: EuroBSDcon 2014, http://2014.eurobsdcon.org/
++ __Info__:: EuroBSDcon 2014, http://2014.eurobsdcon.org/
++ __Date & Venue__:: YYYYMMMDD @ Sofia, Bulgaria.
 + __CFP__:: -
-+ __When__:: YYYYMMMDD
-+ __Where__:: Sofia, Bulgaria.
 + __Diversity__:: [Free travel grants for women](http://geekfeminism.org/2014/08/23/quick-hit-free-tracavel-grants-for-women-to-attend-eurobsdcon-2014-in-sofia-bulgaria/) from Google. 
 
 ### [@Scale](https://code.facebook.com/atscale)
-+ __What__:: Facebook's conference on building applications and services that scale to millions or even billions of people.
++ __Info__:: Facebook's conference on building applications and services that scale to millions or even billions of people.
++ __Date & Venue__:: YYYYMMMDD
 + __CFP__:: 
-+ __When__:: YYYYMMMDD
-+ __Where__:: 
 + __Diversity__:: The Facebook-ABI partnership gave complimentary registrations to those that applied to earlier application for @Scale to bring more women to @Scale in 2014 by offering a number of reserved guaranteed registration for community of technical women. Due to the overwhelming response, they provided additional complimentary registrations.
 
 ### Chef Conf
-+ __What__:: Chef Conf is giving away 10 tickets - including an intro to chef workshop and all meals.
++ __Info__:: Chef Conf is giving away 10 tickets - including an intro to chef workshop and all meals.
++ __Date & Venue__:: YYYYMMMDD
 + __CFP__:: -
-+ __When__:: YYYYMMMDD
-+ __Where__:: 
 + __Diversity__:: Apply by 13/Mar/2015 : https://www.chef.io/blog/2015/03/05/apply-for-a-chefconf-2015-diversity-scholarship-by-march-13/
 
 ### [AlterConf](http://www.alterconf.com/)
-+ __What__:: http://www.alterconf.com/speak
++ __Info__:: http://www.alterconf.com/speak
++ __Date & Venue__:: 2015FEB28 @ Atlanta, GA, USA.
 + __CFP__:: 2015JAN15
-+ __When__:: 2015FEB28
-+ __Where__:: Atlanta, GA, USA.
 + __Diversity__:: They pay speakers for their time. 
 
 ### FOSS4G North America
-+ __What__::
++ __Info__::
++ __Date & Venue__:: YYYYMMMDD
 + __CFP__:: -
-+ __When__:: YYYYMMMDD
-+ __Where__::
 + __Diversity__:: Travel grants with a 60% set-aside for women and people of color. [Apply by 2015JAN17](https://2015.foss4g-na.org/news/foss4g-na-2015-conference-grants)
 
 ### Pycon USA
-+ __What__::
++ __Info__::
++ __Date & Venue__:: 2016May
 + __CFP__::
-+ __When__:: 2016May
-+ __Where__::
-+ __Diversity__:: Submit a [travel grant](https://us.pycon.org/2015/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by JAN15'th to enable people to attend the conference in March/April.
++ __Diversity__:: Submit a [travel grant](https://us.pycon.org/2015/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by JAN15'th to enable people to attend the conference in May.
 
 ### [GHC.IN](http://gracehopper.org.in/)
-+ __What__:: Grace Hopper Celebration, India. 
++ __Info__:: Grace Hopper Celebration, India. 
++ __Date & Venue__:: YYYYMMMDD @ Bengaluru, India. 
 + __CFP__::
-+ __When__:: YYYYMMMDD
-+ __Where__:: Bengaluru, India. 
 + __Diversity__::
 
- ### [GORUCO](http://goruco.com)
-+ __What__:: The Gotham Ruby Conference.
+### [GORUCO](http://goruco.com)
++ __Info__:: The Gotham Ruby Conference.
++ __Date & Venue__:: 2015JUN20 @ New York, NY
 + __CFP__:: The talk submission deadline: 2015MAR24.
-+ __When__:: 2015JUN20
-+ __Where__:: New York, NY
 + __Diversity__:: Speakers outside of the tri-state region are given a US$300 honorarium, plus $600 travel reimbursement. 
 
-### KDD 2015
-+ __What__:: The [Knowledge Discovery and Data Mining](http://www.kdd.org/kdd2015/) conference is an ACM SIG event, a premier conference and first Australian edition that brings together researchers and practitioners from data mining, knowledge discovery, data analytics, and big data.
-+ __CFP__:: -
-+ __When__:: YYYYMMMDD
-+ __Where__:: 
-+ __Diversity__:: 
-
 ### JSConf USA
-+ __What__:: http://2015.jsconf.us/
++ __Info__:: http://2015.jsconf.us/
++ __Date & Venue__:: 2015MAY27-29 @ Amelia Island, FL.
 + __CFP__:: 2015JAN30, http://2015.jsconf.us/call-for-speakers.html
-+ __When__:: 2015MAY27-29
-+ __Where__:: Amelia Island, FL.
 + __Diversity__:: Travel expenses are covered.
 
 ### LibrePlanet
-+ __What__:: LibrePlanet is an annual conference for free software enthusiasts : https://libreplanet.org/2015/
++ __Info__:: LibrePlanet is an annual conference for free software enthusiasts : https://libreplanet.org/2015/
++ __Date & Venue__:: 2015MAR21-22 @ MIT Stata Center, Cambridge, MA
 + __CFP__:: -
-+ __When__:: 2015MAR21-22
-+ __Where__:: MIT Stata Center, Cambridge, MA
 + __Diversity__:: They award partial to full travel scholarships to help people get to LibrePlanet, in addition to waiving any registration fees. [Support the LibrePlanet Scholarship Fund](https://my.fsf.org/civicrm/contribute/transact?reset=1&id=33).
 
-### [CRA-W "Early" Career Mentoring Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/50/Career-Mentoring-Workshop-CMW.aspx)
-+ __What__:: Mentoring for third year and later graduate students and early Ph.D.s interested in academia or national labs, studying or working in the USA, co-located with [Federated Computing Research Conference 2015](http://fcrc.acm.org/). 
+### CRA-W Workshops
++ __Info__:: Mentoring for [mid-career Ph.D.s](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/45/Mid-Career-Mentoring-Workshop-Mid-CMW.aspx) in academia or national labs, working in the USA, co-located with [Federated Computing Research Conference 2015](http://fcrc.acm.org/). 
+    1. [CRA-Grad Cohort Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/55/Default.aspx)
+    2. [CRA-W "Early" Career Mentoring Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/50/Career-Mentoring-Workshop-CMW.aspx)
++ __Date & Venue__:: YYYYMMMDD, USA
 + __CFP__:: -
-+ __When__:: YYYYMMMDD
-+ __Where__:: USA
-+ __Diversity__:: Apply for workshop and travel funding by 2015APR01.
-
-### [CRA-W "Mid-Career" Mentoring Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/45/Mid-Career-Mentoring-Workshop-Mid-CMW.aspx), 
-+ __What__:: Mentoring for mid-career Ph.D.s in academia or national labs, working in the USA, co-located with [Federated Computing Research Conference 2015](http://fcrc.acm.org/). [CRA-Grad Cohort Workshop](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/55/Default.aspx)
-+ __CFP__:: -
-+ __When__:: YYYYMMMDD
-+ __Where__:: USA
 + __Diversity__:: Apply for workshop and travel funding by 2015APR01.
 
 ### DebConf
-+ __What__:: The Debian conference - http://debconf15.debconf.org/
++ __Info__:: The Debian conference - http://debconf15.debconf.org/
++ __Date & Venue__:: 2015AUG15-22 @ Heidelberg International youth hostel in Heidelberg, Germany.
 + __CFP__:: 2015JUN15, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
-+ __When__:: 2015AUG15-22
-+ __Where__:: Heidelberg International youth hostel in Heidelberg, Germany.
 + __Diversity__:: http://blog.debconf.org/blog/debconf15/2015-06-17_debconf15_diversity_sponsorship.dc
 
 ### [MesosCon](http://events.linuxfoundation.org/events/mesoscon)
-+ __What__:: MesosCon is the annual open source #ApacheMesos developers conference.
++ __Info__:: MesosCon is the annual open source #ApacheMesos developers conference.
++ __Date & Venue__:: 2015Aug20-21 @ Seattle, WA.
 + __CFP__:: Closed.
-+ __When__:: 2015Aug20-21.
-+ __Where__:: Seattle, WA.
 + __Diversity__:: Currently accepting applications for their [diversity scholarship](http://events.linuxfoundation.org/events/mesoscon/attend/scholarship) which provides financial assistance for women (cis and trans), genderqueer people, people of color, and people with disabilities. Scholarship recipients will receive a free registration ticket, can request support for travel and hotel.
 
 ### [womENcourage](http://womencourage.acm.org/)
-+ __What__:: To register for the conference, please visit: http://www.regonline.com/acmweurope2015 
++ __Info__:: To register for the conference, please visit: http://www.regonline.com/acmweurope2015 
++ __Date & Venue__:: 2015SEP24-26 @ Uppsala University, Sweden.
 + __CFP__:: Closed.
-+ __When__:: 2015SEP24-26
-+ __Where__:: Uppsala University, Sweden.
 + __Diversity__:: 
    1. Google has an open Travel Grant [application](https://docs.google.com/forms/d/1a53FRvTEWZnSGvbGqx-LwT1OZ4hBMWg2K7JxZCLXPBY/viewform) process until 2015Jul31 for attending the WomEncourage conference.
    2. [Grants](http://womencourage.acm.org/grants.cfm) are available with an [eligibility criteria](http://womencourage.acm.org/eligibility.cfm). 
 
 ### Women in Power Conference
-+ __What__:: Women in Power Conference
++ __Info__:: Women in Power Conference
++ __Date & Venue__:: 2015APR22 @ Eaton European Innovation Centre (EEIC), Prague - Roztoky.
 + __CFP__:: None.
-+ __When__:: 2015APR22
-+ __Where__:: Eaton European Innovation Centre (EEIC), Prague - Roztoky.
 + __Diversity__:: Travel and accommodation costs may be reimbursed for students living more than 50k from Prague.
 
 ### [TXJS](https://2015.texasjavascript.com/)
-+ __What__:: TXJS is one of the oldest JavaScript conferences, a single track conference featuring some of the most interesting speakers on JavaScript, HTML, CSS, and UX. All skill levels are welcome. 
++ __Info__:: TXJS is one of the oldest JavaScript conferences, a single track conference featuring some of the most interesting speakers on JavaScript, HTML, CSS, and UX. All skill levels are welcome. 
++ __Date & Venue__:: 2015Jul24 @ Paramount Theatre in downtown Austin, TX.
 + __CFP__:: Closed.
-+ __When__:: 2015Jul24
-+ __Where__:: Paramount Theatre in downtown Austin, TX.
 + __Diversity__:: [Two diversity scholarships](https://2015.texasjavascript.com/#diversity-scholarship) are available!
+
+### [HashiConf](https://hashiconf.com/)
++ __Info__:: A `DevOps` conf covering a wide spectrum from developer-focused to IT/Ops/DevOps "HashiCorp" tools (Vagrant, Packer, Consul, Terraform, Vault) dedicated to automating the modern datacenter.
++ __Date & Venue__:: 2015Sep28-29 @ Portland, OR.
++ __CFP__:: Closed, but they are looking for women speakers to submit talks on any "HashiCorp" tools.
++ __Diversity__:: Speaker travel and lodging is covered.
+
+### [Madison PHP conference](http://2015.madisonphpconference.com/)
++ __Info__:: The Madison PHP conference is a one day, three track conference that focuses on PHP and related web technologies. 
++ __Date & Venue__:: 2015Nov14 @ Madison, Wisconsin.
++ __CFP__:: Closes on [2015Aug04](http://cfp.madisonphpconference.com/).
++ __Diversity__:: The [Speaker package](http://cfp.madisonphpconference.com/package) encourages international speakers.
 
 ----
 
@@ -337,14 +284,3 @@ Additional NEWS and links for financial support, either as travel grants, ticket
 + [The LWN.net community event calendar](http://lwn.net/Calendar/).
 + Free [conference calling](https://www.freeconferencecall.com/) service.
 
-----
-
-# Only US Citizens
-Diversity awards restricted to American women only (citizens or permanent residents).
-
-### Women in Power Conference
-+ __What__:: SCinet, the Supercomputing Conference (SC).
-+ __CFP__:: None.
-+ __When__:: -
-+ __Where__:: USA.
-+ __Diversity__:: SC15 SCinet Diversity Grant [Application form](https://drive.google.com/file/d/0BwuiWtHaa8YWRVFVd09GemdMd0U/view). Please submit applications to <sc-women@ucar.edu> with your resume and a Letter of Support from your employer by July 10, 2015 11:59pm Pacific Time.
