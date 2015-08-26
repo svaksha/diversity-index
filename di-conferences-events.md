@@ -10,6 +10,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `PAST` section below Date & Venue the CFP closes and/or the conference date approaches.}}__
 
+### [ConFoo](http://confoo.ca/en)
++ __Info__:: ConFoo is a multi-technology conference for web developers.
++ __Date & Venue__:: 2016Feb22-26 @ Montréal, Canada
++ __CFP__:: 2015Sep20 - http://confoo.ca/en/call-for-papers
++ __Diversity__:: They cover travel and accommodation expenses for speakers outside of Quebec. Typically 3 nights for North-Americans and 5 nights for more distant speakers. 
+
 ### ABI.Delhi-NCR
 + __Info__:: The Anita Borg Institute (ABI) India has launched a new initiative the __ABI.Delhi-NCR__, focused on building a local community to connect women technologists and tech organizations in this region. ABI.Delhi-NCR will allow women technologists including professionals and students to build their networks, discover opportunities and receive career guidance. [Register](http://anitaborg.org/dot-local/delhi-ncr-networking-reception/) to be a part of it!
 + __Date & Venue__:: 2015Aug27, 0845-1730 hours. ITC Maurya, New Delhi, India.
