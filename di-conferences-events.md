@@ -1,12 +1,12 @@
 A list of events (barcamps, camps, conferences, meetups, workshops and unconferences) that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to currently enrolled University students and/or Professors. 
 
-+ [PRESENT](#present)
-+ [PAST](#past)
++ [CURRENT](#current)
++ [ARCHIVE](#archive)
 + [FiNEWS](#finews)
 
 ---- 
 
-# PRESENT
+# CURRENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `PAST` section below Date & Venue the CFP closes and/or the conference date approaches.}}__
 
@@ -15,12 +15,6 @@ __{{NotaBene: The listing will be moved to the `PAST` section below Date & Venue
 + __Date & Venue__:: 2016Feb22-26 @ Montréal, Canada
 + __CFP__:: 2015Sep20 - http://confoo.ca/en/call-for-papers
 + __Diversity__:: They cover travel and accommodation expenses for speakers outside of Quebec. Typically 3 nights for North-Americans and 5 nights for more distant speakers. 
-
-### ABI.Delhi-NCR
-+ __Info__:: The Anita Borg Institute (ABI) India has launched a new initiative the __ABI.Delhi-NCR__, focused on building a local community to connect women technologists and tech organizations in this region. ABI.Delhi-NCR will allow women technologists including professionals and students to build their networks, discover opportunities and receive career guidance. [Register](http://anitaborg.org/dot-local/delhi-ncr-networking-reception/) to be a part of it!
-+ __Date & Venue__:: 2015Aug27, 0845-1730 hours. ITC Maurya, New Delhi, India.
-+ __CFP__:: None.
-+ __Diversity__:: An exclusive event for women in technology by ABI. 
 
 ### [Django Under The Hood](http://www.djangounderthehood.com/)
 + __Info__:: A conference for Django developers happening in November in Amsterdam, EU.
@@ -36,32 +30,7 @@ __{{NotaBene: The listing will be moved to the `PAST` section below Date & Venue
         3. CITCON Asia 2016 in Bangalore and Pune, India
         4. CITCON ANZ 2016 in Perth, Australia
 + __CFP__:: Its an OpenSpace UnConference where anyone can talk. First Come, First Served.
-+ __Diversity__:: None.
-
-
-### PyCON-HK
-+ __Info__:: PyCON HongKong 2015 - First Python Conference in Hong Kong!
-+ __Date & Venue__:: 2015Nov7-8 @ Cyberport, HK.
-+ __CFP__:: 2015Aug16 Sunday 23:30 hrs, [CFP form](https://docs.google.com/forms/d/19GB9YdTStjK6f7L_6m-3fwgu0ufkWTT65DO5BImlQ2w/viewform).
-+ __Diversity__:: 2015Aug16 23:30 hrs, [Application form](https://docs.google.com/forms/d/10vZxzB7ED77CfKrX1iVBAHXeHrfzMAgGu1YaUtUIZqw/viewform).
-
-### RubyConf.CO
-+ __Info__:: Rubyconf at Colombia.
-+ __Date & Venue__:: 2015Oct15-17 @ Medellín, Colombia.
-+ __CFP__:: [2015Jul31, at 11:59pm COT](http://cfp.rubyconf.co/events/cfp-2015)
-+ __Diversity__:: [Info do Speakers get?](http://cfp.rubyconf.co/events/cfp-2015)
-
-### [Lesbians Who Tech](http://lesbianswhotech.org/berlinsummit/)
-+ __Info__:: Lesbians Who Tech is hosting the first-ever annual Summit in Berlin to bring together queer women in tech (and allies) for the most unique technology conference ever.
-+ __Date & Venue__:: 2015Aug28–30 @ Berlin, DE, EU.
-+ __CFP__:: Apply to [speak here](https://docs.google.com/forms/d/1zT-G2RtTL7h-nnsCql6OxDyA-YpPSwADivZVG2XCCT0/viewform?edit_requested=true).
-+ __Diversity__:: Apply for their [diversity scholarship](https://docs.google.com/forms/d/1soxRk3J-1usogalOgLV_wCTCX6gW4mmxTqcsTlttD2E/viewform).
-
-### [CSSconf EU 2015](http://2015.cssconf.eu/)
-+ __Info__:: CSSconf EU is targeted at CSS professionals, CSS creatives, CSS aficionados.
-+ __Date & Venue__:: 2015SEP26 @ Berlin, Germany.
-+ __CFP__:: Proposals can be submitted until [2015JUL15, midnight CEST](http://2015.cssconf.eu/call-for-speakers/).
-+ __Diversity__:: http://2015.cssconf.eu/scholarships/
++ __Diversity__:: Free Event.
 
 ### [ThunderPlains Conf](http://thunderplainsconf.com/)
 + __Info__:: ThunderPlains is a web and mobile developer conference organized by the Oklahoma City Javascript User Group. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
@@ -77,8 +46,8 @@ __{{NotaBene: The listing will be moved to the `PAST` section below Date & Venue
 
 ----
 
-# PAST
-A list of events that were conducted OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
+# ARCHIVE
+An archive of events that were conducted OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
 
 ### GHC.USA
 + __Info__:: The [Grace Hopper Celebration](http://gracehopper.org/) (USA), offers the following grants: 
@@ -91,6 +60,36 @@ A list of events that were conducted OR whose call for proposals (CFP) has **CLO
 + __Tips__:: 
    1. Post-docs can register under student pricing. 
    2. If your employer isn't funding your trip to GHC/conference ticket you can register as a "Transition" attendee.
+
+### PyCON-HK
++ __Info__:: PyCON HongKong 2015 - First Python Conference in Hong Kong!
++ __Date & Venue__:: 2015Nov7-8 @ Cyberport, HK.
++ __CFP__:: 2015Aug16 Sunday 23:30 hrs, [CFP form](https://docs.google.com/forms/d/19GB9YdTStjK6f7L_6m-3fwgu0ufkWTT65DO5BImlQ2w/viewform).
++ __Diversity__:: 2015Aug16 23:30 hrs, [Application form](https://docs.google.com/forms/d/10vZxzB7ED77CfKrX1iVBAHXeHrfzMAgGu1YaUtUIZqw/viewform).
+
+### RubyConf.CO
++ __Info__:: Rubyconf at Colombia.
++ __Date & Venue__:: 2015Oct15-17 @ Medellín, Colombia.
++ __CFP__:: [2015Jul31, at 11:59pm COT](http://cfp.rubyconf.co/events/cfp-2015)
++ __Diversity__:: [Info do Speakers get?](http://cfp.rubyconf.co/events/cfp-2015)
+
+### ABI.Delhi-NCR
++ __Info__:: The Anita Borg Institute (ABI) India has launched a new initiative the __ABI.Delhi-NCR__, focused on building a local community to connect women technologists and tech organizations in this region. ABI.Delhi-NCR will allow women technologists including professionals and students to build their networks, discover opportunities and receive career guidance. [Register](http://anitaborg.org/dot-local/delhi-ncr-networking-reception/) to be a part of it!
++ __Date & Venue__:: 2015Aug27, 0845-1730 hours. ITC Maurya, New Delhi, India.
++ __CFP__:: None.
++ __Diversity__:: An exclusive event for women in technology by ABI. 
+
+### [Lesbians Who Tech](http://lesbianswhotech.org/berlinsummit/)
++ __Info__:: Lesbians Who Tech is hosting the first-ever annual Summit in Berlin to bring together queer women in tech (and allies) for the most unique technology conference ever.
++ __Date & Venue__:: 2015Aug28–30 @ Berlin, DE, EU.
++ __CFP__:: Apply to [speak here](https://docs.google.com/forms/d/1zT-G2RtTL7h-nnsCql6OxDyA-YpPSwADivZVG2XCCT0/viewform?edit_requested=true).
++ __Diversity__:: Apply for their [diversity scholarship](https://docs.google.com/forms/d/1soxRk3J-1usogalOgLV_wCTCX6gW4mmxTqcsTlttD2E/viewform).
+
+### [CSSconf EU 2015](http://2015.cssconf.eu/)
++ __Info__:: CSSconf EU is targeted at CSS professionals, CSS creatives, CSS aficionados.
++ __Date & Venue__:: 2015SEP26 @ Berlin, Germany.
++ __CFP__:: Proposals can be submitted until [2015JUL15, midnight CEST](http://2015.cssconf.eu/call-for-speakers/).
++ __Diversity__:: http://2015.cssconf.eu/scholarships/
 
 ### Black Hat & EWF 
 + __Info__:: The Black Hat conference and The Executive Women's Forum (a conference and network of women leaders in information security) announce the launch of the [Future Female Leaders Scholarship Program](http://www.ewf-usa.com/?page=BlackHatScholarship
@@ -288,5 +287,5 @@ Additional NEWS and links for financial support, either as travel grants, ticket
 + [Google](https://www.google.com/edu/scholarships/) provides travel and conference grants for specific events, mostly for students. 
 + [Technically Speaking](http://tinyletter.com/techspeak) newsletter by @chiuki and @catehstn.
 + [The LWN.net community event calendar](http://lwn.net/Calendar/).
-+ Free [conference calling](https://www.freeconferencecall.com/) service.
++ A free [conference calling](https://www.freeconferencecall.com/) service.
 
