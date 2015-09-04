@@ -8,7 +8,7 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 
 # CURRENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
-__{{NotaBene: The listing will be moved to the `PAST` section below Date & Venue the CFP closes and/or the conference date approaches.}}__
+__{{NotaBene: The listing will be moved to the `Archive` section if the the CFP closes and/or the conference date approaches.}}__
 
 ### [ConFoo](http://confoo.ca/en)
 + __Info__:: ConFoo is a multi-technology conference for web developers.
@@ -47,10 +47,16 @@ __{{NotaBene: The listing will be moved to the `PAST` section below Date & Venue
 ----
 
 # ARCHIVE
-An archive of events that were conducted OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
+An archive of events that have concluded OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
+
+### HybridConf
++ __Info__:: The [HybridConf](https://hybridconf.net/)'s core purpose is to bring you an awesome and diverse lineup of fantastic speakers talk real world issues, motivation, communication, products, idea-creation, and so much more.
++ __Date & Venue__:: 2015aug20-21 @ Dublin, IE.
++ __CFP__:: Closed.
++ __Diversity__:: Receive free or discounted tickets from the [fund](https://hybridconf.net/pay-it-forward).
 
 ### GHC.USA
-+ __Info__:: The [Grace Hopper Celebration](http://gracehopper.org/) (USA), offers the following grants: 
++ __Info__:: The [Grace Hopper Celebration](http://gracehopper.org/) (USA).
 + __Date & Venue__:: 2015Oct14-16 @ Houston, TX.
 + __CFP__:: Closed.
 + __Diversity__:: 
