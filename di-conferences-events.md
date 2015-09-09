@@ -10,6 +10,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section if the the CFP closes and/or the conference date approaches.}}__
 
+### Drupalcon.Asia
++ __Info__:: [DrupalCon Asia](https://events.drupal.org/asia2016), a Drupal conference for web developers comes to Mumbai in 2016.
++ __Date & Venue__:: 2016Feb18-21 @ Mumbai, India.
++ __CFP__:: https://events.drupal.org/asia2016/submit-session
++ __Diversity__:: https://events.drupal.org/asia2016/grants-and-scholarships
+
 ### [ConFoo](http://confoo.ca/en)
 + __Info__:: ConFoo is a multi-technology conference for web developers.
 + __Date & Venue__:: 2016Feb22-26 @ Montréal, Canada
