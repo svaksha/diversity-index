@@ -10,6 +10,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section if the the CFP closes and/or the conference date approaches.}}__
 
+### LF-[Linuxcon-EU](http://events.linuxfoundation.org/events/linuxcon-europe/)
++ __Info__:: LinuxCon Europe is the place to learn from the best and the brightest, delivering content from the leading maintainers, developers and project leads in the Linux community and from around the world. 
++ __Date & Venue__:: 2015Oct05-07 @ Dublin, Ireland.
++ __CFP__:: Closed.
++ __Diversity__:: Currently accepting applications for their [diversity scholarship](http://events.linuxfoundation.org/events/linuxcon-europe/attend/diversity-scholarship) which provides financial assistance for women (cis and trans), genderqueer people, people of color, and people with disabilities. Scholarship recipients will receive a free registration ticket and can request support for travel and hotel.
+
 ### Drupalcon.Asia
 + __Info__:: [DrupalCon Asia](https://events.drupal.org/asia2016), a Drupal conference for web developers comes to Mumbai in 2016.
 + __Date & Venue__:: 2016Feb18-21 @ Mumbai, India.
@@ -250,7 +256,7 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __CFP__:: 2015JUN15, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
 + __Diversity__:: http://blog.debconf.org/blog/debconf15/2015-06-17_debconf15_diversity_sponsorship.dc
 
-### [MesosCon](http://events.linuxfoundation.org/events/mesoscon)
+### LF-[MesosCon](http://events.linuxfoundation.org/events/mesoscon)
 + __Info__:: MesosCon is the annual open source #ApacheMesos developers conference.
 + __Date & Venue__:: 2015Aug20-21 @ Seattle, WA.
 + __CFP__:: Closed.
