@@ -10,6 +10,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section if the the CFP closes and/or the conference date approaches.}}__
 
+### [PHP-UK](http://phpconference.co.uk)
++ __Info__:: PHP UK offers the most up-to-date PHP information and training with 2 days of amazing talks, plentiful networking opportunities and great socials. 
++ __Date & Venue__:: 2016Feb18-19 @ London, UK
++ __CFP__:: 2015Oct19
++ __Diversity__:: The PHP UK Conference is working on a [Scholarship Programme](http://phpconference.co.uk/diversity/) for 2016.
+
 ### LF-[Linuxcon-EU](http://events.linuxfoundation.org/events/linuxcon-europe/)
 + __Info__:: LinuxCon Europe is the place to learn from the best and the brightest, delivering content from the leading maintainers, developers and project leads in the Linux community and from around the world. 
 + __Date & Venue__:: 2015Oct05-07 @ Dublin, Ireland.
@@ -198,11 +204,11 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __Info__:: Chef Conf is giving away 10 tickets - including an intro to chef workshop and all meals.
 + __Date & Venue__:: YYYYMMMDD
 + __CFP__:: -
-+ __Diversity__:: Apply by 13/Mar/2015 : https://www.chef.io/blog/2015/03/05/apply-for-a-chefconf-2015-diversity-scholarship-by-march-13/
++ __Diversity__:: Apply by 2015Mar13 : https://www.chef.io/blog/2015/03/05/apply-for-a-chefconf-2015-diversity-scholarship-by-march-13/
 
 ### [AlterConf](http://www.alterconf.com/)
 + __Info__:: http://www.alterconf.com/speak
-+ __Date & Venue__:: 2015FEB28 @ Atlanta, GA, USA.
++ __Date & Venue__:: 2015Feb28 @ Atlanta, GA, USA.
 + __CFP__:: 2015JAN15
 + __Diversity__:: They pay speakers for their time. 
 
@@ -210,13 +216,13 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __Info__::
 + __Date & Venue__:: YYYYMMMDD
 + __CFP__:: -
-+ __Diversity__:: Travel grants with a 60% set-aside for women and people of color. [Apply by 2015JAN17](https://2015.foss4g-na.org/news/foss4g-na-2015-conference-grants)
++ __Diversity__:: Travel grants with a 60% set-aside for women and people of color. [Apply by 2015Jan17](https://2015.foss4g-na.org/news/foss4g-na-2015-conference-grants)
 
-### Pycon USA
+### [Pycon @ North America](https://us.pycon.org/)
 + __Info__::
-+ __Date & Venue__:: 2016May
++ __Date & Venue__:: 2016May28-Jun01, Oregon Convention Center, OR, USA.
 + __CFP__::
-+ __Diversity__:: Submit a [travel grant](https://us.pycon.org/2015/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by JAN15'th to enable people to attend the conference in May.
++ __Diversity__:: Submit a [travel grant](https://us.pycon.org/2016/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15'th January to enable people to attend the conference in May.
 
 ### [GHC.IN](http://gracehopper.org.in/)
 + __Info__:: Grace Hopper Celebration, India. 
@@ -226,19 +232,19 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 
 ### [GORUCO](http://goruco.com)
 + __Info__:: The Gotham Ruby Conference.
-+ __Date & Venue__:: 2015JUN20 @ New York, NY
++ __Date & Venue__:: 2015Jun20 @ New York, NY
 + __CFP__:: The talk submission deadline: 2015MAR24.
 + __Diversity__:: Speakers outside of the tri-state region are given a US$300 honorarium, plus $600 travel reimbursement. 
 
 ### JSConf USA
 + __Info__:: http://2015.jsconf.us/
-+ __Date & Venue__:: 2015MAY27-29 @ Amelia Island, FL.
++ __Date & Venue__:: 2015May27-29 @ Amelia Island, FL.
 + __CFP__:: 2015JAN30, http://2015.jsconf.us/call-for-speakers.html
 + __Diversity__:: Travel expenses are covered.
 
 ### LibrePlanet
 + __Info__:: LibrePlanet is an annual conference for free software enthusiasts : https://libreplanet.org/2015/
-+ __Date & Venue__:: 2015MAR21-22 @ MIT Stata Center, Cambridge, MA
++ __Date & Venue__:: 2015Mar21-22 @ MIT Stata Center, Cambridge, MA
 + __CFP__:: -
 + __Diversity__:: They award partial to full travel scholarships to help people get to LibrePlanet, in addition to waiving any registration fees. [Support the LibrePlanet Scholarship Fund](https://my.fsf.org/civicrm/contribute/transact?reset=1&id=33).
 
@@ -252,8 +258,8 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 
 ### DebConf
 + __Info__:: The Debian conference - http://debconf15.debconf.org/
-+ __Date & Venue__:: 2015AUG15-22 @ Heidelberg International youth hostel in Heidelberg, Germany.
-+ __CFP__:: 2015JUN15, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
++ __Date & Venue__:: 2015Aug15-22 @ Heidelberg International youth hostel in Heidelberg, Germany.
++ __CFP__:: 2015Jun15, http://blog.debconf.org/blog/2015/03/18#2015-03-18_debconf15-cfp
 + __Diversity__:: http://blog.debconf.org/blog/debconf15/2015-06-17_debconf15_diversity_sponsorship.dc
 
 ### LF-[MesosCon](http://events.linuxfoundation.org/events/mesoscon)
@@ -264,7 +270,7 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 
 ### [womENcourage](http://womencourage.acm.org/)
 + __Info__:: To register for the conference, please visit: http://www.regonline.com/acmweurope2015 
-+ __Date & Venue__:: 2015SEP24-26 @ Uppsala University, Sweden.
++ __Date & Venue__:: 2015Sep24-26 @ Uppsala University, Sweden.
 + __CFP__:: Closed.
 + __Diversity__:: 
    1. Google has an open Travel Grant [application](https://docs.google.com/forms/d/1a53FRvTEWZnSGvbGqx-LwT1OZ4hBMWg2K7JxZCLXPBY/viewform) process until 2015Jul31 for attending the WomEncourage conference.
