@@ -8,7 +8,7 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 
 # CURRENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
-__{{NotaBene: The listing will be moved to the `Archive` section if the the CFP closes and/or the conference date approaches.}}__
+__{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
 ### [PHP-UK](http://phpconference.co.uk)
 + __Info__:: PHP UK offers the most up-to-date PHP information and training with 2 days of amazing talks, plentiful networking opportunities and great socials. 
@@ -34,19 +34,12 @@ __{{NotaBene: The listing will be moved to the `Archive` section if the the CFP 
 + __CFP__:: 2015Sep20 - http://confoo.ca/en/call-for-papers
 + __Diversity__:: They cover travel and accommodation expenses for speakers outside of Quebec. Typically 3 nights for North-Americans and 5 nights for more distant speakers. 
 
-### [Django Under The Hood](http://www.djangounderthehood.com/)
-+ __Info__:: A conference for Django developers happening in November in Amsterdam, EU.
-+ __Date & Venue__:: 2015Nov05 (Thursday, 1300hrs) to 2015Nov07 (ends late). At the Pakhuis de Zwijger, Amsterdam, Netherlands. 
-+ __CFP__:: None.
-+ __Diversity__:: [Applications](http://www.djangounderthehood.com/scholarship/) are due 2015Aug21'st, by the end of the day CEST (Amsterdam time).
-
 ### [CITCON](http://citconf.com/index.php) {{UnConference}}
 + __Info__:: CITCON, the Continuous Integration and Testing Conference, is a world-wide series of free Open Spaces events for developer-testers, tester-developers and anyone else with an interest in Continuous Integration and the type of Testing that goes along with it.
 + __Date & Venue__:: 
-        1. CITCON Europe 2015 in Helsinki, Finland, September 11th & 12th
-        2. CITCON North America 2015 in Ann Arbor, Michigan, October 2nd & 3rd
-        3. CITCON Asia 2016 in Bangalore and Pune, India
-        4. CITCON ANZ 2016 in Perth, Australia
+        1. CITCON North America 2015 in Ann Arbor, Michigan, October 2nd & 3rd
+        2. CITCON Asia 2016 in Bangalore and Pune, India
+        3. CITCON ANZ 2016 in Perth, Australia
 + __CFP__:: Its an OpenSpace UnConference where anyone can talk. First Come, First Served.
 + __Diversity__:: Free Event.
 
@@ -66,6 +59,12 @@ __{{NotaBene: The listing will be moved to the `Archive` section if the the CFP 
 
 # ARCHIVE
 An archive of events that have concluded OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
+
+### [Django Under The Hood](http://www.djangounderthehood.com/)
++ __Info__:: A conference for Django developers happening in November in Amsterdam, EU.
++ __Date & Venue__:: 2015Nov05 (Thursday, 1300hrs) to 2015Nov07 (ends late). At the Pakhuis de Zwijger, Amsterdam, Netherlands. 
++ __CFP__:: None.
++ __Diversity__:: [Applications](http://www.djangounderthehood.com/scholarship/) are due 2015Aug21'st, by the end of the day CEST (Amsterdam time).
 
 ### HybridConf
 + __Info__:: The [HybridConf](https://hybridconf.net/)'s core purpose is to bring you an awesome and diverse lineup of fantastic speakers talk real world issues, motivation, communication, products, idea-creation, and so much more.
@@ -200,18 +199,6 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __CFP__:: 
 + __Diversity__:: The Facebook-ABI partnership gave complimentary registrations to those that applied to earlier application for @Scale to bring more women to @Scale in 2014 by offering a number of reserved guaranteed registration for community of technical women. Due to the overwhelming response, they provided additional complimentary registrations.
 
-### Chef Conf
-+ __Info__:: Chef Conf is giving away 10 tickets - including an intro to chef workshop and all meals.
-+ __Date & Venue__:: YYYYMMMDD
-+ __CFP__:: -
-+ __Diversity__:: Apply by 2015Mar13 : https://www.chef.io/blog/2015/03/05/apply-for-a-chefconf-2015-diversity-scholarship-by-march-13/
-
-### [AlterConf](http://www.alterconf.com/)
-+ __Info__:: http://www.alterconf.com/speak
-+ __Date & Venue__:: 2015Feb28 @ Atlanta, GA, USA.
-+ __CFP__:: 2015JAN15
-+ __Diversity__:: They pay speakers for their time. 
-
 ### FOSS4G North America
 + __Info__::
 + __Date & Venue__:: YYYYMMMDD
@@ -229,24 +216,6 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __Date & Venue__:: YYYYMMMDD @ Bengaluru, India. 
 + __CFP__::
 + __Diversity__::
-
-### [GORUCO](http://goruco.com)
-+ __Info__:: The Gotham Ruby Conference.
-+ __Date & Venue__:: 2015Jun20 @ New York, NY
-+ __CFP__:: The talk submission deadline: 2015MAR24.
-+ __Diversity__:: Speakers outside of the tri-state region are given a US$300 honorarium, plus $600 travel reimbursement. 
-
-### JSConf USA
-+ __Info__:: http://2015.jsconf.us/
-+ __Date & Venue__:: 2015May27-29 @ Amelia Island, FL.
-+ __CFP__:: 2015JAN30, http://2015.jsconf.us/call-for-speakers.html
-+ __Diversity__:: Travel expenses are covered.
-
-### LibrePlanet
-+ __Info__:: LibrePlanet is an annual conference for free software enthusiasts : https://libreplanet.org/2015/
-+ __Date & Venue__:: 2015Mar21-22 @ MIT Stata Center, Cambridge, MA
-+ __CFP__:: -
-+ __Diversity__:: They award partial to full travel scholarships to help people get to LibrePlanet, in addition to waiving any registration fees. [Support the LibrePlanet Scholarship Fund](https://my.fsf.org/civicrm/contribute/transact?reset=1&id=33).
 
 ### CRA-W Workshops
 + __Info__:: Mentoring for [mid-career Ph.D.s](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/45/Mid-Career-Mentoring-Workshop-Mid-CMW.aspx) in academia or national labs, working in the USA, co-located with [Federated Computing Research Conference 2015](http://fcrc.acm.org/). 
@@ -276,12 +245,6 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
    1. Google has an open Travel Grant [application](https://docs.google.com/forms/d/1a53FRvTEWZnSGvbGqx-LwT1OZ4hBMWg2K7JxZCLXPBY/viewform) process until 2015Jul31 for attending the WomEncourage conference.
    2. [Grants](http://womencourage.acm.org/grants.cfm) are available with an [eligibility criteria](http://womencourage.acm.org/eligibility.cfm). 
 
-### Women in Power Conference
-+ __Info__:: Women in Power Conference
-+ __Date & Venue__:: 2015APR22 @ Eaton European Innovation Centre (EEIC), Prague - Roztoky.
-+ __CFP__:: None.
-+ __Diversity__:: Travel and accommodation costs may be reimbursed for students living more than 50k from Prague.
-
 ### [TXJS](https://2015.texasjavascript.com/)
 + __Info__:: TXJS is one of the oldest JavaScript conferences, a single track conference featuring some of the most interesting speakers on JavaScript, HTML, CSS, and UX. All skill levels are welcome. 
 + __Date & Venue__:: 2015Jul24 @ Paramount Theatre in downtown Austin, TX.
@@ -299,6 +262,42 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __Date & Venue__:: 2015Nov14 @ Madison, Wisconsin.
 + __CFP__:: Closes on [2015Aug04](http://cfp.madisonphpconference.com/).
 + __Diversity__:: The [Speaker package](http://cfp.madisonphpconference.com/package) encourages international speakers.
+
+### Women in Power Conference
++ __Info__:: Women in Power Conference
++ __Date & Venue__:: 2015APR22 @ Eaton European Innovation Centre (EEIC), Prague - Roztoky.
++ __CFP__:: None.
++ __Diversity__:: Travel and accommodation costs may be reimbursed for students living more than 50k from Prague.
+
+### [GORUCO](http://goruco.com)
++ __Info__:: The Gotham Ruby Conference.
++ __Date & Venue__:: 2015Jun20 @ New York, NY
++ __CFP__:: The talk submission deadline: 2015MAR24.
++ __Diversity__:: Speakers outside of the tri-state region are given a US$300 honorarium, plus $600 travel reimbursement. 
+
+### Chef Conf
++ __Info__:: Chef Conf is giving away 10 tickets - including an intro to chef workshop and all meals.
++ __Date & Venue__:: YYYYMMMDD
++ __CFP__:: -
++ __Diversity__:: Apply by 2015Mar13 : https://www.chef.io/blog/2015/03/05/apply-for-a-chefconf-2015-diversity-scholarship-by-march-13/
+
+### LibrePlanet
++ __Info__:: LibrePlanet is an annual conference for free software enthusiasts : https://libreplanet.org/2015/
++ __Date & Venue__:: 2015Mar21-22 @ MIT Stata Center, Cambridge, MA
++ __CFP__:: -
++ __Diversity__:: They award partial to full travel scholarships to help people get to LibrePlanet, in addition to waiving any registration fees. [Support the LibrePlanet Scholarship Fund](https://my.fsf.org/civicrm/contribute/transact?reset=1&id=33).
+
+### [AlterConf](http://www.alterconf.com/)
++ __Info__:: http://www.alterconf.com/speak
++ __Date & Venue__:: 2015Feb28 @ Atlanta, GA, USA.
++ __CFP__:: 2015JAN15
++ __Diversity__:: They pay speakers for their time. 
+
+### JSConf USA
++ __Info__:: http://2015.jsconf.us/
++ __Date & Venue__:: 2015May27-29 @ Amelia Island, FL.
++ __CFP__:: 2015JAN30, http://2015.jsconf.us/call-for-speakers.html
++ __Diversity__:: Travel expenses are covered.
 
 ----
 
