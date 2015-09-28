@@ -1,7 +1,7 @@
 A list of events (barcamps, camps, conferences, meetups, workshops and unconferences) that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to currently enrolled University students and/or Professors. 
 
 + [CURRENT](#current)
-+ [ARCHIVE](#archive)
++ [ARCHIVES](#archives)
 + [FiNEWS](#finews)
 
 ---- 
@@ -9,6 +9,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 # CURRENT
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
+
+### [Southeast Women in Computing Conference](http://www.southeastwomenincomputing.org/)
++ __Info__:: The 2015 Southeast Women in Computing Conference, an ACM-W Celebration, strives to bring together women at different levels in academia, industry, research and government to promote the recruitment, retention and progression of women in computing and technology related fields that lack diversity in the national work force.
++ __Date & Venue__:: 2015Nov13-15, Atlanta, GA
++ __CFP__:: -
++ __Diversity__:: The application page for 2015: https://www.surveymonkey.com/r/2015SWCC_ScholarshipApp
 
 ### [PHP-UK](http://phpconference.co.uk)
 + __Info__:: PHP UK offers the most up-to-date PHP information and training with 2 days of amazing talks, plentiful networking opportunities and great socials. 
@@ -57,7 +63,7 @@ __{{NotaBene: The listing will be moved to the `Archive` section when either the
 
 ----
 
-# ARCHIVE
+# ARCHIVES
 An archive of events that have concluded OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
 
 ### [Django Under The Hood](http://www.djangounderthehood.com/)

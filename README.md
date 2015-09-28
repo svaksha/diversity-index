@@ -18,7 +18,7 @@ FOSS projects have a __"diversity"__ scarcity problem made more prominent due to
 The **[diversity-index](http://svaksha.github.io/diversity-index)** is a curated list of grants, scholarships, travel bursary and/or financial aid offered to women (including those who identify as women in a way that's significant to them) from __ALL around the world__, by conferences and companies sponsoring education to encourage diversity in STEM fields among __half the world's population__. To measure `diversity` accurately, lets first quantify __how__ much help is actually available to women across the world from the following pages:
 
 + [di-awards.md](https://github.com/svaksha/diversity-index/blob/master/di-awards.md) :: General grants and awards for Women in STEM, Post Doctoral Research grants and Scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world.
-+ [di-conferences-events.md](https://github.com/svaksha/diversity-index/blob/master/di-conferences-events.md) :: Track the DiversityIndex of women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events thanks to financial aid and travel grants.
++ [di-conf-events.md](https://github.com/svaksha/diversity-index/blob/master/di-conf-events.md) :: Track the Diversity Index of women attending or speaking at barcamps, bootcamps, conferences, meetups, unconferences and other events thanks to financial aid and travel grants.
 + [di-internships.md](https://github.com/svaksha/diversity-index/blob/master/di-internships.md) :: Summer of Code programs and internships open to women applicants.
 + [di-resources.md](https://github.com/svaksha/diversity-index/blob/master/di-resources.md) :: Lists useful resources for conference speakers and diversity related information.
 
@@ -44,3 +44,4 @@ Please submit a [pull request (PR)](https://github.com/svaksha/diversity-index/p
 + Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
 + For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR.
 + For those unable to use git, create a github account, fork the `diversity-index` repo and [edit the page by clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
+
