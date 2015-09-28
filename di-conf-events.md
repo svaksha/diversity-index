@@ -10,6 +10,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
+### [PyCon-US](https://us.pycon.org/)
++ __Info__:: PyCon is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python.
++ __Date & Venue__:: 2016May28-Jun05, Portland, OR, USA.
++ __CFP__:: [Tutorial proposals are due by 2015Nov30 and Poster by 2016Jan03](https://us.pycon.org/2016/speaking).
++ __Diversity__:: Submit a [travel grant](https://us.pycon.org/2016/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15'th January to enable people to attend the conference in May.
+
 ### [Southeast Women in Computing Conference](http://www.southeastwomenincomputing.org/)
 + __Info__:: The 2015 Southeast Women in Computing Conference, an ACM-W Celebration, strives to bring together women at different levels in academia, industry, research and government to promote the recruitment, retention and progression of women in computing and technology related fields that lack diversity in the national work force.
 + __Date & Venue__:: 2015Nov13-15, Atlanta, GA
@@ -211,11 +217,6 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __CFP__:: -
 + __Diversity__:: Travel grants with a 60% set-aside for women and people of color. [Apply by 2015Jan17](https://2015.foss4g-na.org/news/foss4g-na-2015-conference-grants)
 
-### [Pycon @ North America](https://us.pycon.org/)
-+ __Info__::
-+ __Date & Venue__:: 2016May28-Jun01, Oregon Convention Center, OR, USA.
-+ __CFP__::
-+ __Diversity__:: Submit a [travel grant](https://us.pycon.org/2016/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15'th January to enable people to attend the conference in May.
 
 ### [GHC.IN](http://gracehopper.org.in/)
 + __Info__:: Grace Hopper Celebration, India. 
