@@ -10,10 +10,16 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
+# [ACE! conference](http://www.aceconf.com/index.html)
++ __Info__:: ACE! is the largest regional conference of its kind in Central Europe, attracting people from all over the region. 
++ __Date & Venue__:: 2016Apr14-16 @ Krakow, Poland.
++ __CFP__:: http://www.aceconf.com/index.html
++ __Diversity__:: [Speaker registration, travel and accommodation](http://www.aceconf.com/submit.html) for up to three nights will be covered by the ACE! Conference or a sponsor if it is not paid by your employer.
+
 ### [PyCon-US](https://us.pycon.org/)
 + __Info__:: PyCon is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python.
 + __Date & Venue__:: 2016May28-Jun05, Portland, OR, USA.
-+ __CFP__:: [Tutorial proposals are due by 2015Nov30 and Poster by 2016Jan03](https://us.pycon.org/2016/speaking).
++ __CFP__:: [Proposal submission due dates](https://us.pycon.org/2016/speaking) are : 2015Nov30 for Talk and Tutorial workshops and 2016Jan03 for Poster submissions.
 + __Diversity__:: Submit a [travel grant](https://us.pycon.org/2016/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15'th January to enable people to attend the conference in May.
 
 ### [Southeast Women in Computing Conference](http://www.southeastwomenincomputing.org/)
