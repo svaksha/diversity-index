@@ -10,6 +10,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
+# [DevOpsDays](http://www.devopsdays.org/events/)
++ __Info__:: DevOpsDays is a conference that is held across the world, organized by local technologists with the hope of bringing individuals together to share sustainable work practices, solve technical challenges, and talk about the cultures that lead to better work environments. People from all different roles product management, agile practitioners, developers, operations, database engineers, security professionals, finance, marketing, front end, back end, come together across industries to discover common ground and understanding.
++ __Date & Venue__:: Various dates, across the world.
++ __CFP__:: - 
++ __Diversity__:: Delegate [registration](http://www.devopsdays.org/events/2015-siliconvalley/scholarship/) for DevOpsDays Silicon Valley at the Computer History Museum in Mountain View, California November 6th and 7th. 
+
 # [ACE! conference](http://www.aceconf.com/index.html)
 + __Info__:: ACE! is the largest regional conference of its kind in Central Europe, attracting people from all over the region. 
 + __Date & Venue__:: 2016Apr14-16 @ Krakow, Poland.
