@@ -10,13 +10,19 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
-# [DevOpsDays](http://www.devopsdays.org/events/)
+### [OSCON](http://conferences.oreilly.com/oscon/open-source)
++ __Info__:: OSCON is where the open source community gathers to celebrate achievements, spark new ideas, and map the future of open computing through collaboration, education, and connecting people with technology.
++ __Date & Venue__:: 2016May16-19, Austin, TX.
++ __CFP__:: 2015Nov24, http://conferences.oreilly.com/oscon/open-source/public/cfp/423
++ __Diversity__:: http://www.oreilly.com/conferences/diversity-application.csp, Conference pass that includes workshops/tutorials, plus a $599 (USD) prepaid gift card. 
+
+### [DevOpsDays](http://www.devopsdays.org/events/)
 + __Info__:: DevOpsDays is a conference that is held across the world, organized by local technologists with the hope of bringing individuals together to share sustainable work practices, solve technical challenges, and talk about the cultures that lead to better work environments. People from all different roles product management, agile practitioners, developers, operations, database engineers, security professionals, finance, marketing, front end, back end, come together across industries to discover common ground and understanding.
 + __Date & Venue__:: Various dates, across the world.
 + __CFP__:: - 
 + __Diversity__:: Delegate [registration](http://www.devopsdays.org/events/2015-siliconvalley/scholarship/) for DevOpsDays Silicon Valley at the Computer History Museum in Mountain View, California November 6th and 7th. 
 
-# [ACE! conference](http://www.aceconf.com/index.html)
+### [ACE! conference](http://www.aceconf.com/index.html)
 + __Info__:: ACE! is the largest regional conference of its kind in Central Europe, attracting people from all over the region. 
 + __Date & Venue__:: 2016Apr14-16 @ Krakow, Poland.
 + __CFP__:: http://www.aceconf.com/index.html
@@ -28,23 +34,19 @@ __{{NotaBene: The listing will be moved to the `Archive` section when either the
 + __CFP__:: [Proposal submission due dates](https://us.pycon.org/2016/speaking) are : 2015Nov30 for Talk and Tutorial workshops and 2016Jan03 for Poster submissions.
 + __Diversity__:: Submit a [travel grant](https://us.pycon.org/2016/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15'th January to enable people to attend the conference in May.
 
-### [Southeast Women in Computing Conference](http://www.southeastwomenincomputing.org/)
-+ __Info__:: The 2015 Southeast Women in Computing Conference, an ACM-W Celebration, strives to bring together women at different levels in academia, industry, research and government to promote the recruitment, retention and progression of women in computing and technology related fields that lack diversity in the national work force.
-+ __Date & Venue__:: 2015Nov13-15, Atlanta, GA
-+ __CFP__:: -
-+ __Diversity__:: The application page for 2015: https://www.surveymonkey.com/r/2015SWCC_ScholarshipApp
+### [CITCON](http://citconf.com/index.php) {{UnConference}}
++ __Info__:: CITCON, the Continuous Integration and Testing Conference, is a world-wide series of free Open Spaces events for developer-testers, tester-developers and anyone else with an interest in Continuous Integration and the type of Testing that goes along with it.
++ __Date & Venue__:: 
+        1. CITCON Asia 2016 in Bangalore and Pune, India
+        2. CITCON ANZ 2016 in Perth, Australia
++ __CFP__:: Its an OpenSpace UnConference where anyone can talk. First Come, First Served.
++ __Diversity__:: Free Event.
 
-### [PHP-UK](http://phpconference.co.uk)
-+ __Info__:: PHP UK offers the most up-to-date PHP information and training with 2 days of amazing talks, plentiful networking opportunities and great socials. 
-+ __Date & Venue__:: 2016Feb18-19 @ London, UK
-+ __CFP__:: 2015Oct19
-+ __Diversity__:: The PHP UK Conference is working on a [Scholarship Programme](http://phpconference.co.uk/diversity/) for 2016.
 
-### LF-[Linuxcon-EU](http://events.linuxfoundation.org/events/linuxcon-europe/)
-+ __Info__:: LinuxCon Europe is the place to learn from the best and the brightest, delivering content from the leading maintainers, developers and project leads in the Linux community and from around the world. 
-+ __Date & Venue__:: 2015Oct05-07 @ Dublin, Ireland.
-+ __CFP__:: Closed.
-+ __Diversity__:: Currently accepting applications for their [diversity scholarship](http://events.linuxfoundation.org/events/linuxcon-europe/attend/diversity-scholarship) which provides financial assistance for women (cis and trans), genderqueer people, people of color, and people with disabilities. Scholarship recipients will receive a free registration ticket and can request support for travel and hotel.
+----
+
+# ARCHIVES
+An archive of events that have concluded OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
 
 ### Drupalcon.Asia
 + __Info__:: [DrupalCon Asia](https://events.drupal.org/asia2016), a Drupal conference for web developers comes to Mumbai in 2016.
@@ -58,15 +60,6 @@ __{{NotaBene: The listing will be moved to the `Archive` section when either the
 + __CFP__:: 2015Sep20 - http://confoo.ca/en/call-for-papers
 + __Diversity__:: They cover travel and accommodation expenses for speakers outside of Quebec. Typically 3 nights for North-Americans and 5 nights for more distant speakers. 
 
-### [CITCON](http://citconf.com/index.php) {{UnConference}}
-+ __Info__:: CITCON, the Continuous Integration and Testing Conference, is a world-wide series of free Open Spaces events for developer-testers, tester-developers and anyone else with an interest in Continuous Integration and the type of Testing that goes along with it.
-+ __Date & Venue__:: 
-        1. CITCON North America 2015 in Ann Arbor, Michigan, October 2nd & 3rd
-        2. CITCON Asia 2016 in Bangalore and Pune, India
-        3. CITCON ANZ 2016 in Perth, Australia
-+ __CFP__:: Its an OpenSpace UnConference where anyone can talk. First Come, First Served.
-+ __Diversity__:: Free Event.
-
 ### [ThunderPlains Conf](http://thunderplainsconf.com/)
 + __Info__:: ThunderPlains is a web and mobile developer conference organized by the Oklahoma City Javascript User Group. The conference focuses on JavaScript and related technologies in a wide variety of different use cases and platforms that make the web all the more interesting.
 + __CFP__:: http://cfp.thunderplainsconf.com/
@@ -78,11 +71,6 @@ __{{NotaBene: The listing will be moved to the `Archive` section when either the
 + __Date & Venue__:: 2015Nov09-10 @ Santiago, Chile.
 + __CFP__:: http://www.latinity.info/call-for-participation/
 + __Diversity__:: Information not available on the website.
-
-----
-
-# ARCHIVES
-An archive of events that have concluded OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
 
 ### [Django Under The Hood](http://www.djangounderthehood.com/)
 + __Info__:: A conference for Django developers happening in November in Amsterdam, EU.
@@ -317,6 +305,24 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __Date & Venue__:: 2015May27-29 @ Amelia Island, FL.
 + __CFP__:: 2015JAN30, http://2015.jsconf.us/call-for-speakers.html
 + __Diversity__:: Travel expenses are covered.
+
+### [Southeast Women in Computing Conference](http://www.southeastwomenincomputing.org/)
++ __Info__:: The 2015 Southeast Women in Computing Conference, an ACM-W Celebration, strives to bring together women at different levels in academia, industry, research and government to promote the recruitment, retention and progression of women in computing and technology related fields that lack diversity in the national work force.
++ __Date & Venue__:: 2015Nov13-15, Atlanta, GA
++ __CFP__:: -
++ __Diversity__:: The application page for 2015: https://www.surveymonkey.com/r/2015SWCC_ScholarshipApp
+
+### [PHP-UK](http://phpconference.co.uk)
++ __Info__:: PHP UK offers the most up-to-date PHP information and training with 2 days of amazing talks, plentiful networking opportunities and great socials. 
++ __Date & Venue__:: 2016Feb18-19 @ London, UK
++ __CFP__:: 2015Oct19
++ __Diversity__:: The PHP UK Conference is working on a [Scholarship Programme](http://phpconference.co.uk/diversity/) for 2016.
+
+### LF-[Linuxcon-EU](http://events.linuxfoundation.org/events/linuxcon-europe/)
++ __Info__:: LinuxCon Europe is the place to learn from the best and the brightest, delivering content from the leading maintainers, developers and project leads in the Linux community and from around the world. 
++ __Date & Venue__:: 2015Oct05-07 @ Dublin, Ireland.
++ __CFP__:: Closed.
++ __Diversity__:: Currently accepting applications for their [diversity scholarship](http://events.linuxfoundation.org/events/linuxcon-europe/attend/diversity-scholarship) which provides financial assistance for women (cis and trans), genderqueer people, people of color, and people with disabilities. Scholarship recipients will receive a free registration ticket and can request support for travel and hotel.
 
 ----
 
