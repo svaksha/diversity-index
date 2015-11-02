@@ -10,6 +10,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
+### [Tapia Conference](http://tapiaconference.org/)
++ __Info__:: ACM Richard Tapia Celebration of Diversity in Computing. The goal of the Tapia Conference is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to celebrate the diversity that exists in computing.
++ __Date & Venue__:: 2016Sep14-17, Austin, TX. 
++ __CFP__:: http://tapiaconference.org/participate/call-for-participation
++ __Diversity__:: http://tapiaconference.org/participate/scholarships
+
 ### [OSCON](http://conferences.oreilly.com/oscon/open-source)
 + __Info__:: OSCON is where the open source community gathers to celebrate achievements, spark new ideas, and map the future of open computing through collaboration, education, and connecting people with technology.
 + __Date & Venue__:: 2016May16-19, Austin, TX.
