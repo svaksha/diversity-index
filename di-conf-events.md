@@ -10,6 +10,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
+### EuroPython
++ __Info__:: [EuroPython 2016](http://ep2016.europython.eu/) is the European Python conference.
++ __Date & Venue__:: Sun, 2016Jul17-24 @ Bilbao, Basque Country, Spain.
++ __CFP__:: TBA in December.
++ __Diversity__:: TBA in 2016.
+
 ### [Tapia Conference](http://tapiaconference.org/)
 + __Info__:: ACM Richard Tapia Celebration of Diversity in Computing. The goal of the Tapia Conference is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to celebrate the diversity that exists in computing.
 + __Date & Venue__:: 2016Sep14-17, Austin, TX. 
@@ -167,12 +173,6 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __Date & Venue__:: 2015Sep25-27 @ Berlin.
 + __CFP__:: Closed, http://2015.jsconf.eu/call-for-speakers/
 + __Diversity__:: JSConf-EU speakers travel, conf registration and accomodation are covered.
-
-### EuroPython
-+ __Info__:: EuroPython 2015.
-+ __Date & Venue__:: 2015JUL20-26 @ Bilbao, Spain.
-+ __CFP__:: 2015APR28, Thursday, 23:59:59 CEST, https://ep2015.europython.eu/en/call-for-proposals/
-+ __Diversity__:: Available for 2015.
 
 ### PyCon Australia
 + __Info__:: PyCon Australia is the national conference for users of the Python Programming Language.
