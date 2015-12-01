@@ -10,6 +10,12 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
+### [DjangoCon Europe](http://2016.djangocon.eu/) 
++ __Info__:: DjangoCon-EU has lined up [mentors](http://2016.djangocon.eu/proposals/speaker-mentors/) to help you submit proposals for the European version of DjangoCon.
++ __Date & Venue__:: 2016Mar30-Apr01, @ Budapest, Hungary.
++ __CFP__:: Submit your proposal by [2016Jan14, 23:59:59 CEST](https://2016.djangocon.eu/cfp/).
++ __Diversity__:: They offer financial assistance that covers speaker hotel and conference pass.
+
 ### EuroPython
 + __Info__:: [EuroPython 2016](http://ep2016.europython.eu/) is the European Python conference.
 + __Date & Venue__:: Sun, 2016Jul17-24 @ Bilbao, Basque Country, Spain.
@@ -28,23 +34,11 @@ __{{NotaBene: The listing will be moved to the `Archive` section when either the
 + __CFP__:: 2015Nov24, http://conferences.oreilly.com/oscon/open-source/public/cfp/423
 + __Diversity__:: http://www.oreilly.com/conferences/diversity-application.csp, Conference pass that includes workshops/tutorials, plus a $599 (USD) prepaid gift card. 
 
-### [DevOpsDays](http://www.devopsdays.org/events/)
-+ __Info__:: DevOpsDays is a conference that is held across the world, organized by local technologists with the hope of bringing individuals together to share sustainable work practices, solve technical challenges, and talk about the cultures that lead to better work environments. People from all different roles product management, agile practitioners, developers, operations, database engineers, security professionals, finance, marketing, front end, back end, come together across industries to discover common ground and understanding.
-+ __Date & Venue__:: Various dates, across the world.
-+ __CFP__:: - 
-+ __Diversity__:: Delegate [registration](http://www.devopsdays.org/events/2015-siliconvalley/scholarship/) for DevOpsDays Silicon Valley at the Computer History Museum in Mountain View, California November 6th and 7th. 
-
 ### [ACE! conference](http://www.aceconf.com/index.html)
 + __Info__:: ACE! is the largest regional conference of its kind in Central Europe, attracting people from all over the region. 
 + __Date & Venue__:: 2016Apr14-16 @ Krakow, Poland.
 + __CFP__:: http://www.aceconf.com/index.html
 + __Diversity__:: [Speaker registration, travel and accommodation](http://www.aceconf.com/submit.html) for up to three nights will be covered by the ACE! Conference or a sponsor if it is not paid by your employer.
-
-### [PyCon-US](https://us.pycon.org/)
-+ __Info__:: PyCon is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python.
-+ __Date & Venue__:: 2016May28-Jun05, Portland, OR, USA.
-+ __CFP__:: [Proposal submission due dates](https://us.pycon.org/2016/speaking) are : 2015Nov30 for Talk and Tutorial workshops and 2016Jan03 for Poster submissions.
-+ __Diversity__:: Submit a [travel grant](https://us.pycon.org/2016/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15'th January to enable people to attend the conference in May.
 
 ### [CITCON](http://citconf.com/index.php) {{UnConference}}
 + __Info__:: CITCON, the Continuous Integration and Testing Conference, is a world-wide series of free Open Spaces events for developer-testers, tester-developers and anyone else with an interest in Continuous Integration and the type of Testing that goes along with it.
@@ -59,6 +53,18 @@ __{{NotaBene: The listing will be moved to the `Archive` section when either the
 
 # ARCHIVES
 An archive of events that have concluded OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
+
+### [PyCon-US](https://us.pycon.org/)
++ __Info__:: PyCon is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python.
++ __Date & Venue__:: 2016May28-Jun05, Portland, OR, USA.
++ __CFP__:: [Proposal submission due dates](https://us.pycon.org/2016/speaking) are : 2015Nov30 for Talk and Tutorial workshops and 2016Jan03 for Poster submissions.
++ __Diversity__:: Submit a [travel grant](https://us.pycon.org/2016/assistance/) application by signing up or logging into your account. Applications open almost 7 months before the conference, i.e. the previous year around 01st Sept and close on 01st Jan, with speaker FA going out around 01st Dec and attendee aid being awarded by 15'th January to enable people to attend the conference in May.
+
+### [DevOpsDays](http://www.devopsdays.org/events/)
++ __Info__:: DevOpsDays is a conference that is held across the world, organized by local technologists with the hope of bringing individuals together to share sustainable work practices, solve technical challenges, and talk about the cultures that lead to better work environments. People from all different roles product management, agile practitioners, developers, operations, database engineers, security professionals, finance, marketing, front end, back end, come together across industries to discover common ground and understanding.
++ __Date & Venue__:: Various dates, across the world.
++ __CFP__:: - 
++ __Diversity__:: Delegate [registration](http://www.devopsdays.org/events/2015-siliconvalley/scholarship/) for DevOpsDays Silicon Valley at the Computer History Museum in Mountain View, California November 6th and 7th. 
 
 ### Drupalcon.Asia
 + __Info__:: [DrupalCon Asia](https://events.drupal.org/asia2016), a Drupal conference for web developers comes to Mumbai in 2016.
@@ -166,7 +172,7 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __Info__:: A conference on the PHP web-development Laravel framework. http://laracon.eu/2015
 + __Date & Venue__:: 2015AUG25-26 @ Amsterdam, The Netherlands.
 + __CFP__:: {CLOSED} 2015MAY01, for submissions about Laravel, PHP, and tools related to rapid application development.
-+ __FA/Grant__:: All chosen speakers will have their travel and hotel paid for. 
++ __Diversity__:: All chosen speakers will have their travel and hotel paid for. 
 
 ### [JSConf EU](http://2015.jsconf.eu/)
 + __Info__:: JSConf EU is the JavaScript community conference.
@@ -185,12 +191,6 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __Date & Venue__:: 2015JUL10-14 @ Convention Center Dublin, Ireland
 + __CFP__:: -
 + __Diversity__:: [Travel Fellowships](https://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-travel-fellowship) for students and postdoctoral fellows to present a talk or poster at the conference is available.
-
-### [DjangoCon Europe](http://2015.djangocon.eu/) 
-+ __Info__:: They have lined up [mentors](http://2015.djangocon.eu/proposals/speaker-mentors/) to help you submit proposals. 
-+ __Date & Venue__:: 2015MAY31-2015JUN06 @ Cardiff, Wales.
-+ __CFP__:: http://2015.djangocon.eu/proposals/
-+ __Diversity__:: They also have [financial assistance](http://2015.djangocon.eu/news/financial-assistance/) for attendees.
 
 ### [JuliaCon](http://juliacon.org)
 + __Info__:: The Julia Language conference.
@@ -223,12 +223,11 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __CFP__:: -
 + __Diversity__:: Travel grants with a 60% set-aside for women and people of color. [Apply by 2015Jan17](https://2015.foss4g-na.org/news/foss4g-na-2015-conference-grants)
 
-
 ### [GHC.IN](http://gracehopper.org.in/)
 + __Info__:: Grace Hopper Celebration, India. 
-+ __Date & Venue__:: YYYYMMMDD @ Bengaluru, India. 
-+ __CFP__::
-+ __Diversity__::
++ __Date & Venue__:: 2015Dec2-4 @ [Bengaluru](http://ghcindia.anitaborg.org/ghci-2015-locations/), India. 
++ __CFP__:: Closed.
++ __Diversity__:: Work In Progress, not yet public.
 
 ### CRA-W Workshops
 + __Info__:: Mentoring for [mid-career Ph.D.s](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/45/Mid-Career-Mentoring-Workshop-Mid-CMW.aspx) in academia or national labs, working in the USA, co-located with [Federated Computing Research Conference 2015](http://fcrc.acm.org/). 
