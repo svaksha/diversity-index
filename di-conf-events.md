@@ -1,4 +1,4 @@
-A list of events (barcamps, camps, conferences, meetups, workshops and unconferences) that aim to increase the __diversity__ quotient at their events by offering FA grants to women (or identify as women in a way that's significant to them), with some limited to currently enrolled University students and/or Professors. 
+A list of events (barcamps, camps, conferences, meetups, workshops and unconferences) that aim to increase the __diversity__ quotient at their events by offering FA/ scholarships or grants to women (including those who identify as women in a way that's significant to them), with some limited to currently enrolled University students and/or Professors. 
 
 + [CURRENT](#current)
 + [ARCHIVES](#archives)
@@ -227,7 +227,7 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 + __Info__:: Grace Hopper Celebration, India. 
 + __Date & Venue__:: 2015Dec2-4 @ [Bengaluru](http://ghcindia.anitaborg.org/ghci-2015-locations/), India. 
 + __CFP__:: Closed.
-+ __Diversity__:: Work In Progress, not yet public.
++ __Diversity__:: Only available for female students and female entrepreneurs.
 
 ### CRA-W Workshops
 + __Info__:: Mentoring for [mid-career Ph.D.s](http://cra-w.org/ArticleDetails/tabid/77/ArticleID/45/Mid-Career-Mentoring-Workshop-Mid-CMW.aspx) in academia or national labs, working in the USA, co-located with [Federated Computing Research Conference 2015](http://fcrc.acm.org/). 
