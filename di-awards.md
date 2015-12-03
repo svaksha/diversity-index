@@ -1,4 +1,4 @@
-__General grants and awards for Women in STEM, Post Doctoral Research grants and scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at different Universities around the world.__
+__General grants and awards for Women pursuing graduate school in STEM fields and/or Post Doctoral Research grants and scholarships and fellowships for women graduates interested in pursuing higher education in CS research and/or graduate studies at Universities around the world.__
 
 + [INTERNATIONAL SCHOLARSHIPS](#international-scholarships)
    + [Doctoral Fellowships](#doctoral-fellowships)
@@ -6,11 +6,8 @@ __General grants and awards for Women in STEM, Post Doctoral Research grants and
    + [USA](#usa)
 + [RESEARCH GRANTS](#research-grants)
    + [Human Health](#human-health)
++ [RESOURCES](#resources)
    
-----
-
-+ [Tech Initiatives for marginalized groups](https://gist.github.com/anikalindtner/9524950) by @anikalindtner.
-
 ----
 
 __Alphabetical listing of awards for international and national scholarships, fellowships and grants for women graduates studying STEM, or pursuing education and research in Universities.__
@@ -70,4 +67,12 @@ __Alphabetical listing of research grants in various STEM fields.__
 ### Human Health
 + [Leducq Foundation](https://en.wikipedia.org/wiki/Leducq_Foundation) :: A private, endowment-based foundation located in Paris, France, whose mission is to improve human health. Under the [Transatlantic Networks of Excellence in Cardiovascular Research Program](http://www.flcq.org/transatlantic-networks-of-excellence/overview/) the Fondation Leducq awards grants of up to U.S. $6,000,000 over five years for internationally collaborative research in cardiovascular and neurovascular disease.
 
+----
 
+# RESOURCES
++ [Tech Initiatives for marginalized groups](https://gist.github.com/anikalindtner/9524950) by @anikalindtner.
++ Jason Hong's resources for [people considering a Ph.D](http://www.cs.cmu.edu/~jasonh/advice.html).
++ [Philip Guo](http://pgbovine.net/PhD-memoir.htm)'s memoirs on his personal Ph.D. school experience.
++ Some useful blog posts [for graduate students](http://thegradcafe.com).
+
+----
