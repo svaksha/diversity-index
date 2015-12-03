@@ -2,13 +2,19 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 
 + [CURRENT](#current)
 + [ARCHIVES](#archives)
-+ [FiNEWS](#finews)
++ [RESOURCES](#resources)
 
 ---- 
 
 # CURRENT
-List of current events either offering travel grants or an __OPEN__ call for proposals (CFP). 
+A list of events currently offering travel grants or have an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
+
+### [SnowCamp](http://snowcamp.io/2016/en)
++ __Info__:: SnowCamp is a technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in professional development. 
++ __Date & Venue__:: 2016Jan21-22 @ Grenoble, France.
++ __CFP__:: Submit your proposal by [2015Dec25](https://cfp.snowcamp.io/). The CfP is not limited to just development related talks. There have been sessions covering a wide range of topics supporting developers and DevOps as well, and they encourage you to "think outside the box" to come up with your own unique topics. 
++ __Diversity__:: https://cfp.snowcamp.io/package
 
 ### [DjangoCon Europe](http://2016.djangocon.eu/) 
 + __Info__:: DjangoCon-EU has lined up [mentors](http://2016.djangocon.eu/proposals/speaker-mentors/) to help you submit proposals for the European version of DjangoCon.
@@ -331,8 +337,8 @@ An archive of events that have concluded OR whose call for proposals (CFP) has *
 
 ----
 
-# FiNEWS
-Additional NEWS and links for financial support, either as travel grants, tickets or other event-based scholarships.
+# RESOURCES
+Additional News, resources and links for financial support, either as travel grants, tickets or other event-based scholarships.
 
 + The Prince Claus Fund’s [Ticket Fund](http://www.princeclausfund.org/en/activities/the-prince-claus-fund-s-ticket-fund.html) supports the cross-cultural exchange of artists and cultural practitioners. Its not clear if STEM falls under the ambit of Art.
 + [ACM-W](http://women.acm.org/scholarship) provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences.
