@@ -11,6 +11,7 @@ Before delving into the world of FOSS, here is some *Free* advice:
 * How to start [contributing to Libre/ FOSS projects](http://svaksha.com/post/2012/Contributing-to-Libre-software).
 * [Suggestions for GNOME OPW Applicants](http://anteaya.info/blog/2013/03/29/suggestions-for-gnome-opw-applicants/).
 * [GSoC Do's and Dont's](http://google-opensource.blogspot.ro/2011/03/dos-and-donts-of-google-summer-of-code.html).
++ Quora answers to [How do I prepare for the Google Summer of Code (GSoC)?](https://www.quora.com/How-do-I-prepare-for-the-Google-Summer-of-Code-GSoC?redirected_qid=1153780)
 
 ----
 
