@@ -10,17 +10,19 @@ A list of events (barcamps, camps, conferences, meetups, workshops and unconfere
 A list of events currently offering travel grants or have an __OPEN__ call for proposals (CFP). 
 __{{NotaBene: The listing will be moved to the `Archive` section when either the CFP or the diversity aid closes and/or the conference date approaches.}}__
 
+
+### [Self.conference](http://selfconference.org/)
++ __Info__:: A software conference with half technical talks (languages, tools, process) and half people talks (diversity, inclusion, mental health).
++ __Date & Venue__:: 2016May20-21 @ MotorCity Casino Hotel, Detroit, MI
++ __CFP__:: -
++ __Diversity__:: [15% discount on tickets via this link](https://selfconf2016.eventbrite.com/?discount=dev-chix) and they have opened applications for [scholarships](http://selfconference.org/scholarship_applications) to attend Self.conference this year.
+
+
 ### [EnterJS](https://www.enterjs.de/)
 + __Info__:: Industry professionals will talk about their experiences using JavaScript.
 + __Date & Venue__:: 2016Jun14-16 @ the darmstadtium in Darmstadt, Hessen, Germany.
 + __CFP__:: Submit your proposal by [2016Jan18](https://www.enterjs.de/call-for-proposals-en.html).
 + __Diversity__:: https://www.enterjs.de/diversity.html
-
-### [DjangoCon Europe](http://2016.djangocon.eu/) 
-+ __Info__:: DjangoCon-EU has lined up [mentors](http://2016.djangocon.eu/proposals/speaker-mentors/) to help you submit proposals for the European version of DjangoCon.
-+ __Date & Venue__:: 2016Mar30-Apr01, @ Budapest, Hungary.
-+ __CFP__:: Submit your proposal by [2016Jan14, 23:59:59 CEST](https://2016.djangocon.eu/cfp/).
-+ __Diversity__:: They offer financial assistance that covers speaker hotel and conference pass.
 
 ### EuroPython
 + __Info__:: [EuroPython 2016](http://ep2016.europython.eu/) is the European Python conference.
@@ -46,6 +48,12 @@ __{{NotaBene: The listing will be moved to the `Archive` section when either the
 + __CFP__:: http://www.aceconf.com/index.html
 + __Diversity__:: [Speaker registration, travel and accommodation](http://www.aceconf.com/submit.html) for up to three nights will be covered by the ACE! Conference or a sponsor if it is not paid by your employer.
 
+
+----
+
+# ARCHIVES
+An archive of events that have concluded OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
+
 ### [CITCON](http://citconf.com/index.php) {{UnConference}}
 + __Info__:: CITCON, the Continuous Integration and Testing Conference, is a world-wide series of free Open Spaces events for developer-testers, tester-developers and anyone else with an interest in Continuous Integration and the type of Testing that goes along with it.
 + __Date & Venue__:: 
@@ -54,11 +62,11 @@ __{{NotaBene: The listing will be moved to the `Archive` section when either the
 + __CFP__:: Its an OpenSpace UnConference where anyone can talk. First Come, First Served.
 + __Diversity__:: Free Event.
 
-
-----
-
-# ARCHIVES
-An archive of events that have concluded OR whose call for proposals (CFP) has **CLOSED** - check their website for registration ticket information.
+### [DjangoCon Europe](http://2016.djangocon.eu/) 
++ __Info__:: DjangoCon-EU has lined up [mentors](http://2016.djangocon.eu/proposals/speaker-mentors/) to help you submit proposals for the European version of DjangoCon.
++ __Date & Venue__:: 2016Mar30-Apr01, @ Budapest, Hungary.
++ __CFP__:: Submit your proposal by [2016Jan14, 23:59:59 CEST](https://2016.djangocon.eu/cfp/).
++ __Diversity__:: They offer financial assistance that covers speaker hotel and conference pass.
 
 ### [SnowCamp](http://snowcamp.io/2016/en)
 + __Info__:: SnowCamp is a technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in professional development. 
